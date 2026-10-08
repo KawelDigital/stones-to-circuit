@@ -3,6 +3,6 @@ filename = "netstorage-0.3.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/KawelDigital/stones-to-circuit/releases/download/v1.1.1/netstorage-0.3.2.jar"
+url = "https://github.com/KawelDigital/stones-to-circuit/releases/download/v1.2.0/netstorage-0.3.2.jar"
 hash-format = "sha512"
-hash = "3c31e9c7f8264953f9677383a94f12cabda6903e5eb8845990c9419c6c1e2b5e2433d153419356674c04005baaf3c7c2e08327e6f9ce8a96c6d1ec661ac236bb"
+hash = "81226586792816bb716dc4b1de253768d600f8e5e3e719a206cad94efd5c427658d64672272cef2d4dbf4a7a3f9a860f75329c934edb7238190ce96e13404875"

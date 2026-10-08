@@ -1,7 +1,7 @@
 {
 	id: "758237FF811226C9"
-	group: ""
-	order_index: 27
+	group: "33E8D00E3D5A4A42"
+	order_index: 32
 	filename: "crafting"
 	icon: {
 		id: "netstorage:auto_crafter"
@@ -13,6 +13,8 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			shape: "hexagon"
+			dependencies: ["1F9A7F7644B7F133"]
 			id: "1DBBEBFDB44B7883"
 			tasks: [
 				{
@@ -120,6 +122,7 @@
 		{
 			x: 10.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["7D6B95E4F7B8EE61"]
 			id: "292E805A7A5594FF"
 			tasks: [

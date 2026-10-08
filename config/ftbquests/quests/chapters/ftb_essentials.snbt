@@ -1,7 +1,7 @@
 {
 	id: "54E3326757060162"
-	group: ""
-	order_index: 8
+	group: "520042A0F9159BC8"
+	order_index: 6
 	filename: "ftb_essentials"
 	icon: {
 		id: "minecraft:compass"
@@ -17,6 +17,8 @@
 				id: "minecraft:compass"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["03E963198ED866AB"]
 			id: "5D609102E9BACF6B"
 			tasks: [
 				{

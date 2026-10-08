@@ -1,7 +1,7 @@
 {
 	id: "1B895F9B122D1E4F"
-	group: ""
-	order_index: 13
+	group: "2EAA9718BAF5A32A"
+	order_index: 18
 	filename: "pnc"
 	icon: {
 		id: "pneumaticcraft:pressure_chamber_wall"
@@ -17,6 +17,8 @@
 				id: "pneumaticcraft:pressure_chamber_wall"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["66F7A43E2C7B7EEB"]
 			id: "5D5F7B523659DD6A"
 			tasks: [
 				{
@@ -106,6 +108,7 @@
 		{
 			x: 8.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["7EC8B6ADC08EAF44"]
 			optional: true
 			id: "6330FC5400DA7760"

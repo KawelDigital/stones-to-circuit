@@ -1,6 +1,6 @@
 {
 	id: "181EA246AB020E37"
-	group: ""
+	group: "520042A0F9159BC8"
 	order_index: 0
 	filename: "willkommen"
 	icon: {
@@ -17,6 +17,7 @@
 				id: "minecraft:nether_star"
 				count: 1
 			}
+			shape: "hexagon"
 			id: "308BE00A58EBCB9A"
 			tasks: [
 				{
@@ -147,10 +148,34 @@
 			x: 10.0d
 			y: 2.0d
 			icon: {
-				id: "minecraft:diamond"
+				id: "minecraft:compass"
 				count: 1
 			}
 			dependencies: ["5942A302995891DF"]
+			id: "0A93E895AE82CB2D"
+			tasks: [
+				{
+					id: "16594788D2C3B42A"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "22F65230F7A68159"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			icon: {
+				id: "minecraft:diamond"
+				count: 1
+			}
+			shape: "gear"
+			dependencies: ["0A93E895AE82CB2D"]
 			optional: true
 			id: "208FC35B1FF1A894"
 			tasks: [

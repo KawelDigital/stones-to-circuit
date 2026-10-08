@@ -1,7 +1,7 @@
 {
 	id: "04A8EEB70DFF77BC"
-	group: ""
-	order_index: 29
+	group: "46126DD1082E0B5F"
+	order_index: 34
 	filename: "occultism"
 	icon: {
 		id: "occultism:chalk_white"
@@ -17,6 +17,8 @@
 				id: "occultism:chalk_white"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["47AF4053E1EE4182"]
 			id: "32F3EF8649E214E7"
 			tasks: [
 				{
@@ -77,6 +79,7 @@
 		{
 			x: 6.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["571955F20710B008"]
 			id: "5E564806490D49CB"
 			tasks: [

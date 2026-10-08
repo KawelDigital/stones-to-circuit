@@ -1,7 +1,7 @@
 {
 	id: "4A812755EB365A46"
-	group: ""
-	order_index: 26
+	group: "33E8D00E3D5A4A42"
+	order_index: 31
 	filename: "netzwerk"
 	icon: {
 		id: "netstorage:network_storage"
@@ -13,6 +13,8 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			shape: "hexagon"
+			dependencies: ["4D64447B737D4B91", "3ADAEE4B08A6F891"]
 			id: "42569E9AC9D7E08E"
 			tasks: [
 				{
@@ -223,6 +225,7 @@
 		{
 			x: 4.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["752F1645B279FB57"]
 			id: "1F9A7F7644B7F133"
 			tasks: [

@@ -1,6 +1,6 @@
 {
 	id: "7159898BEC7C09F1"
-	group: ""
+	group: "65C0B44F87F02125"
 	order_index: 36
 	filename: "experten"
 	icon: {
@@ -17,6 +17,8 @@
 				id: "minecraft:redstone_block"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["292E805A7A5594FF", "3F4B35B0EDEFF6F7"]
 			id: "3AB7F1E8A6DE5375"
 			tasks: [
 				{
@@ -115,6 +117,7 @@
 		{
 			x: 10.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["04CC2EDA48DAFA6B"]
 			optional: true
 			id: "79F9FF837DC5B45E"

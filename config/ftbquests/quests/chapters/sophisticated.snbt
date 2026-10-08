@@ -1,7 +1,7 @@
 {
 	id: "79ED7686BA3150E4"
-	group: ""
-	order_index: 23
+	group: "33E8D00E3D5A4A42"
+	order_index: 28
 	filename: "sophisticated"
 	icon: {
 		id: "sophisticatedbackpacks:backpack"
@@ -17,6 +17,8 @@
 				id: "sophisticatedbackpacks:backpack"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["66F7A43E2C7B7EEB"]
 			id: "35673541ECF4BDC6"
 			tasks: [
 				{
@@ -104,6 +106,7 @@
 		{
 			x: 8.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["10A3AC6A8E6BDAAD"]
 			id: "1E538D6FD1918C05"
 			tasks: [

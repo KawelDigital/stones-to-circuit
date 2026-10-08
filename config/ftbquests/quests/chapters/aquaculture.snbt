@@ -1,7 +1,7 @@
 {
 	id: "0B8027E9B5370E6A"
-	group: ""
-	order_index: 33
+	group: "32A77FA390384E86"
+	order_index: 12
 	filename: "aquaculture"
 	icon: {
 		id: "aquaculture:iron_fishing_rod"
@@ -17,6 +17,8 @@
 				id: "aquaculture:iron_fishing_rod"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["13D279A0D4EF176B"]
 			id: "1D9AA1EA98A1D7EB"
 			tasks: [
 				{
@@ -81,6 +83,7 @@
 		{
 			x: 6.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["2F43A10855561BC2"]
 			id: "34D3DEB02B68B14A"
 			tasks: [

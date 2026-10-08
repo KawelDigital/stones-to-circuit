@@ -1,7 +1,7 @@
 {
 	id: "0F41D5CEC3BD9534"
-	group: ""
-	order_index: 6
+	group: "520042A0F9159BC8"
+	order_index: 4
 	filename: "ftb_chunks"
 	icon: {
 		id: "minecraft:filled_map"
@@ -17,6 +17,8 @@
 				id: "minecraft:filled_map"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["62430430C93CC913"]
 			id: "2919955D6FC2C2C3"
 			tasks: [
 				{

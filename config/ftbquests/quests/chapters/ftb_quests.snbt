@@ -1,7 +1,7 @@
 {
 	id: "14BD852AA96B50AF"
-	group: ""
-	order_index: 4
+	group: "520042A0F9159BC8"
+	order_index: 2
 	filename: "ftb_quests"
 	icon: {
 		id: "ftbquests:book"
@@ -13,6 +13,8 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			shape: "hexagon"
+			dependencies: ["208FC35B1FF1A894"]
 			id: "1924333656A3DC1A"
 			tasks: [
 				{

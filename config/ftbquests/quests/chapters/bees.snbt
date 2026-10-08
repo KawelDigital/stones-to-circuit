@@ -1,7 +1,7 @@
 {
 	id: "6D991909CAA455D2"
-	group: ""
-	order_index: 32
+	group: "32A77FA390384E86"
+	order_index: 11
 	filename: "bees"
 	icon: {
 		id: "productivebees:centrifuge"
@@ -17,6 +17,8 @@
 				id: "productivebees:centrifuge"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["507F3A2986B78B0C"]
 			id: "136074412A6AF99A"
 			tasks: [
 				{
@@ -81,6 +83,7 @@
 		{
 			x: 6.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["77C4DC285FE31949"]
 			id: "2E5436D89602DC13"
 			tasks: [

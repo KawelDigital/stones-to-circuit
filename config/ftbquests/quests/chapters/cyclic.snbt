@@ -1,7 +1,7 @@
 {
 	id: "562B1BA6EB863329"
-	group: ""
-	order_index: 18
+	group: "2EAA9718BAF5A32A"
+	order_index: 23
 	filename: "cyclic"
 	icon: {
 		id: "cyclic:crafter"
@@ -17,6 +17,8 @@
 				id: "cyclic:crafter"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["66F7A43E2C7B7EEB"]
 			id: "064501ED1B16112B"
 			tasks: [
 				{
@@ -173,6 +175,7 @@
 		{
 			x: 8.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["6312ACA8B107E257"]
 			optional: true
 			id: "5C6686AD941CAFA2"

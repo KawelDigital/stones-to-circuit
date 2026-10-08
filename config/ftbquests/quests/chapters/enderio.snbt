@@ -1,7 +1,7 @@
 {
 	id: "7A46ADF0010DA400"
-	group: ""
-	order_index: 15
+	group: "2EAA9718BAF5A32A"
+	order_index: 20
 	filename: "enderio"
 	icon: {
 		id: "enderio:alloy_smelter"
@@ -17,6 +17,8 @@
 				id: "enderio:alloy_smelter"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["66F7A43E2C7B7EEB"]
 			id: "4ABCBBE1DE2FB02D"
 			tasks: [
 				{
@@ -262,6 +264,7 @@
 		{
 			x: 2.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["3CF7C2315DEB2F95"]
 			optional: true
 			id: "4645750B422DC8E7"

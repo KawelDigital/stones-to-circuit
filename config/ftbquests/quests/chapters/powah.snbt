@@ -1,7 +1,7 @@
 {
 	id: "091F443D16F9D169"
-	group: ""
-	order_index: 14
+	group: "2EAA9718BAF5A32A"
+	order_index: 19
 	filename: "powah"
 	icon: {
 		id: "powah:energizing_orb"
@@ -17,6 +17,8 @@
 				id: "powah:energizing_orb"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["3F4B35B0EDEFF6F7"]
 			id: "11FE1C8466F82FD1"
 			tasks: [
 				{
@@ -151,6 +153,7 @@
 		{
 			x: 10.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["75C031DB330E3E16"]
 			id: "3CF7020356467771"
 			tasks: [

@@ -1,7 +1,7 @@
 {
 	id: "33CD4FEA76EE5F74"
-	group: ""
-	order_index: 5
+	group: "520042A0F9159BC8"
+	order_index: 3
 	filename: "ftb_teams"
 	icon: {
 		id: "minecraft:player_head"
@@ -17,6 +17,8 @@
 				id: "minecraft:player_head"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["39EC6618D6AFBA6E"]
 			id: "2B8F95EA437F0F89"
 			tasks: [
 				{

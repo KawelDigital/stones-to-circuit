@@ -1,7 +1,7 @@
 {
 	id: "32F4545024F13413"
-	group: ""
-	order_index: 21
+	group: "33E8D00E3D5A4A42"
+	order_index: 26
 	filename: "ae2"
 	icon: {
 		id: "ae2:controller"
@@ -17,6 +17,8 @@
 				id: "ae2:controller"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["3F4B35B0EDEFF6F7"]
 			id: "0F8AA8E9291621DB"
 			tasks: [
 				{
@@ -504,6 +506,7 @@
 				id: "ae2:terminal"
 				count: 1
 			}
+			shape: "gear"
 			dependencies: ["15A2A7A0D37C1660"]
 			optional: true
 			id: "3ADAEE4B08A6F891"

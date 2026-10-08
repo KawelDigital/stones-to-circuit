@@ -1,7 +1,7 @@
 {
 	id: "30B09BFFB0295239"
-	group: ""
-	order_index: 12
+	group: "2EAA9718BAF5A32A"
+	order_index: 17
 	filename: "if"
 	icon: {
 		id: "industrialforegoing:machine_frame_simple"
@@ -17,6 +17,8 @@
 				id: "industrialforegoing:machine_frame_simple"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["3F4B35B0EDEFF6F7"]
 			id: "6AC96948A290FF5D"
 			tasks: [
 				{
@@ -155,6 +157,7 @@
 		{
 			x: 10.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["25E3942A7B23FC2A"]
 			optional: true
 			id: "7F3F7F4890A8292A"

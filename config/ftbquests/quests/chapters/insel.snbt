@@ -1,6 +1,6 @@
 {
 	id: "5D323C2CD7C4B9E0"
-	group: ""
+	group: "520042A0F9159BC8"
 	order_index: 1
 	filename: "insel"
 	icon: {
@@ -17,6 +17,8 @@
 				id: "minecraft:chest"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["208FC35B1FF1A894"]
 			id: "2BB2BF8C3DF111A0"
 			tasks: [
 				{
@@ -128,6 +130,7 @@
 		{
 			x: 10.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["496AE64A8F8EF215"]
 			id: "67025D911337A03B"
 			tasks: [

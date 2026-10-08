@@ -1,7 +1,7 @@
 {
 	id: "7282B3ECA93D75BC"
-	group: ""
-	order_index: 25
+	group: "33E8D00E3D5A4A42"
+	order_index: 30
 	filename: "cc"
 	icon: {
 		id: "computercraft:computer_normal"
@@ -17,6 +17,8 @@
 				id: "computercraft:computer_normal"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["66F7A43E2C7B7EEB"]
 			id: "1FB75E7FF0C8EBBE"
 			tasks: [
 				{
@@ -276,6 +278,7 @@
 		{
 			x: 0.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["4C1717C54CB35E23"]
 			optional: true
 			id: "4D64447B737D4B91"

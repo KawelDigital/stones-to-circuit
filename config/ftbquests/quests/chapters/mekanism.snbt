@@ -1,7 +1,7 @@
 {
 	id: "10138904D2605D92"
-	group: ""
-	order_index: 10
+	group: "2EAA9718BAF5A32A"
+	order_index: 15
 	filename: "mekanism"
 	icon: {
 		id: "mekanism:enrichment_chamber"
@@ -17,6 +17,8 @@
 				id: "mekanism:enrichment_chamber"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["66F7A43E2C7B7EEB"]
 			id: "3B71DEF77F8A2AB7"
 			tasks: [
 				{
@@ -293,6 +295,7 @@
 		{
 			x: 0.0d
 			y: 4.0d
+			shape: "gear"
 			dependencies: ["4A6C1AD983B91BE3"]
 			optional: true
 			id: "3F4B35B0EDEFF6F7"

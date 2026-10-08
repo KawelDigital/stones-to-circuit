@@ -1,7 +1,7 @@
 {
 	id: "25CAB25C285B6B26"
-	group: ""
-	order_index: 30
+	group: "46126DD1082E0B5F"
+	order_index: 35
 	filename: "spells"
 	icon: {
 		id: "irons_spellbooks:iron_spell_book"
@@ -17,6 +17,8 @@
 				id: "irons_spellbooks:iron_spell_book"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["47AF4053E1EE4182"]
 			id: "5F8EA0588A1427C7"
 			tasks: [
 				{
@@ -81,6 +83,7 @@
 		{
 			x: 6.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["5687D33ACC35AF0B"]
 			id: "2B9F661E1902642C"
 			tasks: [

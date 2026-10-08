@@ -1,7 +1,7 @@
 {
 	id: "236B60E2B0F5F8EF"
-	group: ""
-	order_index: 11
+	group: "2EAA9718BAF5A32A"
+	order_index: 16
 	filename: "ie"
 	icon: {
 		id: "immersiveengineering:hammer"
@@ -17,6 +17,8 @@
 				id: "immersiveengineering:hammer"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["66F7A43E2C7B7EEB"]
 			id: "4CDA5AAA34D8626A"
 			tasks: [
 				{
@@ -233,6 +235,7 @@
 		{
 			x: 4.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["04F4398155EB440B"]
 			id: "4F662AAAD4EBC78C"
 			tasks: [

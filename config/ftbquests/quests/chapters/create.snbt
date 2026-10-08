@@ -1,7 +1,7 @@
 {
 	id: "22342087C3E31DF2"
-	group: ""
-	order_index: 9
+	group: "2EAA9718BAF5A32A"
+	order_index: 14
 	filename: "create"
 	icon: {
 		id: "create:cogwheel"
@@ -17,6 +17,8 @@
 				id: "create:cogwheel"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["526DFF6A2FA8AC32"]
 			id: "3E03ED5DCEF6E61F"
 			tasks: [
 				{
@@ -402,6 +404,7 @@
 		{
 			x: 8.0d
 			y: 4.0d
+			shape: "gear"
 			dependencies: ["34CCECF74E90B232"]
 			id: "66F7A43E2C7B7EEB"
 			tasks: [

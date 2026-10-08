@@ -1,4 +1,10 @@
 {
+	"chapter_group.520042A0F9159BC8.title": "Erste Schritte"
+	"chapter_group.32A77FA390384E86.title": "Ressourcen und Natur"
+	"chapter_group.2EAA9718BAF5A32A.title": "Technik und Energie"
+	"chapter_group.33E8D00E3D5A4A42.title": "Lager und Computer"
+	"chapter_group.46126DD1082E0B5F.title": "Magie"
+	"chapter_group.65C0B44F87F02125.title": "Experten"
 	"quest.308BE00A58EBCB9A.title": "Willkommen bei Stones to Circuit!"
 	"quest.308BE00A58EBCB9A.quest_desc": [
 		"Schön, dass du da bist! Dieses Pack ist eine Reise von der kleinen Insel im Ozean bis zur vollautomatischen Computer-Fabrik."
@@ -22,10 +28,12 @@
 		"JEI zeigt dir alle Gegenstände und Rezepte. Du brauchst es ständig, deshalb lernst du es zuerst."
 		""
 		"• Maus über einen Gegenstand halten und R drücken: So stellt man ihn her."
+		""
 		"• U drücken: Wofür man ihn braucht."
+		""
 		"• Mit dem Textfeld unten durchsuchst du die Liste."
 		""
-		"Tipp: Das Pack ist groß. Wenn du nicht weißt, wie etwas geht, frag zuerst JEI."
+		"&e&lTipp:&r&f Das Pack ist groß. Wenn du nicht weißt, wie etwas geht, frag zuerst JEI."
 	]
 	"quest.5526B75543C0038E.title": "Jade und AppleSkin"
 	"quest.5526B75543C0038E.quest_desc": [
@@ -42,10 +50,32 @@
 	"quest.5942A302995891DF.title": "Tipps für Einsteiger"
 	"quest.5942A302995891DF.quest_desc": [
 		"• Das Pack legt automatisch Sicherungen deiner Welt an (FTB Backups)."
+		""
 		"• Trage immer Fackeln, Essen und eine Spitzhacke bei dir."
+		""
 		"• Baue früh ein Bett und eine Truhe."
+		""
 		"• Wenn du nicht weiter weißt: Schau ins Kapitel der jeweiligen Mod."
+		""
 		"• Alle Quests sind freiwillig. Überspringe, was dich nicht interessiert."
+	]
+	"quest.0A93E895AE82CB2D.title": "Dein Weg durch das Pack"
+	"quest.0A93E895AE82CB2D.quest_desc": [
+		"Das Buch führt dich Schritt für Schritt. Jedes Kapitel baut auf dem vorherigen auf und erklärt eine Mod von den Grundlagen bis zur Automatisierung."
+		""
+		"1. Erste Schritte: JEI, Karte, die Startinsel und die FTB-Mods."
+		""
+		"2. Ressourcen: Sieben mit Ex Deorum, Ex Compressum, dazu Farmen, Bienen, Angeln, Kochen."
+		""
+		"3. Technik: Create, dann Mekanism, Immersive Engineering und die weiteren Maschinen-Mods."
+		""
+		"4. Lager und Computer: Applied Energistics 2, Refined Storage, CC: Tweaked, unser Netzwerkspeicher und Auto-Crafting."
+		""
+		"5. Magie: Ars Nouveau, Occultism und Zauberbücher."
+		""
+		"6. Experten: vollautomatische Fabriken und Turtles."
+		""
+		"&e&lTipp:&r&f Die Pfeile zwischen den Kapiteln sind Empfehlungen. Du kannst jederzeit springen, aber in dieser Reihenfolge fehlt dir nie ein Material oder Wissen."
 	]
 	"quest.208FC35B1FF1A894.title": "Für Fortgeschrittene"
 	"quest.208FC35B1FF1A894.quest_desc": [
@@ -61,6 +91,8 @@
 		"Auf deiner Insel steht eine Truhe mit Starter-Ausrüstung: Setzlinge, Knochenmehl, Brot, Fackeln und die ersten Werkzeuge der Siebe (Krücke, Hammer, Sieb, Netz, Fass, Tiegel)."
 		""
 		"Nimm alles heraus. Das Questbuch ist auch dabei."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Willkommen auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.41AAE0585ECEC060.title": "Holz anbauen"
 	"quest.41AAE0585ECEC060.quest_desc": [
@@ -82,15 +114,129 @@
 	"quest.67025D911337A03B.quest_desc": [
 		"Deine Insel ist klein. Platziere Blöcke am Rand, um sie zu vergrößern. Bruchstein, Erde und Sand bekommst du durch Sieben (siehe Kapitel Ex Deorum)."
 		""
-		"Achtung: Monster erscheinen im Dunkeln. Beleuchte die Insel mit Fackeln."
+		"&c&lAchtung:&r&f Monster erscheinen im Dunkeln. Beleuchte die Insel mit Fackeln."
 	]
 	"chapter.5D323C2CD7C4B9E0.title": "Die Startinsel"
 	"chapter.5D323C2CD7C4B9E0.chapter_subtitle": ["Dein erster Boden im Ozean."]
+	"quest.1924333656A3DC1A.title": "Was ist FTB Quests?"
+	"quest.1924333656A3DC1A.quest_desc": [
+		"FTB Quests ist die Mod hinter diesem Buch. Quests sind Aufgaben mit Belohnungen. In diesem Pack sind sie dein Tutorial."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Willkommen auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.71CEE246152EDAFD.title": "Gemeinsamer Fortschritt"
+	"quest.71CEE246152EDAFD.quest_desc": [
+		"Dein Fortschritt gehört deinem Team. Spielst du mit einem Freund im selben Team, zählen erledigte Quests für beide."
+	]
+	"quest.39EC6618D6AFBA6E.title": "Eigene Quests bauen (Experten)"
+	"quest.39EC6618D6AFBA6E.quest_desc": [
+		"Als Operator kannst du das Questbuch im Spiel bearbeiten (Stift-Knopf oben rechts)."
+		""
+		"&c&lAchtung:&r&f Beim nächsten Pack-Update werden die Quest-Dateien überschrieben. Sichere eigene Änderungen vorher."
+	]
+	"chapter.14BD852AA96B50AF.title": "FTB Quests"
+	"chapter.14BD852AA96B50AF.chapter_subtitle": ["Das Questbuch, das du gerade benutzt."]
+	"quest.2B8F95EA437F0F89.title": "Teams"
+	"quest.2B8F95EA437F0F89.quest_desc": [
+		"Mit FTB Teams spielst du gemeinsam mit Freunden: Fortschritt, Claims und mehr gehören dem Team."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf FTB Quests auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.6978AED7C3C7047C.title": "Ein Team gründen"
+	"quest.6978AED7C3C7047C.quest_desc": [
+		"Öffne die Team-Verwaltung (Knopf im Inventar-Bildschirm) und gründe ein Team. Dort lädst du auch Freunde ein."
+	]
+	"quest.62430430C93CC913.title": "Einen Freund einladen"
+	"quest.62430430C93CC913.quest_desc": [
+		"Lade deinen Freund in dein Team ein. Er nimmt die Einladung im Chat oder im Team-Menü an."
+	]
+	"chapter.33CD4FEA76EE5F74.title": "FTB Teams"
+	"chapter.33CD4FEA76EE5F74.chapter_subtitle": ["Zusammen spielen, zusammen bauen."]
+	"quest.2919955D6FC2C2C3.title": "Die Karte"
+	"quest.2919955D6FC2C2C3.quest_desc": [
+		"FTB Chunks bringt eine Karte mit. Auf der großen Karte kannst du Chunks (16x16-Blöcke) anklicken und beanspruchen."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf FTB Teams auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.73F32287B360331E.title": "Land beanspruchen"
+	"quest.73F32287B360331E.quest_desc": [
+		"Beanspruche Chunks, um dein Land vor Fremden und Explosionen zu schützen. Es gibt ein Limit, wähle mit Bedacht."
+	]
+	"quest.50E8A24DE7E57632.title": "Chunks geladen halten"
+	"quest.50E8A24DE7E57632.quest_desc": [
+		"Maschinen arbeiten normalerweise nur, solange du in der Nähe bist. Mit FTB Chunks kannst du Chunks dauerhaft laden: Sie laufen auch, wenn du weg bist."
+		""
+		"Wichtig für Fabriken, Turtles und Computer."
+	]
+	"chapter.0F41D5CEC3BD9534.title": "FTB Chunks"
+	"chapter.0F41D5CEC3BD9534.chapter_subtitle": ["Schütze dein Land."]
+	"quest.4C75263053F4B687.title": "Ultimine"
+	"quest.4C75263053F4B687.quest_desc": [
+		"Mit Ultimine baust du ganze Erzadern, Bäume oder Flächen auf einmal ab. Halte dazu die Ultimine-Taste gedrückt, während du einen Block abbaust. Die Taste legst du in den Steuerungs-Einstellungen fest."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf FTB Chunks auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.03E963198ED866AB.title": "Die Form wählen"
+	"quest.03E963198ED866AB.quest_desc": [
+		"Es gibt verschiedene Formen (zum Beispiel Schacht oder Fläche). Je mehr Blöcke du auf einmal abbaust, desto mehr Hunger bekommst du und desto schneller verschleißt dein Werkzeug."
+	]
+	"chapter.53BF1D5DAEDFBB6A.title": "FTB Ultimine"
+	"chapter.53BF1D5DAEDFBB6A.chapter_subtitle": ["Ganze Adern und Bäume auf einmal abbauen."]
+	"quest.5D609102E9BACF6B.title": "Hilfreiche Befehle"
+	"quest.5D609102E9BACF6B.quest_desc": [
+		"FTB Essentials bringt nützliche Chat-Befehle:"
+		""
+		"• /sethome und /home: Merke dir einen Ort und teleportiere dich dorthin."
+		""
+		"• /back: Zurück zum letzten Ort (zum Beispiel nach dem Tod)."
+		""
+		"• /kit: Ausrüstungs-Pakete (falls vom Betreiber eingerichtet)."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf FTB Ultimine auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.20CD25FB90F60830.title": "Dein Zuhause festlegen"
+	"quest.20CD25FB90F60830.quest_desc": ["Stelle dich auf deine Insel und tippe /sethome."]
+	"chapter.54E3326757060162.title": "FTB Essentials"
+	"chapter.54E3326757060162.chapter_subtitle": ["Heimat, Teleport und mehr."]
+	"quest.10B6B7F1961C4831.title": "Gut zu wissen"
+	"quest.10B6B7F1961C4831.quest_desc": [
+		"In diesem Kapitel stehen Mods, die das Leben leichter machen. Alles hier ist freiwillig."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Die Startinsel auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.62739BC963175848.title": "Waystones"
+	"quest.62739BC963175848.quest_desc": [
+		"Waystones sind Teleport-Steine. Aktiviere einen, indem du ihn anklickst, und teleportiere dich später dorthin."
+	]
+	"quest.759C95F19E7738BC.title": "Lootr"
+	"quest.759C95F19E7738BC.quest_desc": [
+		"Lootr macht Truhen in Strukturen für jeden Spieler einzeln. Jeder bekommt seine eigene Beute, niemand nimmt dem anderen etwas weg."
+	]
+	"quest.3855C77A3E7CE79F.title": "Carry On"
+	"quest.3855C77A3E7CE79F.quest_desc": [
+		"Mit Carry On trägst du Truhen und Tiere in den Händen: Drücke die Taste (Schleichen und Rechtsklick mit leeren Händen) auf den Block."
+	]
+	"quest.5FB580EE319FDFA1.title": "Curios"
+	"quest.5FB580EE319FDFA1.quest_desc": [
+		"Curios gibt dir zusätzliche Plätze für Schmuck und Zubehör (Ringe, Amulette, Rucksäcke). Du siehst die Plätze im Inventar-Fenster."
+	]
+	"quest.00D0D05B5C015A2C.title": "Inventar sortieren"
+	"quest.00D0D05B5C015A2C.quest_desc": [
+		"Inventory Profiles Next sortiert dein Inventar mit einem Knopf oder einer Taste und kann Gegenstände automatisch verschieben."
+	]
+	"quest.43C10266C3CBA7F7.title": "Polymorph"
+	"quest.43C10266C3CBA7F7.quest_desc": [
+		"Polymorph löst Rezept-Konflikte: Wenn mehrere Mods dasselbe Rezept haben, kannst du im Fenster das gewünschte Ergebnis auswählen."
+	]
+	"chapter.2F8F8381F85DFC1B.title": "Praktische Helfer"
+	"chapter.2F8F8381F85DFC1B.chapter_subtitle": ["Kleine Mods, die das Spielen angenehmer machen."]
 	"quest.7D98328A09325F03.title": "Das Prinzip: Sieben"
 	"quest.7D98328A09325F03.quest_desc": [
 		"Ex Deorum ist die Grundlage deiner Ressourcen. Statt Erz im Boden zu suchen, siebst du Blöcke wie Erde, Kies, Sand oder Staub durch ein Netz. Das Netz bestimmt, was du bekommst."
 		""
 		"Die Reihenfolge: Krücke und Hammer herstellen, ein Sieb bauen, mit dem richtigen Netz Erze und Gegenstände herausfiltern."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Die Startinsel auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.518C08B493A9BC5D.title": "Die Krücke (Crook)"
 	"quest.518C08B493A9BC5D.quest_desc": [
@@ -141,6 +287,8 @@
 	"quest.4789684066B39960.title": "Automatisierung des Siebens"
 	"quest.4789684066B39960.quest_desc": [
 		"Ex Compressum ergänzt Ex Deorum um Maschinen, die Sieben und Hämmern von selbst erledigen. Sie brauchen Energie oder Antrieb, je nach Modell."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ex Deorum auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.60D39E2FCF37F0EE.title": "Der automatische Hammer"
 	"quest.60D39E2FCF37F0EE.quest_desc": [
@@ -160,78 +308,89 @@
 	]
 	"chapter.1FB27789C776C49C.title": "Ex Compressum"
 	"chapter.1FB27789C776C49C.chapter_subtitle": ["Automatisch sieben und zerkleinern."]
-	"quest.1924333656A3DC1A.title": "Was ist FTB Quests?"
-	"quest.1924333656A3DC1A.quest_desc": [
-		"FTB Quests ist die Mod hinter diesem Buch. Quests sind Aufgaben mit Belohnungen. In diesem Pack sind sie dein Tutorial."
-	]
-	"quest.71CEE246152EDAFD.title": "Gemeinsamer Fortschritt"
-	"quest.71CEE246152EDAFD.quest_desc": [
-		"Dein Fortschritt gehört deinem Team. Spielst du mit einem Freund im selben Team, zählen erledigte Quests für beide."
-	]
-	"quest.39EC6618D6AFBA6E.title": "Eigene Quests bauen (Experten)"
-	"quest.39EC6618D6AFBA6E.quest_desc": [
-		"Als Operator kannst du das Questbuch im Spiel bearbeiten (Stift-Knopf oben rechts)."
+	"quest.11D146981CDAF65C.title": "Was ist Mystical Agriculture?"
+	"quest.11D146981CDAF65C.quest_desc": [
+		"Hier wächst Ressource auf dem Feld: Du pflanzt Samen (zum Beispiel für Eisen oder Diamant) und erntest Essenzen, aus denen du das Material herstellst."
 		""
-		"Achtung: Beim nächsten Pack-Update werden die Quest-Dateien überschrieben. Sichere eigene Änderungen vorher."
-	]
-	"chapter.14BD852AA96B50AF.title": "FTB Quests"
-	"chapter.14BD852AA96B50AF.chapter_subtitle": ["Das Questbuch, das du gerade benutzt."]
-	"quest.2B8F95EA437F0F89.title": "Teams"
-	"quest.2B8F95EA437F0F89.quest_desc": [
-		"Mit FTB Teams spielst du gemeinsam mit Freunden: Fortschritt, Claims und mehr gehören dem Team."
-	]
-	"quest.6978AED7C3C7047C.title": "Ein Team gründen"
-	"quest.6978AED7C3C7047C.quest_desc": [
-		"Öffne die Team-Verwaltung (Knopf im Inventar-Bildschirm) und gründe ein Team. Dort lädst du auch Freunde ein."
-	]
-	"quest.62430430C93CC913.title": "Einen Freund einladen"
-	"quest.62430430C93CC913.quest_desc": [
-		"Lade deinen Freund in dein Team ein. Er nimmt die Einladung im Chat oder im Team-Menü an."
-	]
-	"chapter.33CD4FEA76EE5F74.title": "FTB Teams"
-	"chapter.33CD4FEA76EE5F74.chapter_subtitle": ["Zusammen spielen, zusammen bauen."]
-	"quest.2919955D6FC2C2C3.title": "Die Karte"
-	"quest.2919955D6FC2C2C3.quest_desc": [
-		"FTB Chunks bringt eine Karte mit. Auf der großen Karte kannst du Chunks (16x16-Blöcke) anklicken und beanspruchen."
-	]
-	"quest.73F32287B360331E.title": "Land beanspruchen"
-	"quest.73F32287B360331E.quest_desc": [
-		"Beanspruche Chunks, um dein Land vor Fremden und Explosionen zu schützen. Es gibt ein Limit, wähle mit Bedacht."
-	]
-	"quest.50E8A24DE7E57632.title": "Chunks geladen halten"
-	"quest.50E8A24DE7E57632.quest_desc": [
-		"Maschinen arbeiten normalerweise nur, solange du in der Nähe bist. Mit FTB Chunks kannst du Chunks dauerhaft laden: Sie laufen auch, wenn du weg bist."
+		"Alles beginnt mit Inferium, der einfachsten Essenz."
 		""
-		"Wichtig für Fabriken, Turtles und Computer."
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ex Deorum auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
-	"chapter.0F41D5CEC3BD9534.title": "FTB Chunks"
-	"chapter.0F41D5CEC3BD9534.chapter_subtitle": ["Schütze dein Land."]
-	"quest.4C75263053F4B687.title": "Ultimine"
-	"quest.4C75263053F4B687.quest_desc": [
-		"Mit Ultimine baust du ganze Erzadern, Bäume oder Flächen auf einmal ab. Halte dazu die Ultimine-Taste gedrückt, während du einen Block abbaust. Die Taste legst du in den Steuerungs-Einstellungen fest."
+	"quest.24939110E67287AB.title": "Inferium-Essenz"
+	"quest.24939110E67287AB.quest_desc": [
+		"Inferium-Essenz gewinnst du aus Monster-Drops oder aus Feldfrüchten. Sie ist der Grundstoff für alle Samen."
 	]
-	"quest.03E963198ED866AB.title": "Die Form wählen"
-	"quest.03E963198ED866AB.quest_desc": [
-		"Es gibt verschiedene Formen (zum Beispiel Schacht oder Fläche). Je mehr Blöcke du auf einmal abbaust, desto mehr Hunger bekommst du und desto schneller verschleißt dein Werkzeug."
+	"quest.1EF5EFEDD7A22261.title": "Der Infusionsaltar"
+	"quest.1EF5EFEDD7A22261.quest_desc": [
+		"Am Altar stellst du Samen her: Du legst Zutaten auf Sockel rundherum."
 	]
-	"chapter.53BF1D5DAEDFBB6A.title": "FTB Ultimine"
-	"chapter.53BF1D5DAEDFBB6A.chapter_subtitle": ["Ganze Adern und Bäume auf einmal abbauen."]
-	"quest.5D609102E9BACF6B.title": "Hilfreiche Befehle"
-	"quest.5D609102E9BACF6B.quest_desc": [
-		"FTB Essentials bringt nützliche Chat-Befehle:"
-		"• /sethome und /home: Merke dir einen Ort und teleportiere dich dorthin."
-		"• /back: Zurück zum letzten Ort (zum Beispiel nach dem Tod)."
-		"• /kit: Ausrüstungs-Pakete (falls vom Betreiber eingerichtet)."
+	"quest.507F3A2986B78B0C.title": "Infusions-Sockel"
+	"quest.507F3A2986B78B0C.quest_desc": [
+		"Die Sockel stellen die Zutaten bereit. Du brauchst vier um den Altar."
 	]
-	"quest.20CD25FB90F60830.title": "Dein Zuhause festlegen"
-	"quest.20CD25FB90F60830.quest_desc": ["Stelle dich auf deine Insel und tippe /sethome."]
-	"chapter.54E3326757060162.title": "FTB Essentials"
-	"chapter.54E3326757060162.chapter_subtitle": ["Heimat, Teleport und mehr."]
+	"chapter.5228BBAA174C9C9C.title": "Mystical Agriculture"
+	"chapter.5228BBAA174C9C9C.chapter_subtitle": ["Ressourcen anbauen wie Weizen."]
+	"quest.136074412A6AF99A.title": "Was ist Productive Bees?"
+	"quest.136074412A6AF99A.quest_desc": [
+		"Bienen liefern hier nicht nur Honig: Es gibt Bienen für Erze, Kristalle und mehr. Mit Kreuzung entstehen neue Arten."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Mystical Agriculture auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.1A4D2D7A2CBE46F1.title": "Der Bienenkäfig"
+	"quest.1A4D2D7A2CBE46F1.quest_desc": ["Mit dem Käfig fängst du wilde Bienen ein."]
+	"quest.77C4DC285FE31949.title": "Ein Bienenstock"
+	"quest.77C4DC285FE31949.quest_desc": [
+		"Die erweiterten Bienenstöcke fassen mehr Bienen als die einfachen und liefern mehr."
+	]
+	"quest.2E5436D89602DC13.title": "Die Zentrifuge"
+	"quest.2E5436D89602DC13.quest_desc": [
+		"Die Zentrifuge zerlegt Waben in ihre Bestandteile: Honig, Wachs und Ressourcen."
+	]
+	"chapter.6D991909CAA455D2.title": "Productive Bees"
+	"chapter.6D991909CAA455D2.chapter_subtitle": ["Bienen, die Ressourcen herstellen."]
+	"quest.1D9AA1EA98A1D7EB.title": "Was ist Aquaculture?"
+	"quest.1D9AA1EA98A1D7EB.quest_desc": [
+		"Aquaculture bringt neue Fische, bessere Angeln und Köder. Auf deiner Ozean-Welt ist es eine wichtige Nahrungsquelle."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ex Deorum auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.0AF5431EF206203B.title": "Eine bessere Angel"
+	"quest.0AF5431EF206203B.quest_desc": ["Eisen-, Gold- und Diamantangeln fangen schneller und mehr."]
+	"quest.2F43A10855561BC2.title": "Die Angelkiste"
+	"quest.2F43A10855561BC2.quest_desc": ["In der Angelkiste lagerst du Köder und Zubehör."]
+	"quest.34D3DEB02B68B14A.title": "Fischfilet"
+	"quest.34D3DEB02B68B14A.quest_desc": [
+		"Fische kannst du zerlegen. Gegart ergibt das Filet sättigendes Essen."
+	]
+	"chapter.0B8027E9B5370E6A.title": "Aquaculture"
+	"chapter.0B8027E9B5370E6A.chapter_subtitle": ["Angeln im Ozean."]
+	"quest.7A0D131C57A03CBC.title": "Was ist Farmer's Delight?"
+	"quest.7A0D131C57A03CBC.quest_desc": [
+		"Farmer's Delight bringt Kochen: Kochtopf, Schneidebrett, Pfanne und viele neue Gerichte und Zutaten."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Aquaculture auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
+	]
+	"quest.5AB090F836C7CC34.title": "Der Kochtopf"
+	"quest.5AB090F836C7CC34.quest_desc": [
+		"Stelle den Kochtopf auf eine Hitzequelle (zum Beispiel ein Lagerfeuer) und koche Gerichte aus mehreren Zutaten."
+	]
+	"quest.419A58D8B53ADF5E.title": "Das Schneidebrett"
+	"quest.419A58D8B53ADF5E.quest_desc": ["Auf dem Brett schneidest du Zutaten mit dem Messer."]
+	"quest.06D687DF94CC89EA.title": "Die Pfanne"
+	"quest.06D687DF94CC89EA.quest_desc": ["In der Pfanne brätst du Fleisch und Eier."]
+	"quest.3FBAF7D9BCDD56C0.title": "Reis und Tomaten"
+	"quest.3FBAF7D9BCDD56C0.quest_desc": [
+		"Reis wächst im flachen Wasser, Tomaten an Stangen. Beides sind Grundzutaten vieler Gerichte."
+	]
+	"chapter.30360B0C359B9730.title": "Farmer's Delight"
+	"chapter.30360B0C359B9730.chapter_subtitle": ["Kochen und Landwirtschaft."]
 	"quest.3E03ED5DCEF6E61F.title": "Was ist Create?"
 	"quest.3E03ED5DCEF6E61F.quest_desc": [
 		"Create ist eine Mod für mechanische Maschinen. Statt Strom nutzt du Drehkraft (Stress): Wasserräder, Windmühlen oder Dampfmaschinen drehen Wellen und Zahnräder, an denen Maschinen hängen."
 		""
 		"Das Wichtigste vorab: Schau dir im Spiel die Ponder-Anleitungen an. Halte W über einem Gegenstand und klicke ihn an (oder drücke W über dem Gegenstand in JEI)."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ex Compressum auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.7EB04C2AA6832FFB.title": "Andesit-Legierung"
 	"quest.7EB04C2AA6832FFB.quest_desc": [
@@ -306,6 +465,8 @@
 		"Mekanism ist eine große Technik-Mod: Erz-Verarbeitung (mehrfache Ausbeute), Energie, Flüssigkeiten und Gase. Maschinen werden mit Strom (Joule) betrieben."
 		""
 		"Die meisten Maschinen kannst du mit dem Konfigurator an jeder Seite für Ein- und Ausgabe einstellen."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Create auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.2CCF8C3348634588.title": "Osmium"
 	"quest.2CCF8C3348634588.quest_desc": [
@@ -364,6 +525,8 @@
 		"IE bringt Strom (Flux) mit Freileitungen, Generatoren (Wasserrad, Windmühle, Dynamo) und große Mehrblock-Maschinen wie Brecher, Hochofen oder Raffinerie."
 		""
 		"Das Handbuch (Engineer's Manual) erklärt jede Maschine. Es liegt im Spiel in einem Rezept, schau mit JEI nach."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Create auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.1A57FD0C19D47DEC.title": "Der Ingenieurshammer"
 	"quest.1A57FD0C19D47DEC.quest_desc": [
@@ -404,6 +567,8 @@
 	"quest.6AC96948A290FF5D.title": "Was ist Industrial Foregoing?"
 	"quest.6AC96948A290FF5D.quest_desc": [
 		"Maschinen, die Tiere züchten, Pflanzen ernten, Monster töten und Material herstellen. Viele laufen mit Flüssigkeiten wie Latex oder Biokraftstoff."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Mekanism auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.60D32C81E1883AA9.title": "Das Handbuch"
 	"quest.60D32C81E1883AA9.quest_desc": [
@@ -436,6 +601,8 @@
 		"PneumaticCraft nutzt Druckluft für Maschinen, Roboter (Drohnen) und Werkzeuge. Du verdichtest Luft mit dem Luftkompressor und leitest sie durch Rohre."
 		""
 		"Das Handbuch (Tome of Pneumatics) erklärt alles Schritt für Schritt."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Create auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.1D26731B0FCFC711.title": "Der Luftkompressor"
 	"quest.1D26731B0FCFC711.quest_desc": [
@@ -456,6 +623,8 @@
 	"quest.11FE1C8466F82FD1.title": "Was ist Powah?"
 	"quest.11FE1C8466F82FD1.quest_desc": [
 		"Powah erzeugt viel Strom mit einfachen Generatoren: Magmator (Lava), Solarpaneel, Thermo-Generator und Reaktor. Dazu gibt es Energiezellen und Kabel in sechs Stufen."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Mekanism auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.7A747E7F3C91C7D6.title": "Das Handbuch"
 	"quest.7A747E7F3C91C7D6.quest_desc": ["Das Powah-Handbuch erklärt jede Stufe im Detail."]
@@ -476,6 +645,8 @@
 	"quest.4ABCBBE1DE2FB02D.title": "Was ist Ender IO?"
 	"quest.4ABCBBE1DE2FB02D.quest_desc": [
 		"Ender IO bringt Maschinen mit Rohstoff-Veredelung, Legierungen und Konduits (platzsparende Leitungen für Strom, Gegenstände und Flüssigkeiten). Wie bei den meisten Technik-Mods brauchst du zuerst Strom."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Create auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.6B03BE99AC4AB3D3.title": "Der Legierungsofen"
 	"quest.6B03BE99AC4AB3D3.quest_desc": [
@@ -522,6 +693,8 @@
 	"quest.0BF819540E4CB0FD.title": "Was ist Modern Industrialization?"
 	"quest.0BF819540E4CB0FD.quest_desc": [
 		"MI führt dich in Stufen vom Dampfzeitalter über Strom zu großen Mehrblock-Maschinen. Wichtig: Es gibt drei Stufen von Maschinen (Bronze/Dampf, Stahl, Elektrisch). Das Handbuch im Spiel (Guidebook) und JEI erklären die Rezepte."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ender IO auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.097AA98ACEE96149.title": "Der Schmiedehammer"
 	"quest.097AA98ACEE96149.quest_desc": [
@@ -574,6 +747,8 @@
 	"quest.2850CCDAEC7ED7C0.title": "Was ist Oritech?"
 	"quest.2850CCDAEC7ED7C0.quest_desc": [
 		"Oritech ist eine Technik-Mod mit einfachen Start-Maschinen und mächtigen Spätspiel-Anlagen (Teilchenbeschleuniger, Reaktoren, Tiefbohrer). Das Handbuch im Spiel führt dich Schritt für Schritt."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Modern Industrialization auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.6D24B1FE232C4A5E.title": "Nickel"
 	"quest.6D24B1FE232C4A5E.quest_desc": [
@@ -606,6 +781,8 @@
 	"quest.064501ED1B16112B.title": "Was ist Cyclic?"
 	"quest.064501ED1B16112B.quest_desc": [
 		"Cyclic ist eine Sammlung praktischer Dinge: Automatisierungs-Blöcke (Sammler, Ernter, Brecher), Energie-Blöcke, Ender-Gegenstände und viele kleine Werkzeuge."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Create auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.788A8DDEF27E76C9.title": "Der Auto-Crafter"
 	"quest.788A8DDEF27E76C9.quest_desc": [
@@ -640,6 +817,8 @@
 		"Integrated Dynamics ist eine 'Programmier-Mod' ohne Computer: Du liest Werte aus der Welt (zum Beispiel Inventar-Füllstand), verrechnest sie in Variablen und schaltest damit Dinge. Perfekt, wenn du CC magst, aber auch visuell arbeiten willst."
 		""
 		"Integrated Tunnels erweitert die Mod um Rohre, die Gegenstände, Flüssigkeiten und Energie bewegen."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Cyclic auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.6FDDB5EE915B6A0F.title": "Menril-Beeren"
 	"quest.6FDDB5EE915B6A0F.quest_desc": [
@@ -664,6 +843,8 @@
 	"quest.04AA47254E89C844.title": "Was ist EvilCraft?"
 	"quest.04AA47254E89C844.quest_desc": [
 		"EvilCraft ist eine Magie-Mod rund um Blut und dunkle Kräfte: Du gewinnst Blut, stellst dunkle Edelsteine her und bekommst besondere Gegenstände wie den Besen oder das Blut-Orb. Das Handbuch im Spiel führt dich."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Cyclic auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.328413E573E90C59.title": "Dunkle Edelsteine"
 	"quest.328413E573E90C59.quest_desc": [
@@ -692,6 +873,8 @@
 		"Applied Energistics 2 (AE2) verwandelt Gegenstände in digitale Daten. Du baust ein ME-Netzwerk aus Kabeln, Laufwerken und Terminals."
 		""
 		"Das Pack hat zwei digitale Lager: AE2 (diese Mod) und unseren Netzwerkspeicher (programmierbar mit CC). Beides kannst du parallel nutzen."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Mekanism auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.4A8C87770769F583.title": "Certus-Quarz"
 	"quest.4A8C87770769F583.quest_desc": [
@@ -772,6 +955,8 @@
 		"Refined Storage (RS) ist wie AE2 ein digitales Lager, aber einfacher aufgebaut. Alle Geräte hängen an Kabeln am Controller."
 		""
 		"Du kannst RS und AE2 gleichzeitig nutzen, sie funktionieren unabhängig."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Applied Energistics 2 auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.06EEC4C064FA5CC0.title": "Kabel und Controller"
 	"quest.06EEC4C064FA5CC0.quest_desc": [
@@ -802,6 +987,8 @@
 	"quest.35673541ECF4BDC6.title": "Was ist Sophisticated?"
 	"quest.35673541ECF4BDC6.quest_desc": [
 		"Sophisticated Storage und Sophisticated Backpacks bringen Truhen, Fässer und Rucksäcke mit Upgrades: Filter, automatisches Einsammeln, Magnet, Schmelzen und mehr."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Create auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.357046BB6CA56866.title": "Dein erster Rucksack"
 	"quest.357046BB6CA56866.quest_desc": [
@@ -824,6 +1011,8 @@
 	"quest.764B97B2FEDA09BB.title": "Schubladen"
 	"quest.764B97B2FEDA09BB.quest_desc": [
 		"Functional Storage bringt Schubladen: Jede Schublade speichert viele Gegenstände einer Sorte. Mit dem Schubladen-Controller verbindest du viele zu einem Lager."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Sophisticated Mods auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.191B6C71F9A01752.title": "Eine Schublade"
 	"quest.191B6C71F9A01752.quest_desc": [
@@ -854,6 +1043,8 @@
 		"CC: Tweaked bringt Computer ins Spiel, die du selbst programmierst. Die Sprache heißt Lua und ist leicht zu lernen."
 		""
 		"Mit Computern steuerst du Türen, Fabriken, Lager und sogar Roboter."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Create auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.3426AD433125D2DE.title": "Dein erster Computer"
 	"quest.3426AD433125D2DE.quest_desc": [
@@ -864,8 +1055,11 @@
 	"quest.278825F0235D6544.title": "Hallo Welt!"
 	"quest.278825F0235D6544.quest_desc": [
 		"Tippe: edit hallo"
+		""
 		"Schreibe in den Editor: print(\"Hallo Welt!\")"
+		""
 		"Speichern mit Strg und S, Beenden mit Strg und E (der Editor zeigt es unten an)."
+		""
 		"Tippe dann einfach: hallo"
 		""
 		"Gratuliere, dein erstes Programm läuft! Hilfe zu jedem Befehl: help <name>."
@@ -891,8 +1085,11 @@
 	"quest.1251EE40ECB8CD0E.title": "Die Turtle fährt los"
 	"quest.1251EE40ECB8CD0E.quest_desc": [
 		"Probiere im Terminal der Turtle:"
+		""
 		"• go forward 5 – fährt fünf Blöcke vor"
+		""
 		"• excavate 5 – gräbt ein Loch (braucht eine Spitzhacke)"
+		""
 		"• refuel – tankt mit Brennstoff aus dem Inventar"
 		""
 		"In Programmen: turtle.forward(), turtle.dig(), turtle.place()."
@@ -912,10 +1109,15 @@
 	"quest.4D64447B737D4B91.title": "Lua lernen"
 	"quest.4D64447B737D4B91.quest_desc": [
 		"Grundlagen:"
+		""
 		"• Variablen: local zahl = 5"
+		""
 		"• Ausgeben: print(\"Hallo\")"
+		""
 		"• Schleifen: for i = 1, 10 do print(i) end"
+		""
 		"• Bedingungen: if zahl > 3 then print(\"groß\") end"
+		""
 		"• Geräte: local m = peripheral.find(\"monitor\")"
 		""
 		"Das ausführliche Handbuch findest du im Netz unter tweaked.cc."
@@ -929,6 +1131,8 @@
 		"Der Netzwerkspeicher speichert Gegenstände digital: Statt Kisten voller Items hat er nur Zähler. Der einfache Speicher fasst 640.000 Gegenstände."
 		""
 		"Mehrere Blöcke nebeneinander bilden ein Netz. Scanner, Drucker und Crafter geben die Verbindung weiter."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf CC: Tweaked und Applied Energistics 2 auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.0D5A821E2413C4A5.title": "Der 3D-Scanner"
 	"quest.0D5A821E2413C4A5.quest_desc": [
@@ -967,9 +1171,13 @@
 		"Der Speicher lauscht auf Kanal 4242. Eine Turtle mit Ender-Modem kann Kohle anfordern oder ihre Gegenstände abgeben, ganz ohne Kisten."
 		""
 		"Beispiel (Turtle):"
+		""
 		"local m = peripheral.find(\"modem\")"
+		""
 		"m.open(4243)"
+		""
 		"m.transmit(4242, 4243, {type=\"netstorage:request\", item=\"minecraft:coal\", amount=32})"
+		""
 		"local _,_,_,_,antwort = os.pullEvent(\"modem_message\")"
 		""
 		"Zum Abgeben schickst du {type=\"netstorage:deposit\"}."
@@ -991,13 +1199,19 @@
 		"Fehlt eine Zutat, stellt er sie wenn möglich selbst her. Das Schmelzen holt den Brennstoff ebenfalls aus dem Speicher."
 		""
 		"Stelle ihn einfach neben den Netzwerkspeicher."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Netzwerkspeicher auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.36EAD365C30BC095.title": "Crafting per Lua"
 	"quest.36EAD365C30BC095.quest_desc": [
 		"local c = peripheral.find(\"auto_crafter\")"
+		""
 		"• c.craft(\"minecraft:torch\", 64) startet den Auftrag"
+		""
 		"• c.plan(\"minecraft:torch\", 64) prüft vorher, ob es klappt"
+		""
 		"• c.recipes(\"minecraft:furnace\") zeigt die Rezepte"
+		""
 		"• c.jobs() zeigt laufende Aufträge"
 	]
 	"quest.7D6B95E4F7B8EE61.title": "Craften im ME-Terminal"
@@ -1021,6 +1235,8 @@
 	"quest.70265D65743E28F0.title": "Was ist Ars Nouveau?"
 	"quest.70265D65743E28F0.quest_desc": [
 		"Ars Nouveau ist eine Magie-Mod, in der du Zauber aus Glyphen selbst zusammensetzt. Zauber brauchen Mana. Das Handbuch (Worn Notebook) erklärt alles Schritt für Schritt."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ex Deorum auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.69B13F465EEA0A56.title": "Das Notizbuch"
 	"quest.69B13F465EEA0A56.quest_desc": [
@@ -1055,6 +1271,8 @@
 	"quest.32F3EF8649E214E7.title": "Was ist Occultism?"
 	"quest.32F3EF8649E214E7.quest_desc": [
 		"Occultism ist eine Magie-Mod mit Ritualen: Du rufst Geister, lässt sie für dich arbeiten und stellst mächtige Gegenstände her. Das Geisterbuch (Dictionary of Spirits) erklärt alles."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ars Nouveau auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.195176B92CFB1C58.title": "Das Geisterbuch"
 	"quest.195176B92CFB1C58.quest_desc": [
@@ -1073,6 +1291,8 @@
 	"quest.5F8EA0588A1427C7.title": "Was ist Iron's Spells?"
 	"quest.5F8EA0588A1427C7.quest_desc": [
 		"Eine große Magie-Mod mit vielen Zaubern, Zauberbüchern, Schriftrollen und eigenen Bosse. Die Zauber nutzen Mana."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Ars Nouveau auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.21E95AF6A234265C.title": "Ein Zauberbuch"
 	"quest.21E95AF6A234265C.quest_desc": [
@@ -1086,107 +1306,11 @@
 	"quest.2B9F661E1902642C.quest_desc": ["Arkane Essenz ist die Zutat für Zauberausrüstung und Runen."]
 	"chapter.25CAB25C285B6B26.title": "Iron's Spells 'n Spellbooks"
 	"chapter.25CAB25C285B6B26.chapter_subtitle": ["Zauberbücher, Schriftrollen und eine RPG-Zauberwelt."]
-	"quest.11D146981CDAF65C.title": "Was ist Mystical Agriculture?"
-	"quest.11D146981CDAF65C.quest_desc": [
-		"Hier wächst Ressource auf dem Feld: Du pflanzt Samen (zum Beispiel für Eisen oder Diamant) und erntest Essenzen, aus denen du das Material herstellst."
-		""
-		"Alles beginnt mit Inferium, der einfachsten Essenz."
-	]
-	"quest.24939110E67287AB.title": "Inferium-Essenz"
-	"quest.24939110E67287AB.quest_desc": [
-		"Inferium-Essenz gewinnst du aus Monster-Drops oder aus Feldfrüchten. Sie ist der Grundstoff für alle Samen."
-	]
-	"quest.1EF5EFEDD7A22261.title": "Der Infusionsaltar"
-	"quest.1EF5EFEDD7A22261.quest_desc": [
-		"Am Altar stellst du Samen her: Du legst Zutaten auf Sockel rundherum."
-	]
-	"quest.507F3A2986B78B0C.title": "Infusions-Sockel"
-	"quest.507F3A2986B78B0C.quest_desc": [
-		"Die Sockel stellen die Zutaten bereit. Du brauchst vier um den Altar."
-	]
-	"chapter.5228BBAA174C9C9C.title": "Mystical Agriculture"
-	"chapter.5228BBAA174C9C9C.chapter_subtitle": ["Ressourcen anbauen wie Weizen."]
-	"quest.136074412A6AF99A.title": "Was ist Productive Bees?"
-	"quest.136074412A6AF99A.quest_desc": [
-		"Bienen liefern hier nicht nur Honig: Es gibt Bienen für Erze, Kristalle und mehr. Mit Kreuzung entstehen neue Arten."
-	]
-	"quest.1A4D2D7A2CBE46F1.title": "Der Bienenkäfig"
-	"quest.1A4D2D7A2CBE46F1.quest_desc": ["Mit dem Käfig fängst du wilde Bienen ein."]
-	"quest.77C4DC285FE31949.title": "Ein Bienenstock"
-	"quest.77C4DC285FE31949.quest_desc": [
-		"Die erweiterten Bienenstöcke fassen mehr Bienen als die einfachen und liefern mehr."
-	]
-	"quest.2E5436D89602DC13.title": "Die Zentrifuge"
-	"quest.2E5436D89602DC13.quest_desc": [
-		"Die Zentrifuge zerlegt Waben in ihre Bestandteile: Honig, Wachs und Ressourcen."
-	]
-	"chapter.6D991909CAA455D2.title": "Productive Bees"
-	"chapter.6D991909CAA455D2.chapter_subtitle": ["Bienen, die Ressourcen herstellen."]
-	"quest.1D9AA1EA98A1D7EB.title": "Was ist Aquaculture?"
-	"quest.1D9AA1EA98A1D7EB.quest_desc": [
-		"Aquaculture bringt neue Fische, bessere Angeln und Köder. Auf deiner Ozean-Welt ist es eine wichtige Nahrungsquelle."
-	]
-	"quest.0AF5431EF206203B.title": "Eine bessere Angel"
-	"quest.0AF5431EF206203B.quest_desc": ["Eisen-, Gold- und Diamantangeln fangen schneller und mehr."]
-	"quest.2F43A10855561BC2.title": "Die Angelkiste"
-	"quest.2F43A10855561BC2.quest_desc": ["In der Angelkiste lagerst du Köder und Zubehör."]
-	"quest.34D3DEB02B68B14A.title": "Fischfilet"
-	"quest.34D3DEB02B68B14A.quest_desc": [
-		"Fische kannst du zerlegen. Gegart ergibt das Filet sättigendes Essen."
-	]
-	"chapter.0B8027E9B5370E6A.title": "Aquaculture"
-	"chapter.0B8027E9B5370E6A.chapter_subtitle": ["Angeln im Ozean."]
-	"quest.7A0D131C57A03CBC.title": "Was ist Farmer's Delight?"
-	"quest.7A0D131C57A03CBC.quest_desc": [
-		"Farmer's Delight bringt Kochen: Kochtopf, Schneidebrett, Pfanne und viele neue Gerichte und Zutaten."
-	]
-	"quest.5AB090F836C7CC34.title": "Der Kochtopf"
-	"quest.5AB090F836C7CC34.quest_desc": [
-		"Stelle den Kochtopf auf eine Hitzequelle (zum Beispiel ein Lagerfeuer) und koche Gerichte aus mehreren Zutaten."
-	]
-	"quest.419A58D8B53ADF5E.title": "Das Schneidebrett"
-	"quest.419A58D8B53ADF5E.quest_desc": ["Auf dem Brett schneidest du Zutaten mit dem Messer."]
-	"quest.06D687DF94CC89EA.title": "Die Pfanne"
-	"quest.06D687DF94CC89EA.quest_desc": ["In der Pfanne brätst du Fleisch und Eier."]
-	"quest.3FBAF7D9BCDD56C0.title": "Reis und Tomaten"
-	"quest.3FBAF7D9BCDD56C0.quest_desc": [
-		"Reis wächst im flachen Wasser, Tomaten an Stangen. Beides sind Grundzutaten vieler Gerichte."
-	]
-	"chapter.30360B0C359B9730.title": "Farmer's Delight"
-	"chapter.30360B0C359B9730.chapter_subtitle": ["Kochen und Landwirtschaft."]
-	"quest.10B6B7F1961C4831.title": "Gut zu wissen"
-	"quest.10B6B7F1961C4831.quest_desc": [
-		"In diesem Kapitel stehen Mods, die das Leben leichter machen. Alles hier ist freiwillig."
-	]
-	"quest.62739BC963175848.title": "Waystones"
-	"quest.62739BC963175848.quest_desc": [
-		"Waystones sind Teleport-Steine. Aktiviere einen, indem du ihn anklickst, und teleportiere dich später dorthin."
-	]
-	"quest.759C95F19E7738BC.title": "Lootr"
-	"quest.759C95F19E7738BC.quest_desc": [
-		"Lootr macht Truhen in Strukturen für jeden Spieler einzeln. Jeder bekommt seine eigene Beute, niemand nimmt dem anderen etwas weg."
-	]
-	"quest.3855C77A3E7CE79F.title": "Carry On"
-	"quest.3855C77A3E7CE79F.quest_desc": [
-		"Mit Carry On trägst du Truhen und Tiere in den Händen: Drücke die Taste (Schleichen und Rechtsklick mit leeren Händen) auf den Block."
-	]
-	"quest.5FB580EE319FDFA1.title": "Curios"
-	"quest.5FB580EE319FDFA1.quest_desc": [
-		"Curios gibt dir zusätzliche Plätze für Schmuck und Zubehör (Ringe, Amulette, Rucksäcke). Du siehst die Plätze im Inventar-Fenster."
-	]
-	"quest.00D0D05B5C015A2C.title": "Inventar sortieren"
-	"quest.00D0D05B5C015A2C.quest_desc": [
-		"Inventory Profiles Next sortiert dein Inventar mit einem Knopf oder einer Taste und kann Gegenstände automatisch verschieben."
-	]
-	"quest.43C10266C3CBA7F7.title": "Polymorph"
-	"quest.43C10266C3CBA7F7.quest_desc": [
-		"Polymorph löst Rezept-Konflikte: Wenn mehrere Mods dasselbe Rezept haben, kannst du im Fenster das gewünschte Ergebnis auswählen."
-	]
-	"chapter.2F8F8381F85DFC1B.title": "Praktische Helfer"
-	"chapter.2F8F8381F85DFC1B.chapter_subtitle": ["Kleine Mods, die das Spielen angenehmer machen."]
 	"quest.3AB7F1E8A6DE5375.title": "Willkommen im Experten-Kapitel"
 	"quest.3AB7F1E8A6DE5375.quest_desc": [
 		"Hier gibt es keine Schritt-für-Schritt-Anleitung, sondern Herausforderungen, die viele Mods kombinieren."
+		""
+		"&e&lTipp:&r&f Dieses Kapitel baut auf Auto-Crafting und Mekanism auf. Mach dort zuerst weiter, dann fehlt dir hier nichts."
 	]
 	"quest.1AD1F57EFF64CF29.title": "Die vollautomatische Fabrik"
 	"quest.1AD1F57EFF64CF29.quest_desc": [

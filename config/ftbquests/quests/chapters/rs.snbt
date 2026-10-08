@@ -1,7 +1,7 @@
 {
 	id: "3F78D748F3EE6EBE"
-	group: ""
-	order_index: 22
+	group: "33E8D00E3D5A4A42"
+	order_index: 27
 	filename: "rs"
 	icon: {
 		id: "refinedstorage:controller"
@@ -17,6 +17,8 @@
 				id: "refinedstorage:controller"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["3ADAEE4B08A6F891"]
 			id: "7961AD9A2E4470EF"
 			tasks: [
 				{
@@ -183,6 +185,7 @@
 		{
 			x: 10.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["524785F935E00425"]
 			optional: true
 			id: "7EC2ADF0AB9469B4"

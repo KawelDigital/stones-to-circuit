@@ -1,7 +1,7 @@
 {
 	id: "1FB27789C776C49C"
-	group: ""
-	order_index: 3
+	group: "32A77FA390384E86"
+	order_index: 9
 	filename: "excompressum"
 	icon: {
 		id: "excompressum:auto_sieve"
@@ -17,6 +17,8 @@
 				id: "excompressum:auto_sieve"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["13D279A0D4EF176B"]
 			id: "4789684066B39960"
 			tasks: [
 				{
@@ -104,6 +106,7 @@
 		{
 			x: 8.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["799C58BDF3D524FF"]
 			id: "526DFF6A2FA8AC32"
 			tasks: [

@@ -1,7 +1,7 @@
 {
 	id: "2F8F8381F85DFC1B"
-	group: ""
-	order_index: 35
+	group: "520042A0F9159BC8"
+	order_index: 7
 	filename: "helfer"
 	icon: {
 		id: "minecraft:ender_pearl"
@@ -17,6 +17,8 @@
 				id: "minecraft:ender_pearl"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["67025D911337A03B"]
 			id: "10B6B7F1961C4831"
 			tasks: [
 				{
@@ -134,6 +136,7 @@
 		{
 			x: 10.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["00D0D05B5C015A2C"]
 			id: "43C10266C3CBA7F7"
 			tasks: [

@@ -1,7 +1,7 @@
 {
 	id: "45ADC3D897E2E7E3"
-	group: ""
-	order_index: 17
+	group: "2EAA9718BAF5A32A"
+	order_index: 22
 	filename: "oritech"
 	icon: {
 		id: "oritech:pulverizer_block"
@@ -17,6 +17,8 @@
 				id: "oritech:pulverizer_block"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["0ADD7958AC40E5E2"]
 			id: "2850CCDAEC7ED7C0"
 			tasks: [
 				{
@@ -198,6 +200,7 @@
 		{
 			x: 6.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["397A913104C755C1"]
 			optional: true
 			id: "54310B61E41FF8F2"

@@ -1,7 +1,7 @@
 {
 	id: "24B373DD26B10695"
-	group: ""
-	order_index: 20
+	group: "2EAA9718BAF5A32A"
+	order_index: 25
 	filename: "evilcraft"
 	icon: {
 		id: "evilcraft:blood_infuser"
@@ -17,6 +17,8 @@
 				id: "evilcraft:blood_infuser"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["5C6686AD941CAFA2"]
 			id: "04AA47254E89C844"
 			tasks: [
 				{
@@ -151,6 +153,7 @@
 		{
 			x: 10.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["0C927046F98E07CF"]
 			optional: true
 			id: "6E49CD37E4431076"

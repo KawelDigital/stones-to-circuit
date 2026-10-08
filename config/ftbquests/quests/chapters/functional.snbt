@@ -1,7 +1,7 @@
 {
 	id: "01538DD17F293C5B"
-	group: ""
-	order_index: 24
+	group: "33E8D00E3D5A4A42"
+	order_index: 29
 	filename: "functional"
 	icon: {
 		id: "functionalstorage:oak_1"
@@ -17,6 +17,8 @@
 				id: "functionalstorage:oak_1"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["1E538D6FD1918C05"]
 			id: "764B97B2FEDA09BB"
 			tasks: [
 				{
@@ -159,6 +161,7 @@
 		{
 			x: 10.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["4DB268F971DC62A9"]
 			id: "055D218C760D7AC5"
 			tasks: [

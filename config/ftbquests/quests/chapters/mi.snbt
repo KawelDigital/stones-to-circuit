@@ -1,7 +1,7 @@
 {
 	id: "1194FDBB3DA36036"
-	group: ""
-	order_index: 16
+	group: "2EAA9718BAF5A32A"
+	order_index: 21
 	filename: "mi"
 	icon: {
 		id: "modern_industrialization:steam_mining_drill"
@@ -17,6 +17,8 @@
 				id: "modern_industrialization:steam_mining_drill"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["4645750B422DC8E7"]
 			id: "0BF819540E4CB0FD"
 			tasks: [
 				{
@@ -309,6 +311,7 @@
 		{
 			x: 0.0d
 			y: 4.0d
+			shape: "gear"
 			dependencies: ["769B8628193DC14C"]
 			optional: true
 			id: "0ADD7958AC40E5E2"

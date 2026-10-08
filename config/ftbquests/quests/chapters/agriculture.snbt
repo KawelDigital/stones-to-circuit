@@ -1,7 +1,7 @@
 {
 	id: "5228BBAA174C9C9C"
-	group: ""
-	order_index: 31
+	group: "32A77FA390384E86"
+	order_index: 10
 	filename: "agriculture"
 	icon: {
 		id: "mysticalagriculture:inferium_essence"
@@ -17,6 +17,8 @@
 				id: "mysticalagriculture:inferium_essence"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["13D279A0D4EF176B"]
 			id: "11D146981CDAF65C"
 			tasks: [
 				{
@@ -82,6 +84,7 @@
 		{
 			x: 6.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["1EF5EFEDD7A22261"]
 			id: "507F3A2986B78B0C"
 			tasks: [

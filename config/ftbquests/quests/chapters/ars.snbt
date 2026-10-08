@@ -1,7 +1,7 @@
 {
 	id: "0772A1F000AC15F1"
-	group: ""
-	order_index: 28
+	group: "46126DD1082E0B5F"
+	order_index: 33
 	filename: "ars"
 	icon: {
 		id: "ars_nouveau:novice_spell_book"
@@ -17,6 +17,8 @@
 				id: "ars_nouveau:novice_spell_book"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["13D279A0D4EF176B"]
 			id: "70265D65743E28F0"
 			tasks: [
 				{
@@ -174,6 +176,7 @@
 		{
 			x: 8.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["1550457CDFE584BD"]
 			id: "47AF4053E1EE4182"
 			tasks: [

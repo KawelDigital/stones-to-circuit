@@ -1,7 +1,7 @@
 {
 	id: "2F8639F242F59398"
-	group: ""
-	order_index: 19
+	group: "2EAA9718BAF5A32A"
+	order_index: 24
 	filename: "integrated"
 	icon: {
 		id: "integrateddynamics:logic_programmer"
@@ -17,6 +17,8 @@
 				id: "integrateddynamics:logic_programmer"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["5C6686AD941CAFA2"]
 			id: "79D61FA2B78FE6BA"
 			tasks: [
 				{
@@ -137,6 +139,7 @@
 		{
 			x: 10.0d
 			y: 0.0d
+			shape: "gear"
 			dependencies: ["313A18C4F1F9D350"]
 			id: "7549A7F85881A982"
 			tasks: [

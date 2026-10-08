@@ -1,7 +1,7 @@
 {
 	id: "53BF1D5DAEDFBB6A"
-	group: ""
-	order_index: 7
+	group: "520042A0F9159BC8"
+	order_index: 5
 	filename: "ftb_ultimine"
 	icon: {
 		id: "minecraft:iron_pickaxe"
@@ -17,6 +17,8 @@
 				id: "minecraft:iron_pickaxe"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["50E8A24DE7E57632"]
 			id: "4C75263053F4B687"
 			tasks: [
 				{

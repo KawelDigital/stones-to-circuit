@@ -1,7 +1,7 @@
 {
 	id: "38F2FE14E10D636D"
-	group: ""
-	order_index: 2
+	group: "32A77FA390384E86"
+	order_index: 8
 	filename: "exdeorum"
 	icon: {
 		id: "exdeorum:oak_sieve"
@@ -17,6 +17,8 @@
 				id: "exdeorum:oak_sieve"
 				count: 1
 			}
+			shape: "hexagon"
+			dependencies: ["67025D911337A03B"]
 			id: "7D98328A09325F03"
 			tasks: [
 				{
@@ -268,6 +270,7 @@
 		{
 			x: 0.0d
 			y: 2.0d
+			shape: "gear"
 			dependencies: ["4742720DBF49D463"]
 			optional: true
 			id: "13D279A0D4EF176B"
