@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/netstorage.pw.toml"
-hash = "aa1ff173bc3faf784f73d1abbfbd71de69a28568343de8813f4e266eb5f53c16"
+hash = "bce8e67dc44a9b17bba342e9e7f1d630e1fea38bf109bee6f7d999ddf6508ce6"
 metafile = true
 
 [[files]]
