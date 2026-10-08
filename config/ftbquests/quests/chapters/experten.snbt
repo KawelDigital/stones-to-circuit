@@ -1,0 +1,136 @@
+{
+	id: "7159898BEC7C09F1"
+	group: ""
+	order_index: 30
+	filename: "experten"
+	icon: {
+		id: "minecraft:redstone_block"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "minecraft:redstone_block"
+				count: 1
+			}
+			id: "3AB7F1E8A6DE5375"
+			tasks: [
+				{
+					id: "658669CC0CADCB4F"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "39EBC499D45E9BAE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["3AB7F1E8A6DE5375"]
+			optional: true
+			id: "1AD1F57EFF64CF29"
+			tasks: [
+				{
+					id: "34BBF026EAA43840"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "59947964E5FEC586"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["1AD1F57EFF64CF29"]
+			optional: true
+			id: "3D505160AE660C28"
+			tasks: [
+				{
+					id: "0977E44FA52BC368"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "59C5BB460CFC2589"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["3D505160AE660C28"]
+			optional: true
+			id: "45DE4ADD62DCBD83"
+			tasks: [
+				{
+					id: "11549035B5CF859B"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "0601B6C83E503B6E"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["45DE4ADD62DCBD83"]
+			optional: true
+			id: "04CC2EDA48DAFA6B"
+			tasks: [
+				{
+					id: "7E9A43DE914BD4C5"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "197A3F2BE075BC2D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["04CC2EDA48DAFA6B"]
+			optional: true
+			id: "79F9FF837DC5B45E"
+			tasks: [
+				{
+					id: "29E1753108221971"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "45C5EB51F245A340"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+	]
+}

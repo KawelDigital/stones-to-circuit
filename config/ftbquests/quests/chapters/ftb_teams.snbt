@@ -1,0 +1,74 @@
+{
+	id: "33CD4FEA76EE5F74"
+	group: ""
+	order_index: 5
+	filename: "ftb_teams"
+	icon: {
+		id: "minecraft:player_head"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "minecraft:player_head"
+				count: 1
+			}
+			id: "2B8F95EA437F0F89"
+			tasks: [
+				{
+					id: "528443F8A53B9E21"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "69293B98C87E060F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["2B8F95EA437F0F89"]
+			id: "6978AED7C3C7047C"
+			tasks: [
+				{
+					id: "367560AE9C61D148"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "3F06E1D3670A94F0"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["6978AED7C3C7047C"]
+			id: "62430430C93CC913"
+			tasks: [
+				{
+					id: "132956EDB9DA6C59"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "6536F8A54A626E54"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+	]
+}

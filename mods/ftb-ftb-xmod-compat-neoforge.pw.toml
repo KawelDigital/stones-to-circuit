@@ -1,0 +1,8 @@
+name = "ftb-xmod-compat-neoforge"
+filename = "ftb-xmod-compat-neoforge-21.1.12.jar"
+side = "both"
+
+[download]
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-xmod-compat-neoforge/21.1.12/ftb-xmod-compat-neoforge-21.1.12.jar"
+hash-format = "sha512"
+hash = "1fd5269769bb7c036a2366c17de45add12e5349856161f40c6a517faf3ed978ed8536f8c613c1b74b6c2cd4c6ba71b400fdbcdf915a9f9b8a9bbd0030bfd2409"

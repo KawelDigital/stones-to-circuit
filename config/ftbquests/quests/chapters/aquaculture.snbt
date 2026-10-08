@@ -1,0 +1,106 @@
+{
+	id: "0B8027E9B5370E6A"
+	group: ""
+	order_index: 27
+	filename: "aquaculture"
+	icon: {
+		id: "aquaculture:iron_fishing_rod"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "aquaculture:iron_fishing_rod"
+				count: 1
+			}
+			id: "1D9AA1EA98A1D7EB"
+			tasks: [
+				{
+					id: "77CDCF465DB05A9D"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "12617A26D52069E4"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["1D9AA1EA98A1D7EB"]
+			id: "0AF5431EF206203B"
+			tasks: [
+				{
+					id: "1A96901B83C2FC47"
+					type: "item"
+					item: {
+						id: "aquaculture:iron_fishing_rod"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4677E17676382421"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["0AF5431EF206203B"]
+			id: "2F43A10855561BC2"
+			tasks: [
+				{
+					id: "534510D628D98CB5"
+					type: "item"
+					item: {
+						id: "aquaculture:tackle_box"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4084E5B4F9292BD9"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["2F43A10855561BC2"]
+			id: "34D3DEB02B68B14A"
+			tasks: [
+				{
+					id: "6A7A2D600E1BA184"
+					type: "item"
+					item: {
+						id: "aquaculture:fish_fillet_raw"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "112C53961056B6AA"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+	]
+}

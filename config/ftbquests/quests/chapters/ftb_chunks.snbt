@@ -1,0 +1,74 @@
+{
+	id: "0F41D5CEC3BD9534"
+	group: ""
+	order_index: 6
+	filename: "ftb_chunks"
+	icon: {
+		id: "minecraft:filled_map"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "minecraft:filled_map"
+				count: 1
+			}
+			id: "2919955D6FC2C2C3"
+			tasks: [
+				{
+					id: "1AB614E037AA9325"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "00475F1B71A0DD39"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["2919955D6FC2C2C3"]
+			id: "73F32287B360331E"
+			tasks: [
+				{
+					id: "6D59C725B6555BF7"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "0CF994DF9A1C526C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["73F32287B360331E"]
+			id: "50E8A24DE7E57632"
+			tasks: [
+				{
+					id: "0489EDACD9CD6D7B"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "19076C6A09C6D2F3"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+	]
+}

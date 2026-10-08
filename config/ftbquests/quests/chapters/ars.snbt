@@ -1,0 +1,199 @@
+{
+	id: "0772A1F000AC15F1"
+	group: ""
+	order_index: 22
+	filename: "ars"
+	icon: {
+		id: "ars_nouveau:novice_spell_book"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "ars_nouveau:novice_spell_book"
+				count: 1
+			}
+			id: "70265D65743E28F0"
+			tasks: [
+				{
+					id: "34BCF9731F2DA921"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "6C2F4A8A776F7A02"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["70265D65743E28F0"]
+			id: "69B13F465EEA0A56"
+			tasks: [
+				{
+					id: "6D322831AE0D823E"
+					type: "item"
+					item: {
+						id: "ars_nouveau:worn_notebook"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "721E72AD398FFA3A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["69B13F465EEA0A56"]
+			id: "127C9A605D7F7E57"
+			tasks: [
+				{
+					id: "501196DE47F9169C"
+					type: "item"
+					item: {
+						id: "ars_nouveau:source_gem"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "1F1316A2A1DCA642"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["127C9A605D7F7E57"]
+			id: "30D498A5B162D0CC"
+			tasks: [
+				{
+					id: "2306C5B116E62901"
+					type: "item"
+					item: {
+						id: "ars_nouveau:novice_spell_book"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0FB2A886889954E5"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["30D498A5B162D0CC"]
+			id: "62B6E296BC7B9832"
+			tasks: [
+				{
+					id: "637FA9ED519A8EE4"
+					type: "item"
+					item: {
+						id: "ars_nouveau:scribes_table"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "2D6B6C903F052DC3"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["62B6E296BC7B9832"]
+			id: "44D99230A5DF1779"
+			tasks: [
+				{
+					id: "10ABE1ADEF378A72"
+					type: "item"
+					item: {
+						id: "ars_nouveau:source_jar"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "570B93CBB8587773"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["44D99230A5DF1779"]
+			id: "1550457CDFE584BD"
+			tasks: [
+				{
+					id: "100CFDEDF2FDFDAF"
+					type: "item"
+					item: {
+						id: "ars_nouveau:enchanting_apparatus"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0FD4B2EE03A91AE9"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["1550457CDFE584BD"]
+			id: "47AF4053E1EE4182"
+			tasks: [
+				{
+					id: "1A61C7FF05DC6077"
+					type: "item"
+					item: {
+						id: "ars_nouveau:magebloom"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "7B6797FCD60D94E1"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+	]
+}

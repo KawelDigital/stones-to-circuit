@@ -1,0 +1,55 @@
+{
+	id: "53BF1D5DAEDFBB6A"
+	group: ""
+	order_index: 7
+	filename: "ftb_ultimine"
+	icon: {
+		id: "minecraft:iron_pickaxe"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "minecraft:iron_pickaxe"
+				count: 1
+			}
+			id: "4C75263053F4B687"
+			tasks: [
+				{
+					id: "098F08CBD7D108A8"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "73CD0101EEC5B245"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["4C75263053F4B687"]
+			id: "03E963198ED866AB"
+			tasks: [
+				{
+					id: "3A373487350B761C"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "371D802AE4617F70"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+	]
+}

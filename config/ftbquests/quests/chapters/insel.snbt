@@ -1,0 +1,153 @@
+{
+	id: "5D323C2CD7C4B9E0"
+	group: ""
+	order_index: 1
+	filename: "insel"
+	icon: {
+		id: "minecraft:grass_block"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "minecraft:chest"
+				count: 1
+			}
+			id: "2BB2BF8C3DF111A0"
+			tasks: [
+				{
+					id: "3A31A6E0F05CD491"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "1EC402DE7688BBBF"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["2BB2BF8C3DF111A0"]
+			id: "41AAE0585ECEC060"
+			tasks: [
+				{
+					id: "2F1841850D9334F9"
+					type: "item"
+					item: {
+						id: "minecraft:oak_log"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "5ADE2857991C8F59"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["41AAE0585ECEC060"]
+			id: "0C04B3F32201D042"
+			tasks: [
+				{
+					id: "797B02C2D802D655"
+					type: "item"
+					item: {
+						id: "minecraft:crafting_table"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3322972BC4A07908"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["0C04B3F32201D042"]
+			id: "605C3392BB8D937A"
+			tasks: [
+				{
+					id: "6A791E972900B482"
+					type: "item"
+					item: {
+						id: "minecraft:furnace"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1E28B000EEBBA3B0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["605C3392BB8D937A"]
+			id: "496AE64A8F8EF215"
+			tasks: [
+				{
+					id: "7868EC6D34515994"
+					type: "item"
+					item: {
+						id: "minecraft:fishing_rod"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "2E5C98C34B5DFE44"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["496AE64A8F8EF215"]
+			id: "67025D911337A03B"
+			tasks: [
+				{
+					id: "438086ECC41D265C"
+					type: "item"
+					item: {
+						id: "minecraft:cobblestone"
+						count: 1
+					}
+					count: 64
+				}
+			]
+			rewards: [
+				{
+					id: "3DE7C91311F20F9E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+	]
+}

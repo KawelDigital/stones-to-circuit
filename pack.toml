@@ -1,13 +1,13 @@
 name = "Stones to Circuit"
 author = "Finn"
-version = "0.1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dd6e9ab1b5d3eca76264ab50bedd7fd683d7d426367b6fd7ee460889ffcc71b3"
+hash = "dfaf192f3372b9f7b25b27e979b0b329981a410e1c6fb7c62cc84e4d02af28bf"
 
 [versions]
-minecraft = "26.1.2"
-neoforge = "26.1.2.114"
+minecraft = "1.21.1"
+neoforge = "21.1.256"

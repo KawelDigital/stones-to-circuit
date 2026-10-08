@@ -1,8 +1,8 @@
 name = "GuideME"
-filename = "guideme-26.1.15-beta.jar"
+filename = "guideme-21.1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/JnplCcod/guideme-26.1.15-beta.jar"
+url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/hFpGwC6q/guideme-21.1.19.jar"
 hash-format = "sha512"
-hash = "c98f19285b37b4055a321ed9faed89cdc15dfc3bfbbad29e813f92b0fd4b6cf77b01a2ffcf971d57171c247d748e760355e87b3fd4722af699c2b0bef17a4e6e"
+hash = "4dfa132e5cfd69a86c958867067f1c5ab39bb69ae35b2a62c24bb9924e9c688f1a4930ab75d335b22378d9f98cd7fceae8d030812b8f90c9aa282de8ea129f5a"

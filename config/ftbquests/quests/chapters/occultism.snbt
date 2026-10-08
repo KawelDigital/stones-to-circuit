@@ -1,0 +1,102 @@
+{
+	id: "04A8EEB70DFF77BC"
+	group: ""
+	order_index: 23
+	filename: "occultism"
+	icon: {
+		id: "occultism:chalk_white"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "occultism:chalk_white"
+				count: 1
+			}
+			id: "32F3EF8649E214E7"
+			tasks: [
+				{
+					id: "223D9531C98EA03B"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "0618E02C46026915"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["32F3EF8649E214E7"]
+			id: "195176B92CFB1C58"
+			tasks: [
+				{
+					id: "0E37CA816C3041B6"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "39A12C07F25F30DA"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["195176B92CFB1C58"]
+			id: "571955F20710B008"
+			tasks: [
+				{
+					id: "5E19428AB592A73D"
+					type: "item"
+					item: {
+						id: "occultism:chalk_white"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0BBA2785427F7C54"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["571955F20710B008"]
+			id: "5E564806490D49CB"
+			tasks: [
+				{
+					id: "6ED3676515EA66AD"
+					type: "item"
+					item: {
+						id: "occultism:golden_sacrificial_bowl"
+						count: 1
+					}
+					count: 2
+				}
+			]
+			rewards: [
+				{
+					id: "33A3A583EF7EF0C6"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+	]
+}

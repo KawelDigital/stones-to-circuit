@@ -1,0 +1,525 @@
+{
+	id: "32F4545024F13413"
+	group: ""
+	order_index: 15
+	filename: "ae2"
+	icon: {
+		id: "ae2:controller"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "ae2:controller"
+				count: 1
+			}
+			id: "0F8AA8E9291621DB"
+			tasks: [
+				{
+					id: "27D1DB04111D58CB"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "650197C07D15206A"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["0F8AA8E9291621DB"]
+			id: "4A8C87770769F583"
+			tasks: [
+				{
+					id: "409CAB5E80DCC59A"
+					type: "item"
+					item: {
+						id: "ae2:certus_quartz_crystal"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "2A47DA58CB28AC5E"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["4A8C87770769F583"]
+			id: "246D5EC3E3626A0B"
+			tasks: [
+				{
+					id: "24E9CF322EB4D1CE"
+					type: "item"
+					item: {
+						id: "ae2:charger"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "141F04F2A7915FDB"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["246D5EC3E3626A0B"]
+			id: "1B6C60AABF3BBB5C"
+			tasks: [
+				{
+					id: "355233E860B54A93"
+					type: "item"
+					item: {
+						id: "ae2:charged_certus_quartz_crystal"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "1BB6B9A7D8839057"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["1B6C60AABF3BBB5C"]
+			id: "239E967F39F3B625"
+			tasks: [
+				{
+					id: "6B3D3E2A923D5B2E"
+					type: "item"
+					item: {
+						id: "ae2:vibration_chamber"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7339433134566CC0"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			icon: {
+				id: "ae2:silicon_press"
+				count: 1
+			}
+			dependencies: ["239E967F39F3B625"]
+			id: "5CF1D076C6BE7B33"
+			tasks: [
+				{
+					id: "69D0DF5C2FE82F05"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "37C161E4D7EAB2E9"
+					type: "item"
+					item: {
+						id: "ae2:silicon_press"
+						count: 1
+					}
+				}
+				{
+					id: "789B98288FFE517E"
+					type: "item"
+					item: {
+						id: "ae2:logic_processor_press"
+						count: 1
+					}
+				}
+				{
+					id: "31FC745DAA56B2E8"
+					type: "item"
+					item: {
+						id: "ae2:calculation_processor_press"
+						count: 1
+					}
+				}
+				{
+					id: "1CAE04D8ECD05F2C"
+					type: "item"
+					item: {
+						id: "ae2:engineering_processor_press"
+						count: 1
+					}
+				}
+				{
+					id: "598747ACA267DEA7"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["5CF1D076C6BE7B33"]
+			id: "70511468F6747F57"
+			tasks: [
+				{
+					id: "6020B82B5579D10B"
+					type: "item"
+					item: {
+						id: "ae2:inscriber"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1B4998209C050F1E"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["70511468F6747F57"]
+			id: "549A364AC3728170"
+			tasks: [
+				{
+					id: "6B02CCC27EC2FE59"
+					type: "item"
+					item: {
+						id: "ae2:silicon"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "49FFD6D8B939F1D5"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["549A364AC3728170"]
+			id: "1189FC02F462B0BE"
+			tasks: [
+				{
+					id: "6161B069036353A5"
+					type: "item"
+					item: {
+						id: "ae2:logic_processor"
+						count: 1
+					}
+					count: 2
+				}
+				{
+					id: "19032DFFAFB79F7A"
+					type: "item"
+					item: {
+						id: "ae2:calculation_processor"
+						count: 1
+					}
+					count: 2
+				}
+				{
+					id: "2F8A69C43A1A1E6E"
+					type: "item"
+					item: {
+						id: "ae2:engineering_processor"
+						count: 1
+					}
+					count: 2
+				}
+			]
+			rewards: [
+				{
+					id: "46663F7EA5F18300"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			dependencies: ["1189FC02F462B0BE"]
+			id: "31C6C04AA501EB50"
+			tasks: [
+				{
+					id: "2E329F12BC1E46FA"
+					type: "item"
+					item: {
+						id: "ae2:fluix_glass_cable"
+						count: 1
+					}
+					count: 16
+				}
+			]
+			rewards: [
+				{
+					id: "07716EB2EFCD52FA"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["31C6C04AA501EB50"]
+			id: "2AB05580C06528BF"
+			tasks: [
+				{
+					id: "16861DF262AB7FFF"
+					type: "item"
+					item: {
+						id: "ae2:controller"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0A63FCCBC85D7219"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["2AB05580C06528BF"]
+			id: "39468670508546CE"
+			tasks: [
+				{
+					id: "29E59EDE88F766F9"
+					type: "item"
+					item: {
+						id: "ae2:drive"
+						count: 1
+					}
+				}
+				{
+					id: "5F75676DFCCC25CC"
+					type: "item"
+					item: {
+						id: "ae2:item_storage_cell_1k"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4740E58CE0206CD4"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 4.0d
+			dependencies: ["39468670508546CE"]
+			id: "561AFEC59673AA25"
+			tasks: [
+				{
+					id: "66CD4A63695BDB7B"
+					type: "item"
+					item: {
+						id: "ae2:terminal"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "6443A557D956531B"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 4.0d
+			dependencies: ["561AFEC59673AA25"]
+			id: "5AD08237FEF5D027"
+			tasks: [
+				{
+					id: "17D9C3EDAE3C4932"
+					type: "item"
+					item: {
+						id: "ae2:crafting_unit"
+						count: 1
+					}
+				}
+				{
+					id: "4453AF01E10E88CB"
+					type: "item"
+					item: {
+						id: "ae2:pattern_provider"
+						count: 1
+					}
+				}
+				{
+					id: "666883525160ABE5"
+					type: "item"
+					item: {
+						id: "ae2:molecular_assembler"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5BC07AA623BEAFC3"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 4.0d
+			dependencies: ["5AD08237FEF5D027"]
+			id: "3325055350042DC5"
+			tasks: [
+				{
+					id: "4A4A5DCCFFB1B578"
+					type: "item"
+					item: {
+						id: "ae2:pattern_encoding_terminal"
+						count: 1
+					}
+				}
+				{
+					id: "638AD59EE4A134DE"
+					type: "item"
+					item: {
+						id: "ae2:blank_pattern"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "77CBAB33A1C98649"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 4.0d
+			dependencies: ["3325055350042DC5"]
+			id: "7CD70D2D038D3861"
+			tasks: [
+				{
+					id: "31C4159121A45779"
+					type: "item"
+					item: {
+						id: "ae2:import_bus"
+						count: 1
+					}
+				}
+				{
+					id: "572EAD7951C5A784"
+					type: "item"
+					item: {
+						id: "ae2:export_bus"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3AA2A61673056136"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 4.0d
+			dependencies: ["7CD70D2D038D3861"]
+			optional: true
+			id: "15A2A7A0D37C1660"
+			tasks: [
+				{
+					id: "146F66FC61B709B0"
+					type: "item"
+					item: {
+						id: "ae2:wireless_access_point"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "004C80EA5D428C73"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 4.0d
+			icon: {
+				id: "ae2:terminal"
+				count: 1
+			}
+			dependencies: ["15A2A7A0D37C1660"]
+			optional: true
+			id: "3ADAEE4B08A6F891"
+			tasks: [
+				{
+					id: "65C16FF091EED7D9"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "15A3923BFDEBDB89"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+	]
+}

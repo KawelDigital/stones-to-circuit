@@ -1,0 +1,293 @@
+{
+	id: "38F2FE14E10D636D"
+	group: ""
+	order_index: 2
+	filename: "exdeorum"
+	icon: {
+		id: "exdeorum:oak_sieve"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "exdeorum:oak_sieve"
+				count: 1
+			}
+			id: "7D98328A09325F03"
+			tasks: [
+				{
+					id: "012E27E269F9A67C"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "7AE2D90A6ECC96BD"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["7D98328A09325F03"]
+			id: "518C08B493A9BC5D"
+			tasks: [
+				{
+					id: "361D78F7260E69D0"
+					type: "item"
+					item: {
+						id: "exdeorum:crook"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "2CA3116D13198FD4"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["518C08B493A9BC5D"]
+			id: "0831A84CA2690B5D"
+			tasks: [
+				{
+					id: "5EEE57D46959655B"
+					type: "item"
+					item: {
+						id: "exdeorum:wooden_hammer"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5C090099F57EC212"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["0831A84CA2690B5D"]
+			id: "22F4038D7D019552"
+			tasks: [
+				{
+					id: "191FEBF32FD2FDFD"
+					type: "item"
+					item: {
+						id: "exdeorum:oak_sieve"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "51A3CA239B535914"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["22F4038D7D019552"]
+			id: "4BE136071D8A5485"
+			tasks: [
+				{
+					id: "6E2AF4870B167CF4"
+					type: "item"
+					item: {
+						id: "exdeorum:string_mesh"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "530BB8A5B8D74FA8"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["4BE136071D8A5485"]
+			id: "14CF87C698C7C758"
+			tasks: [
+				{
+					id: "249AF4258DEDDD1E"
+					type: "item"
+					item: {
+						id: "exdeorum:oak_barrel"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1BBC3AD24C6B42F9"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["14CF87C698C7C758"]
+			id: "3FB1259827790232"
+			tasks: [
+				{
+					id: "27046038955C0064"
+					type: "item"
+					item: {
+						id: "minecraft:dirt"
+						count: 1
+					}
+					count: 64
+				}
+			]
+			rewards: [
+				{
+					id: "5CDF44711067770A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["3FB1259827790232"]
+			id: "0D99B6A4C0D753C4"
+			tasks: [
+				{
+					id: "463A64A5F96375B1"
+					type: "item"
+					item: {
+						id: "exdeorum:oak_crucible"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0EFA682A79F7D3B8"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["0D99B6A4C0D753C4"]
+			id: "5DAEE2F9FFDA168B"
+			tasks: [
+				{
+					id: "3C93FCF9F0D417BE"
+					type: "item"
+					item: {
+						id: "exdeorum:iron_mesh"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3F8A07D3C206FF6E"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			dependencies: ["5DAEE2F9FFDA168B"]
+			id: "239B211447494AB5"
+			tasks: [
+				{
+					id: "578B976F34E15E5B"
+					type: "item"
+					item: {
+						id: "exdeorum:iron_ore_chunk"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "5438658BF09F05B4"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["239B211447494AB5"]
+			id: "4742720DBF49D463"
+			tasks: [
+				{
+					id: "5228BEC437A896B3"
+					type: "item"
+					item: {
+						id: "exdeorum:gold_ore_chunk"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "47DBFABC1038CFE5"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["4742720DBF49D463"]
+			optional: true
+			id: "13D279A0D4EF176B"
+			tasks: [
+				{
+					id: "5B2B51D9F10C0E31"
+					type: "item"
+					item: {
+						id: "exdeorum:diamond_mesh"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0113A53C50986CA5"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+	]
+}

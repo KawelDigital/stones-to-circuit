@@ -1,0 +1,55 @@
+{
+	id: "54E3326757060162"
+	group: ""
+	order_index: 8
+	filename: "ftb_essentials"
+	icon: {
+		id: "minecraft:compass"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "minecraft:compass"
+				count: 1
+			}
+			id: "5D609102E9BACF6B"
+			tasks: [
+				{
+					id: "0AED4B037108BA28"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "2D3CE6A13E4B1D91"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["5D609102E9BACF6B"]
+			id: "20CD25FB90F60830"
+			tasks: [
+				{
+					id: "08B15AE219202A56"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "1998AD3E117734D8"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+	]
+}

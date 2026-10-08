@@ -1,0 +1,131 @@
+{
+	id: "1B895F9B122D1E4F"
+	group: ""
+	order_index: 13
+	filename: "pnc"
+	icon: {
+		id: "pneumaticcraft:pressure_chamber_wall"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "pneumaticcraft:pressure_chamber_wall"
+				count: 1
+			}
+			id: "5D5F7B523659DD6A"
+			tasks: [
+				{
+					id: "236594ACBDEF97A0"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "2EF9B342782EF687"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["5D5F7B523659DD6A"]
+			id: "1D26731B0FCFC711"
+			tasks: [
+				{
+					id: "6186C082DA282783"
+					type: "item"
+					item: {
+						id: "pneumaticcraft:air_compressor"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "30C665B80085E601"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["1D26731B0FCFC711"]
+			id: "0044E897B633919F"
+			tasks: [
+				{
+					id: "61A4B8ED598E2E63"
+					type: "item"
+					item: {
+						id: "pneumaticcraft:pressure_tube"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "1112BB632600EDEB"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["0044E897B633919F"]
+			id: "7EC8B6ADC08EAF44"
+			tasks: [
+				{
+					id: "0C9E2DCFA0B9F0F7"
+					type: "item"
+					item: {
+						id: "pneumaticcraft:pressure_chamber_wall"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "3F1729BA25435522"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["7EC8B6ADC08EAF44"]
+			optional: true
+			id: "6330FC5400DA7760"
+			tasks: [
+				{
+					id: "6D560423A206D7A4"
+					type: "item"
+					item: {
+						id: "pneumaticcraft:programmer"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7900138AAEC50921"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+		}
+	]
+}

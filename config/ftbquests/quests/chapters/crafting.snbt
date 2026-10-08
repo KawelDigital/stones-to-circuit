@@ -1,0 +1,140 @@
+{
+	id: "758237FF811226C9"
+	group: ""
+	order_index: 21
+	filename: "crafting"
+	icon: {
+		id: "netstorage:auto_crafter"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "1DBBEBFDB44B7883"
+			tasks: [
+				{
+					id: "2EB1614290A81E14"
+					type: "item"
+					item: {
+						id: "netstorage:auto_crafter"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7F67DC7903070A32"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["1DBBEBFDB44B7883"]
+			id: "36EAD365C30BC095"
+			tasks: [
+				{
+					id: "1AA58A477E695131"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "4FDDF938B77BAE0C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["36EAD365C30BC095"]
+			id: "7D6B95E4F7B8EE61"
+			tasks: [
+				{
+					id: "713BD9645AAF334E"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "070B9C7757E0028A"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["1DBBEBFDB44B7883"]
+			id: "32A3BEF060CCFDAF"
+			tasks: [
+				{
+					id: "482E68E7ECF5A584"
+					type: "item"
+					item: {
+						id: "netstorage:advanced_auto_crafter"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "728CE46C229F0EF1"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["32A3BEF060CCFDAF"]
+			optional: true
+			id: "37B1F363394CA74F"
+			tasks: [
+				{
+					id: "0E1C5C9180663C5B"
+					type: "item"
+					item: {
+						id: "netstorage:diamond_auto_crafter"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "369F215FCC04945A"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["7D6B95E4F7B8EE61"]
+			id: "292E805A7A5594FF"
+			tasks: [
+				{
+					id: "513396675D87313C"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "6E953CC1F118DA48"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+	]
+}

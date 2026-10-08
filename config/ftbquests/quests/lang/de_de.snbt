@@ -1,0 +1,1003 @@
+{
+	"quest.308BE00A58EBCB9A.title": "Willkommen bei Stones to Circuit!"
+	"quest.308BE00A58EBCB9A.quest_desc": [
+		"Schön, dass du da bist! Dieses Pack ist eine Reise von der kleinen Insel im Ozean bis zur vollautomatischen Computer-Fabrik."
+		""
+		"Du startest auf einer winzigen Insel, umgeben von Wasser. Unter dem Wasser liegt eine Welt aus massivem Stein. Ressourcen bekommst du, indem du Material siebst, in Maschinen verarbeitest und Stein abbaust."
+		""
+		"Dieses Buch hat für jede Mod ein eigenes Kapitel. Du musst nichts davon machen, aber es hilft dir beim Lernen und gibt Belohnungen."
+		""
+		"Klicke auf das Häkchen, um diese Quest abzuschließen."
+	]
+	"quest.510A326D701EA5B0.title": "So funktioniert das Questbuch"
+	"quest.510A326D701EA5B0.quest_desc": [
+		"Jedes Quadrat ist eine Quest. Klicke darauf, um zu lesen, was zu tun ist."
+		""
+		"Eine Quest ist erledigt, sobald alle Aufgaben abgehakt sind. Das passiert meist von allein, wenn du die geforderten Gegenstände im Inventar hast."
+		""
+		"Pfeile zeigen, was vor was kommt. Belohnungen bekommst du automatisch. Das Buch öffnest du über die Questbuch-Taste (in den Steuerungs-Einstellungen) oder mit dem Quest-Buch-Gegenstand."
+	]
+	"quest.7E1D4385DE33814D.title": "Rezepte nachschlagen mit JEI"
+	"quest.7E1D4385DE33814D.quest_desc": [
+		"JEI zeigt dir alle Gegenstände und Rezepte. Du brauchst es ständig, deshalb lernst du es zuerst."
+		""
+		"• Maus über einen Gegenstand halten und R drücken: So stellt man ihn her."
+		"• U drücken: Wofür man ihn braucht."
+		"• Mit dem Textfeld unten durchsuchst du die Liste."
+		""
+		"Tipp: Das Pack ist groß. Wenn du nicht weißt, wie etwas geht, frag zuerst JEI."
+	]
+	"quest.5526B75543C0038E.title": "Jade und AppleSkin"
+	"quest.5526B75543C0038E.quest_desc": [
+		"Jade zeigt dir oben am Bildschirm, welchen Block oder welches Wesen du anschaust. Bei Maschinen siehst du Füllstände und Energie."
+		""
+		"AppleSkin zeigt im Inventar, wie viel Hunger ein Essen stillt."
+	]
+	"quest.74DFFEBA3439E943.title": "Karte und Wegpunkte"
+	"quest.74DFFEBA3439E943.quest_desc": [
+		"Xaero's Minimap zeigt dir die Umgebung, die große Weltkarte öffnest du mit der Taste M (siehe Steuerung)."
+		""
+		"Setze dir Wegpunkte für deine Insel und wichtige Orte. Waystones sind zusätzlich Teleport-Steine, die du bauen kannst."
+	]
+	"quest.5942A302995891DF.title": "Tipps für Einsteiger"
+	"quest.5942A302995891DF.quest_desc": [
+		"• Das Pack legt automatisch Sicherungen deiner Welt an (FTB Backups)."
+		"• Trage immer Fackeln, Essen und eine Spitzhacke bei dir."
+		"• Baue früh ein Bett und eine Truhe."
+		"• Wenn du nicht weiter weißt: Schau ins Kapitel der jeweiligen Mod."
+		"• Alle Quests sind freiwillig. Überspringe, was dich nicht interessiert."
+	]
+	"quest.208FC35B1FF1A894.title": "Für Fortgeschrittene"
+	"quest.208FC35B1FF1A894.quest_desc": [
+		"Wenn du die Grundlagen kannst, findest du im Kapitel 'Experten' Herausforderungen: vollautomatische Lager, Auto-Crafting, Turtles, die Schlösser bauen, und vieles mehr."
+	]
+	"chapter.181EA246AB020E37.title": "Willkommen"
+	"chapter.181EA246AB020E37.chapter_subtitle": [
+		"Dein Questbuch erklärt dir Schritt für Schritt jede Mod in diesem Pack."
+		"Alles ist freiwillig: Spiel in deinem Tempo."
+	]
+	"quest.2BB2BF8C3DF111A0.title": "Die Truhe öffnen"
+	"quest.2BB2BF8C3DF111A0.quest_desc": [
+		"Auf deiner Insel steht eine Truhe mit Starter-Ausrüstung: Setzlinge, Knochenmehl, Brot, Fackeln und die ersten Werkzeuge der Siebe (Krücke, Hammer, Sieb, Netz, Fass, Tiegel)."
+		""
+		"Nimm alles heraus. Das Questbuch ist auch dabei."
+	]
+	"quest.41AAE0585ECEC060.title": "Holz anbauen"
+	"quest.41AAE0585ECEC060.quest_desc": [
+		"Pflanze einen Setzling auf Erde und streue Knochenmehl darauf, so wächst ein Baum. Holz brauchst du für fast alles."
+	]
+	"quest.0C04B3F32201D042.title": "Bretter und Werkbank"
+	"quest.0C04B3F32201D042.quest_desc": [
+		"Aus Holz machst du Bretter, aus vier Brettern eine Werkbank. Dort stellst du die meisten Dinge her."
+	]
+	"quest.605C3392BB8D937A.title": "Ein Ofen"
+	"quest.605C3392BB8D937A.quest_desc": [
+		"Acht Bruchsteine im Ring ergeben einen Ofen. Er schmilzt Erze und garst Essen."
+	]
+	"quest.496AE64A8F8EF215.title": "Fischen"
+	"quest.496AE64A8F8EF215.quest_desc": [
+		"Mit einer Angel holst du Fische aus dem Ozean: Essen und Schätze. Später lernst du im Kapitel Aquaculture bessere Angeln kennen."
+	]
+	"quest.67025D911337A03B.title": "Die Insel erweitern"
+	"quest.67025D911337A03B.quest_desc": [
+		"Deine Insel ist klein. Platziere Blöcke am Rand, um sie zu vergrößern. Bruchstein, Erde und Sand bekommst du durch Sieben (siehe Kapitel Ex Deorum)."
+		""
+		"Achtung: Monster erscheinen im Dunkeln. Beleuchte die Insel mit Fackeln."
+	]
+	"chapter.5D323C2CD7C4B9E0.title": "Die Startinsel"
+	"chapter.5D323C2CD7C4B9E0.chapter_subtitle": ["Dein erster Boden im Ozean."]
+	"quest.7D98328A09325F03.title": "Das Prinzip: Sieben"
+	"quest.7D98328A09325F03.quest_desc": [
+		"Ex Deorum ist die Grundlage deiner Ressourcen. Statt Erz im Boden zu suchen, siebst du Blöcke wie Erde, Kies, Sand oder Staub durch ein Netz. Das Netz bestimmt, was du bekommst."
+		""
+		"Die Reihenfolge: Krücke und Hammer herstellen, ein Sieb bauen, mit dem richtigen Netz Erze und Gegenstände herausfiltern."
+	]
+	"quest.518C08B493A9BC5D.title": "Die Krücke (Crook)"
+	"quest.518C08B493A9BC5D.quest_desc": [
+		"Mit der Krücke erntest du von Blättern zusätzliche Dinge wie Fäden, die du für das erste Netz brauchst. Schlage damit Blätter von Bäumen."
+	]
+	"quest.0831A84CA2690B5D.title": "Der Hammer"
+	"quest.0831A84CA2690B5D.quest_desc": [
+		"Mit dem Hammer zerkleinerst du Blöcke: Bruchstein wird Kies, Kies wird Sand, Sand wird Staub."
+	]
+	"quest.22F4038D7D019552.title": "Das Sieb"
+	"quest.22F4038D7D019552.quest_desc": [
+		"Platziere das Sieb, lege ein Netz hinein (Rechtsklick mit dem Netz) und klicke dann mit einem Block (zum Beispiel Erde, Kies oder Sand) auf das Sieb. Halte die Maustaste gedrückt, um zu sieben."
+	]
+	"quest.4BE136071D8A5485.title": "Das Fadennetz"
+	"quest.4BE136071D8A5485.quest_desc": [
+		"Das Netz aus Fäden ist die erste Stufe: Es fängt einfache Dinge wie Steine, Samen und kleine Ressourcen."
+	]
+	"quest.14CF87C698C7C758.title": "Das Fass"
+	"quest.14CF87C698C7C758.quest_desc": [
+		"Im Fass kompostierst du Pflanzen zu Erde und mischt Flüssigkeiten. Erde ist der Anfang der Sieb-Kette."
+	]
+	"quest.3FB1259827790232.title": "Erde herstellen"
+	"quest.3FB1259827790232.quest_desc": [
+		"Gib im Fass Setzlinge, Blätter und andere Pflanzen hinein, bis es voll ist. Danach wird daraus Erde."
+	]
+	"quest.0D99B6A4C0D753C4.title": "Der Schmelztiegel"
+	"quest.0D99B6A4C0D753C4.quest_desc": [
+		"Im Tiegel schmilzt du Material zu Flüssigkeit: Blätter oder Setzlinge zu Wasser, Bruchstein zu Lava. Er braucht Hitze von unten (zum Beispiel eine Fackel)."
+	]
+	"quest.5DAEE2F9FFDA168B.title": "Das Eisennetz"
+	"quest.5DAEE2F9FFDA168B.quest_desc": [
+		"Bessere Netze fangen mehr: Feuerstein, Eisen, Gold, Diamant und Netherit. Für jede Stufe kannst du zusätzlich einen Hammer-Typ nutzen."
+	]
+	"quest.239B211447494AB5.title": "Die erste Erzbrocken"
+	"quest.239B211447494AB5.quest_desc": [
+		"Kupfer, Eisen, Gold und weitere Erze bekommst du als Erzbrocken aus dem Sieb. Schmelze sie im Ofen zu Barren."
+	]
+	"quest.4742720DBF49D463.title": "Gold"
+	"quest.4742720DBF49D463.quest_desc": [
+		"Goldbrocken findest du vor allem mit besseren Netzen. Gold brauchst du für viele Maschinen."
+	]
+	"quest.13D279A0D4EF176B.title": "Diamantnetz"
+	"quest.13D279A0D4EF176B.quest_desc": [
+		"Mit dem Diamantnetz siebst du seltene Dinge, zum Beispiel Diamanten."
+	]
+	"chapter.38F2FE14E10D636D.title": "Ex Deorum"
+	"chapter.38F2FE14E10D636D.chapter_subtitle": ["Aus Erde und Kies wird alles, was du brauchst."]
+	"quest.4789684066B39960.title": "Automatisierung des Siebens"
+	"quest.4789684066B39960.quest_desc": [
+		"Ex Compressum ergänzt Ex Deorum um Maschinen, die Sieben und Hämmern von selbst erledigen. Sie brauchen Energie oder Antrieb, je nach Modell."
+	]
+	"quest.60D39E2FCF37F0EE.title": "Der automatische Hammer"
+	"quest.60D39E2FCF37F0EE.quest_desc": [
+		"Der Auto-Hammer zerkleinert Blöcke von selbst. Gib ihm Bruchstein und er liefert Kies."
+	]
+	"quest.57528F792A64F722.title": "Das automatische Sieb"
+	"quest.57528F792A64F722.quest_desc": [
+		"Das Auto-Sieb siebt Block für Block ohne dein Zutun. Gib ihm Kies oder Erde und lege ein Netz hinein."
+	]
+	"quest.799C58BDF3D524FF.title": "Das schwere Sieb"
+	"quest.799C58BDF3D524FF.quest_desc": [
+		"Das schwere Sieb siebt komprimierte Blöcke und liefert dafür mehr."
+	]
+	"quest.526DFF6A2FA8AC32.title": "Der Auto-Kompressor"
+	"quest.526DFF6A2FA8AC32.quest_desc": [
+		"Verdichtet Blöcke zu komprimierten Blöcken, die du ins schwere Sieb legst."
+	]
+	"chapter.1FB27789C776C49C.title": "Ex Compressum"
+	"chapter.1FB27789C776C49C.chapter_subtitle": ["Automatisch sieben und zerkleinern."]
+	"quest.1924333656A3DC1A.title": "Was ist FTB Quests?"
+	"quest.1924333656A3DC1A.quest_desc": [
+		"FTB Quests ist die Mod hinter diesem Buch. Quests sind Aufgaben mit Belohnungen. In diesem Pack sind sie dein Tutorial."
+	]
+	"quest.71CEE246152EDAFD.title": "Gemeinsamer Fortschritt"
+	"quest.71CEE246152EDAFD.quest_desc": [
+		"Dein Fortschritt gehört deinem Team. Spielst du mit einem Freund im selben Team, zählen erledigte Quests für beide."
+	]
+	"quest.39EC6618D6AFBA6E.title": "Eigene Quests bauen (Experten)"
+	"quest.39EC6618D6AFBA6E.quest_desc": [
+		"Als Operator kannst du das Questbuch im Spiel bearbeiten (Stift-Knopf oben rechts)."
+		""
+		"Achtung: Beim nächsten Pack-Update werden die Quest-Dateien überschrieben. Sichere eigene Änderungen vorher."
+	]
+	"chapter.14BD852AA96B50AF.title": "FTB Quests"
+	"chapter.14BD852AA96B50AF.chapter_subtitle": ["Das Questbuch, das du gerade benutzt."]
+	"quest.2B8F95EA437F0F89.title": "Teams"
+	"quest.2B8F95EA437F0F89.quest_desc": [
+		"Mit FTB Teams spielst du gemeinsam mit Freunden: Fortschritt, Claims und mehr gehören dem Team."
+	]
+	"quest.6978AED7C3C7047C.title": "Ein Team gründen"
+	"quest.6978AED7C3C7047C.quest_desc": [
+		"Öffne die Team-Verwaltung (Knopf im Inventar-Bildschirm) und gründe ein Team. Dort lädst du auch Freunde ein."
+	]
+	"quest.62430430C93CC913.title": "Einen Freund einladen"
+	"quest.62430430C93CC913.quest_desc": [
+		"Lade deinen Freund in dein Team ein. Er nimmt die Einladung im Chat oder im Team-Menü an."
+	]
+	"chapter.33CD4FEA76EE5F74.title": "FTB Teams"
+	"chapter.33CD4FEA76EE5F74.chapter_subtitle": ["Zusammen spielen, zusammen bauen."]
+	"quest.2919955D6FC2C2C3.title": "Die Karte"
+	"quest.2919955D6FC2C2C3.quest_desc": [
+		"FTB Chunks bringt eine Karte mit. Auf der großen Karte kannst du Chunks (16x16-Blöcke) anklicken und beanspruchen."
+	]
+	"quest.73F32287B360331E.title": "Land beanspruchen"
+	"quest.73F32287B360331E.quest_desc": [
+		"Beanspruche Chunks, um dein Land vor Fremden und Explosionen zu schützen. Es gibt ein Limit, wähle mit Bedacht."
+	]
+	"quest.50E8A24DE7E57632.title": "Chunks geladen halten"
+	"quest.50E8A24DE7E57632.quest_desc": [
+		"Maschinen arbeiten normalerweise nur, solange du in der Nähe bist. Mit FTB Chunks kannst du Chunks dauerhaft laden: Sie laufen auch, wenn du weg bist."
+		""
+		"Wichtig für Fabriken, Turtles und Computer."
+	]
+	"chapter.0F41D5CEC3BD9534.title": "FTB Chunks"
+	"chapter.0F41D5CEC3BD9534.chapter_subtitle": ["Schütze dein Land."]
+	"quest.4C75263053F4B687.title": "Ultimine"
+	"quest.4C75263053F4B687.quest_desc": [
+		"Mit Ultimine baust du ganze Erzadern, Bäume oder Flächen auf einmal ab. Halte dazu die Ultimine-Taste gedrückt, während du einen Block abbaust. Die Taste legst du in den Steuerungs-Einstellungen fest."
+	]
+	"quest.03E963198ED866AB.title": "Die Form wählen"
+	"quest.03E963198ED866AB.quest_desc": [
+		"Es gibt verschiedene Formen (zum Beispiel Schacht oder Fläche). Je mehr Blöcke du auf einmal abbaust, desto mehr Hunger bekommst du und desto schneller verschleißt dein Werkzeug."
+	]
+	"chapter.53BF1D5DAEDFBB6A.title": "FTB Ultimine"
+	"chapter.53BF1D5DAEDFBB6A.chapter_subtitle": ["Ganze Adern und Bäume auf einmal abbauen."]
+	"quest.5D609102E9BACF6B.title": "Hilfreiche Befehle"
+	"quest.5D609102E9BACF6B.quest_desc": [
+		"FTB Essentials bringt nützliche Chat-Befehle:"
+		"• /sethome und /home: Merke dir einen Ort und teleportiere dich dorthin."
+		"• /back: Zurück zum letzten Ort (zum Beispiel nach dem Tod)."
+		"• /kit: Ausrüstungs-Pakete (falls vom Betreiber eingerichtet)."
+	]
+	"quest.20CD25FB90F60830.title": "Dein Zuhause festlegen"
+	"quest.20CD25FB90F60830.quest_desc": ["Stelle dich auf deine Insel und tippe /sethome."]
+	"chapter.54E3326757060162.title": "FTB Essentials"
+	"chapter.54E3326757060162.chapter_subtitle": ["Heimat, Teleport und mehr."]
+	"quest.3E03ED5DCEF6E61F.title": "Was ist Create?"
+	"quest.3E03ED5DCEF6E61F.quest_desc": [
+		"Create ist eine Mod für mechanische Maschinen. Statt Strom nutzt du Drehkraft (Stress): Wasserräder, Windmühlen oder Dampfmaschinen drehen Wellen und Zahnräder, an denen Maschinen hängen."
+		""
+		"Das Wichtigste vorab: Schau dir im Spiel die Ponder-Anleitungen an. Halte W über einem Gegenstand und klicke ihn an (oder drücke W über dem Gegenstand in JEI)."
+	]
+	"quest.7EB04C2AA6832FFB.title": "Andesit-Legierung"
+	"quest.7EB04C2AA6832FFB.quest_desc": [
+		"Andesit-Legierung ist der Grundstoff für Wellen und Zahnräder. Du stellst sie aus Eisennuggets und Andesit her."
+	]
+	"quest.372E9BEF536DDFD7.title": "Wellen"
+	"quest.372E9BEF536DDFD7.quest_desc": [
+		"Wellen übertragen Drehkraft in einer geraden Linie. Du setzt sie aneinander."
+	]
+	"quest.34CCECF74E90B232.title": "Zahnräder"
+	"quest.34CCECF74E90B232.quest_desc": [
+		"Zahnräder geben die Drehung weiter und ändern Richtung und Geschwindigkeit. Große Zahnräder drehen langsamer, aber mit mehr Kraft."
+	]
+	"quest.195FE2ED96B708A5.title": "Das Wasserrad"
+	"quest.195FE2ED96B708A5.quest_desc": [
+		"Ein Wasserrad am fließenden Wasser erzeugt die erste Drehkraft. Platziere es neben fließendem Wasser."
+	]
+	"quest.0BB2EDCB3FA5D9DD.title": "Die Handkurbel"
+	"quest.0BB2EDCB3FA5D9DD.quest_desc": [
+		"Zum Ausprobieren: Die Handkurbel liefert Kraft, wenn du sie gedrückt hältst."
+	]
+	"quest.7E0D8766E14944F9.title": "Die Mühle"
+	"quest.7E0D8766E14944F9.quest_desc": [
+		"Die Mühle zermahlt Getreide, Erze und Steine zu Mehl und Pulver. Sie braucht Drehkraft."
+	]
+	"quest.1E8A6D34999845D0.title": "Die mechanische Presse"
+	"quest.1E8A6D34999845D0.quest_desc": [
+		"Presst Barren zu Platten. Platziere die Presse über einem Becken oder Förderband und gib Barren hinein."
+	]
+	"quest.43814BE6B0545F89.title": "Becken und Mischer"
+	"quest.43814BE6B0545F89.quest_desc": [
+		"Im Becken mischt der Mischer Zutaten, zum Beispiel für Messing. Es ist die zentrale Maschine für Legierungen."
+	]
+	"quest.4D90B6616D5C0BC3.title": "Der Ventilator"
+	"quest.4D90B6616D5C0BC3.quest_desc": [
+		"Der Ventilator bläst Luft. Hinter Feuer, Wasser oder Lava bearbeitet er Gegenstände, die hindurchfliegen: Waschen, Backen, Verbrennen."
+	]
+	"quest.2ED07D6040978A91.title": "Messing"
+	"quest.2ED07D6040978A91.quest_desc": [
+		"Messing entsteht aus Kupfer und Zink im beheizten Becken. Es ist der Schlüssel zu Create-Maschinen der zweiten Stufe."
+	]
+	"quest.722FCB624CBCDBD6.title": "Förderbänder"
+	"quest.722FCB624CBCDBD6.quest_desc": [
+		"Förderbänder transportieren Gegenstände. Ein Rollenpaar aus Wellen und Förderbandwellen wird mit dem Bandverbinder gezogen."
+	]
+	"quest.072F84CF5BFEF943.title": "Der mechanische Bohrer"
+	"quest.072F84CF5BFEF943.quest_desc": [
+		"Der Bohrer baut Blöcke vor sich ab, zum Beispiel Erz. Mit Förderbändern lieferst du den Abbau ab."
+	]
+	"quest.72A851C9B299A1C6.title": "Präzisionsmechanismus"
+	"quest.72A851C9B299A1C6.quest_desc": [
+		"Der Präzisionsmechanismus ist das Zwischenprodukt für fortgeschrittene Maschinen. Er wird in mehreren Schritten per 'Sequenced Assembly' hergestellt."
+	]
+	"quest.3ABABBE7FD848C64.title": "Mechanischer Arm"
+	"quest.3ABABBE7FD848C64.quest_desc": [
+		"Der Arm bewegt Gegenstände zwischen Maschinen, Truhen und Förderbändern. Programmiere ihn mit dem Zahnrad-Werkzeug."
+	]
+	"quest.7D2164EDEC572367.title": "Der Schraubenschlüssel"
+	"quest.7D2164EDEC572367.quest_desc": [
+		"Mit dem Schraubenschlüssel drehst du Maschinen, nimmst sie auf und baust sie ab."
+	]
+	"quest.66F7A43E2C7B7EEB.title": "Die Ingenieursbrille"
+	"quest.66F7A43E2C7B7EEB.quest_desc": [
+		"Mit der Brille siehst du Geschwindigkeit und Belastung (Stress) von Maschinen. Hilft bei der Fehlersuche."
+	]
+	"chapter.22342087C3E31DF2.title": "Create"
+	"chapter.22342087C3E31DF2.chapter_subtitle": [
+		"Zahnräder, Wasserräder, Förderbänder: Maschinen, die du sehen und anfassen kannst."
+	]
+	"quest.3B71DEF77F8A2AB7.title": "Was ist Mekanism?"
+	"quest.3B71DEF77F8A2AB7.quest_desc": [
+		"Mekanism ist eine große Technik-Mod: Erz-Verarbeitung (mehrfache Ausbeute), Energie, Flüssigkeiten und Gase. Maschinen werden mit Strom (Joule) betrieben."
+		""
+		"Die meisten Maschinen kannst du mit dem Konfigurator an jeder Seite für Ein- und Ausgabe einstellen."
+	]
+	"quest.2CCF8C3348634588.title": "Osmium"
+	"quest.2CCF8C3348634588.quest_desc": [
+		"Osmium ist das Grundmetall der Mod. Du bekommst es als Erz im Stein (oder als Brocken aus dem Sieb) und schmilzt es zu Barren."
+	]
+	"quest.4EBB56AC28A558DC.title": "Die Anreicherungskammer"
+	"quest.4EBB56AC28A558DC.quest_desc": [
+		"Die erste Maschine: Sie verdoppelt Erz zu Staub. Sie braucht Strom (zum Beispiel von einem Solargenerator)."
+	]
+	"quest.385F53D55DC40698.title": "Ein Solargenerator"
+	"quest.385F53D55DC40698.quest_desc": [
+		"Der Solargenerator erzeugt tagsüber Strom. Verbinde ihn mit einem Kabel mit deinen Maschinen."
+	]
+	"quest.5AE4FF943AC7E03F.title": "Kabel"
+	"quest.5AE4FF943AC7E03F.quest_desc": [
+		"Universal-Kabel leiten Strom. Stelle sie zwischen Generator, Energiespeicher und Maschine."
+	]
+	"quest.27F9082323A1F8E4.title": "Energiewürfel"
+	"quest.27F9082323A1F8E4.quest_desc": [
+		"Der Energiewürfel speichert Strom, damit nachts nichts ausfällt."
+	]
+	"quest.0A7359F11DF98C37.title": "Der Brecher"
+	"quest.0A7359F11DF98C37.quest_desc": [
+		"Der Brecher zermahlt Erz, Steine und mehr zu Staub und Kies."
+	]
+	"quest.3A7663936D41D5A5.title": "Der Metallurgische Infuser"
+	"quest.3A7663936D41D5A5.quest_desc": [
+		"Der Infuser veredelt Metalle mit Redstone, Kohle oder Kohlenstoff. Damit stellst du Stahl her."
+	]
+	"quest.015FE7605BD974F0.title": "Stahl"
+	"quest.015FE7605BD974F0.quest_desc": [
+		"Stahl ist der wichtigste Werkstoff der Mod. Du brauchst ihn für Gehäuse und stärkere Maschinen."
+	]
+	"quest.586B3052F772EF7B.title": "Das Stahlgehäuse"
+	"quest.586B3052F772EF7B.quest_desc": [
+		"Das Stahlgehäuse ist Bestandteil aller Fabrik-Maschinen. Aus ihm baust du größere Anlagen."
+	]
+	"quest.568C6A6B3D3F3451.title": "Steuerschaltkreise"
+	"quest.568C6A6B3D3F3451.quest_desc": [
+		"Schaltkreise steigern die Leistung der Maschinen. Es gibt vier Stufen."
+	]
+	"quest.4A6C1AD983B91BE3.title": "Der Konfigurator"
+	"quest.4A6C1AD983B91BE3.quest_desc": [
+		"Mit dem Konfigurator stellst du die Seiten einer Maschine ein: welche Seite Eingang, Ausgang oder Energie ist. Rechtsklick wechselt den Modus, Schleichen und Rechtsklick sperrt die Seite."
+	]
+	"quest.3F4B35B0EDEFF6F7.title": "Der digitale Miner"
+	"quest.3F4B35B0EDEFF6F7.quest_desc": [
+		"Der Miner gräbt in einem Bereich automatisch alle gewünschten Erze ab und gibt sie weiter. Er braucht viel Strom."
+	]
+	"chapter.10138904D2605D92.title": "Mekanism"
+	"chapter.10138904D2605D92.chapter_subtitle": [
+		"Erze verdoppeln, Energie speichern, Gas und Flüssigkeiten transportieren."
+	]
+	"quest.4CDA5AAA34D8626A.title": "Was ist Immersive Engineering?"
+	"quest.4CDA5AAA34D8626A.quest_desc": [
+		"IE bringt Strom (Flux) mit Freileitungen, Generatoren (Wasserrad, Windmühle, Dynamo) und große Mehrblock-Maschinen wie Brecher, Hochofen oder Raffinerie."
+		""
+		"Das Handbuch (Engineer's Manual) erklärt jede Maschine. Es liegt im Spiel in einem Rezept, schau mit JEI nach."
+	]
+	"quest.1A57FD0C19D47DEC.title": "Der Ingenieurshammer"
+	"quest.1A57FD0C19D47DEC.quest_desc": [
+		"Mit dem Hammer baust du IE-Mehrblock-Maschinen: Rechtsklick auf die Bauteile formt sie, außerdem drehst du damit Blöcke."
+	]
+	"quest.648C0AFBF3AC0905.title": "Der Drahtschneider"
+	"quest.648C0AFBF3AC0905.quest_desc": [
+		"Der Drahtschneider kappt Kabel und Isolierung. Zum Verlegen von Leitungen brauchst du ihn."
+	]
+	"quest.2895CEB17BEBE1EF.title": "Die Kokerei"
+	"quest.2895CEB17BEBE1EF.quest_desc": [
+		"Die Kokerei macht aus Kohle Koks, Rohstoff für Stahl. Sie wird aus Kokerei-Ziegeln gebaut."
+	]
+	"quest.21E90455D5F9E271.title": "Der Hochofen"
+	"quest.21E90455D5F9E271.quest_desc": ["Der Hochofen schmilzt Eisen mit Koks zu Stahl."]
+	"quest.5808645E117AB50B.title": "Stahl"
+	"quest.5808645E117AB50B.quest_desc": [
+		"Stahl ist die Grundlage für Maschinen, Werkzeuge und Rüstung in IE."
+	]
+	"quest.36FEA1CEE1B82C52.title": "Das Wasserrad"
+	"quest.36FEA1CEE1B82C52.quest_desc": [
+		"Das erste Kraftwerk: Das Wasserrad am fließenden Wasser treibt Dynamos an."
+	]
+	"quest.62296FFB6942ED6D.title": "Der Dynamo"
+	"quest.62296FFB6942ED6D.quest_desc": [
+		"Der Dynamo wandelt Drehkraft in Strom um (Flux) und gibt ihn an Kabel ab."
+	]
+	"quest.04F4398155EB440B.title": "Leitungen"
+	"quest.04F4398155EB440B.quest_desc": [
+		"Niederspannungs-Kupferleitungen spannen sich zwischen Anschlüssen. Immer isolieren!"
+	]
+	"quest.4F662AAAD4EBC78C.title": "Der Brecher"
+	"quest.4F662AAAD4EBC78C.quest_desc": [
+		"Der große Brecher zermahlt Erz zu Staub und verdoppelt die Ausbeute."
+	]
+	"chapter.236B60E2B0F5F8EF.title": "Immersive Engineering"
+	"chapter.236B60E2B0F5F8EF.chapter_subtitle": ["Kabel, Generatoren und große Mehrblock-Maschinen."]
+	"quest.6AC96948A290FF5D.title": "Was ist Industrial Foregoing?"
+	"quest.6AC96948A290FF5D.quest_desc": [
+		"Maschinen, die Tiere züchten, Pflanzen ernten, Monster töten und Material herstellen. Viele laufen mit Flüssigkeiten wie Latex oder Biokraftstoff."
+	]
+	"quest.60D32C81E1883AA9.title": "Das Handbuch"
+	"quest.60D32C81E1883AA9.quest_desc": [
+		"Industrial Foregoing hat ein Handbuch im Spiel: Du findest es in JEI oder im Kreativmodus. Es erklärt die Maschinen mit Bildern."
+	]
+	"quest.4AC4F64E253BD128.title": "Maschinenrahmen"
+	"quest.4AC4F64E253BD128.quest_desc": [
+		"Der Maschinenrahmen ist das Herzstück jeder Maschine. Es gibt vier Stufen."
+	]
+	"quest.3C2BE38FFB8BF9CF.title": "Mechanische Erde"
+	"quest.3C2BE38FFB8BF9CF.quest_desc": [
+		"Erzeugt Erde aus dem Nichts. Eine Starthilfe für jede Insel."
+	]
+	"quest.51B5075AEC237A7E.title": "Blockbrecher und -platzierer"
+	"quest.51B5075AEC237A7E.quest_desc": [
+		"Der Blockbrecher baut Blöcke vor sich ab, der Platzierer setzt sie. Gut für automatische Farmen."
+	]
+	"quest.25E3942A7B23FC2A.title": "Tierfarm"
+	"quest.25E3942A7B23FC2A.quest_desc": [
+		"Mit dem Tierzüchter und dem Schlachter automatisierst du Fleisch, Leder und mehr."
+	]
+	"quest.7F3F7F4890A8292A.title": "Der Laserbohrer"
+	"quest.7F3F7F4890A8292A.quest_desc": [
+		"Der Laserbohrer holt Erz aus der Tiefe, mit der passenden Linse für jedes Erz. Er braucht viel Energie."
+	]
+	"chapter.30B09BFFB0295239.title": "Industrial Foregoing"
+	"chapter.30B09BFFB0295239.chapter_subtitle": ["Fabriken für Tiere, Pflanzen und Erz."]
+	"quest.5D5F7B523659DD6A.title": "Was ist PneumaticCraft?"
+	"quest.5D5F7B523659DD6A.quest_desc": [
+		"PneumaticCraft nutzt Druckluft für Maschinen, Roboter (Drohnen) und Werkzeuge. Du verdichtest Luft mit dem Luftkompressor und leitest sie durch Rohre."
+		""
+		"Das Handbuch (Tome of Pneumatics) erklärt alles Schritt für Schritt."
+	]
+	"quest.1D26731B0FCFC711.title": "Der Luftkompressor"
+	"quest.1D26731B0FCFC711.quest_desc": [
+		"Er verdichtet Luft. Er braucht Brennstoff (zum Beispiel Kohle) und gibt Druck ab."
+	]
+	"quest.0044E897B633919F.title": "Druckrohre"
+	"quest.0044E897B633919F.quest_desc": ["Rohre leiten Druckluft von Quellen zu Maschinen."]
+	"quest.7EC8B6ADC08EAF44.title": "Die Druckkammer"
+	"quest.7EC8B6ADC08EAF44.quest_desc": [
+		"In der Druckkammer stellst du bei hohem Druck wichtige Bauteile her, zum Beispiel Plastik und Platinen."
+	]
+	"quest.6330FC5400DA7760.title": "Drohnen"
+	"quest.6330FC5400DA7760.quest_desc": [
+		"Drohnen sind fliegende Roboter, die du mit Blöcken und Programmen steuerst. Der Programmierer ist das Werkzeug dafür."
+	]
+	"chapter.1B895F9B122D1E4F.title": "PneumaticCraft"
+	"chapter.1B895F9B122D1E4F.chapter_subtitle": ["Druckluft statt Strom."]
+	"quest.11FE1C8466F82FD1.title": "Was ist Powah?"
+	"quest.11FE1C8466F82FD1.quest_desc": [
+		"Powah erzeugt viel Strom mit einfachen Generatoren: Magmator (Lava), Solarpaneel, Thermo-Generator und Reaktor. Dazu gibt es Energiezellen und Kabel in sechs Stufen."
+	]
+	"quest.7A747E7F3C91C7D6.title": "Das Handbuch"
+	"quest.7A747E7F3C91C7D6.quest_desc": ["Das Powah-Handbuch erklärt jede Stufe im Detail."]
+	"quest.6483E31A4B72ADBC.title": "Energetisierter Stahl"
+	"quest.6483E31A4B72ADBC.quest_desc": ["Grundstoff, der in der Energetisier-Anlage entsteht."]
+	"quest.0A4C0BF1126A5752.title": "Der Energetisier-Orb"
+	"quest.0A4C0BF1126A5752.quest_desc": [
+		"Der Orb versorgt den Energetisier-Stab mit Energie, um Material zu veredeln."
+	]
+	"quest.5552361218BB4EE4.title": "Energetisier-Stäbe"
+	"quest.5552361218BB4EE4.quest_desc": ["Die Stäbe veredeln Gegenstände unter einem Orb."]
+	"quest.75C031DB330E3E16.title": "Energiezelle"
+	"quest.75C031DB330E3E16.quest_desc": ["Die Zelle speichert Strom."]
+	"quest.3CF7020356467771.title": "Energiekabel"
+	"quest.3CF7020356467771.quest_desc": ["Kabel leiten Strom zu Maschinen."]
+	"chapter.091F443D16F9D169.title": "Powah"
+	"chapter.091F443D16F9D169.chapter_subtitle": ["Strom aus Kristallen, Wasser und Lava."]
+	"quest.0F8AA8E9291621DB.title": "Was ist AE2?"
+	"quest.0F8AA8E9291621DB.quest_desc": [
+		"Applied Energistics 2 (AE2) verwandelt Gegenstände in digitale Daten. Du baust ein ME-Netzwerk aus Kabeln, Laufwerken und Terminals."
+		""
+		"Das Pack hat zwei digitale Lager: AE2 (diese Mod) und unseren Netzwerkspeicher (programmierbar mit CC). Beides kannst du parallel nutzen."
+	]
+	"quest.4A8C87770769F583.title": "Certus-Quarz"
+	"quest.4A8C87770769F583.quest_desc": [
+		"Certus-Quarz-Kristalle sind der Grundstoff für alles in AE2. Du findest sie als Erz im Stein oder bekommst sie aus dem Sieb."
+	]
+	"quest.246D5EC3E3626A0B.title": "Der Charger"
+	"quest.246D5EC3E3626A0B.quest_desc": [
+		"Der Charger lädt Certus-Quarz zu geladenem Certus-Quarz auf. Er braucht Energie."
+	]
+	"quest.1B6C60AABF3BBB5C.title": "Geladener Quarz"
+	"quest.1B6C60AABF3BBB5C.quest_desc": ["Geladener Quarz ist für Fluix und viele Bauteile nötig."]
+	"quest.239E967F39F3B625.title": "Energie für das Netz"
+	"quest.239E967F39F3B625.quest_desc": [
+		"ME-Netzwerke brauchen AE-Energie. Eine einfache Quelle ist die Vibrationskammer, die Brennstoff verbrennt."
+		""
+		"Der Energie-Akzeptor holt Energie aus anderen Mods (zum Beispiel Create, Mekanism, Powah) und macht daraus AE-Energie."
+	]
+	"quest.5CF1D076C6BE7B33.title": "Die Pressen"
+	"quest.5CF1D076C6BE7B33.quest_desc": [
+		"Prozessoren stellst du im Inscriber mit Pressen her. In dieser Ozean-Welt gibt es keine Meteoriten, in denen man sie sonst findet."
+		""
+		"Deshalb schenkt dir das Pack je eine Silizium-, Logik-, Rechen- und Technik-Presse."
+	]
+	"quest.70511468F6747F57.title": "Der Inscriber"
+	"quest.70511468F6747F57.quest_desc": [
+		"Der Inscriber stanzt mit zwei Pressen Material zu Platinen und Prozessoren."
+	]
+	"quest.549A364AC3728170.title": "Silizium"
+	"quest.549A364AC3728170.quest_desc": ["Silizium schmilzt du aus Quarzsand im Ofen."]
+	"quest.1189FC02F462B0BE.title": "Prozessoren"
+	"quest.1189FC02F462B0BE.quest_desc": [
+		"Es gibt drei Sorten: Logik, Rechen und Technik. Schau mit JEI nach den Rezepten."
+	]
+	"quest.31C6C04AA501EB50.title": "ME-Kabel"
+	"quest.31C6C04AA501EB50.quest_desc": [
+		"ME-Kabel verbinden alle Geräte. Fluix-Glaskabel sind die einfachsten."
+	]
+	"quest.2AB05580C06528BF.title": "Der Controller"
+	"quest.2AB05580C06528BF.quest_desc": [
+		"Der Controller ist das Herz größerer Netzwerke: Er verteilt Energie und stellt die Kanäle bereit. Kleine Netze funktionieren auch ohne ihn."
+	]
+	"quest.39468670508546CE.title": "ME-Laufwerk und Zellen"
+	"quest.39468670508546CE.quest_desc": [
+		"Das Laufwerk nimmt Speicherzellen auf. Setze sie hinein, und dein Netz speichert Gegenstände."
+	]
+	"quest.561AFEC59673AA25.title": "Terminal"
+	"quest.561AFEC59673AA25.quest_desc": [
+		"Das Terminal zeigt alle gespeicherten Gegenstände. Klicke auf einen, um ihn zu nehmen, oder lege neue hinein."
+	]
+	"quest.5AD08237FEF5D027.title": "Auto-Crafting"
+	"quest.5AD08237FEF5D027.quest_desc": [
+		"Für Auto-Crafting brauchst du Crafting-Einheiten (Rechenleistung), einen Musterlieferanten mit Mustern und einen Molekularassembler."
+		""
+		"Beginne klein: Baue einen Crafting-Block."
+	]
+	"quest.3325055350042DC5.title": "Muster erstellen"
+	"quest.3325055350042DC5.quest_desc": [
+		"Muster legen fest, wie etwas hergestellt wird. Du kodierst sie im Muster-Terminal mit leeren Mustern."
+	]
+	"quest.7CD70D2D038D3861.title": "Importer und Exporter"
+	"quest.7CD70D2D038D3861.quest_desc": [
+		"Importbus und Exportbus ziehen Gegenstände aus Kisten in das Netz und zurück. So bindest du Maschinen an."
+	]
+	"quest.15A2A7A0D37C1660.title": "Drahtlos"
+	"quest.15A2A7A0D37C1660.quest_desc": [
+		"Mit Funk-Zugriffspunkt und drahtlosem Terminal erreichst du dein Netz von überall. Das AE2 Wireless Terminals Addon bündelt mehrere Terminals in einem."
+	]
+	"quest.3ADAEE4B08A6F891.title": "Applied Mekanistics"
+	"quest.3ADAEE4B08A6F891.quest_desc": [
+		"Das Addon Applied Mekanistics bringt Gase und Infusionen von Mekanism in dein ME-Netz."
+	]
+	"chapter.32F4545024F13413.title": "Applied Energistics 2"
+	"chapter.32F4545024F13413.chapter_subtitle": [
+		"Das große ME-Lager mit Netzwerken, Kabeln und Auto-Crafting."
+	]
+	"quest.7961AD9A2E4470EF.title": "Was ist Refined Storage?"
+	"quest.7961AD9A2E4470EF.quest_desc": [
+		"Refined Storage (RS) ist wie AE2 ein digitales Lager, aber einfacher aufgebaut. Alle Geräte hängen an Kabeln am Controller."
+		""
+		"Du kannst RS und AE2 gleichzeitig nutzen, sie funktionieren unabhängig."
+	]
+	"quest.06EEC4C064FA5CC0.title": "Kabel und Controller"
+	"quest.06EEC4C064FA5CC0.quest_desc": [
+		"Verbinde Controller und Geräte mit Kabeln. Der Controller liefert Energie, die du von einer Energiequelle bekommst."
+	]
+	"quest.2F639F9887ECAC03.title": "Disk Drive und Platten"
+	"quest.2F639F9887ECAC03.quest_desc": [
+		"Das Laufwerk nimmt Speicherplatten auf. Die Platten fassen je nach Stufe 1k, 4k, 16k oder 64k Gegenstände."
+	]
+	"quest.37A529D56ED29C55.title": "Das Grid"
+	"quest.37A529D56ED29C55.quest_desc": [
+		"Das Grid ist dein Zugang zum Lager. Es zeigt alle Gegenstände."
+	]
+	"quest.10A8AD62E3B69556.title": "Importer und Exporter"
+	"quest.10A8AD62E3B69556.quest_desc": [
+		"Importer ziehen Gegenstände ins Netz, Exporter holen sie heraus. Damit bindest du Kisten und Maschinen an."
+	]
+	"quest.524785F935E00425.title": "Auto-Crafting"
+	"quest.524785F935E00425.quest_desc": [
+		"Mit Autocrafter und Mustern stellt RS Gegenstände automatisch her. Muster legst du im Pattern Grid fest."
+	]
+	"quest.7EC2ADF0AB9469B4.title": "Drahtlos"
+	"quest.7EC2ADF0AB9469B4.quest_desc": [
+		"Das drahtlose Grid macht das Lager überall nutzbar, in Reichweite eines Senders."
+	]
+	"chapter.3F78D748F3EE6EBE.title": "Refined Storage"
+	"chapter.3F78D748F3EE6EBE.chapter_subtitle": ["Das zweite digitale Lager, einfach und stark."]
+	"quest.35673541ECF4BDC6.title": "Was ist Sophisticated?"
+	"quest.35673541ECF4BDC6.quest_desc": [
+		"Sophisticated Storage und Sophisticated Backpacks bringen Truhen, Fässer und Rucksäcke mit Upgrades: Filter, automatisches Einsammeln, Magnet, Schmelzen und mehr."
+	]
+	"quest.357046BB6CA56866.title": "Dein erster Rucksack"
+	"quest.357046BB6CA56866.quest_desc": [
+		"Der Rucksack hat viele Plätze und zusätzliche Upgrade-Slots. Du trägst ihn auf dem Rücken."
+	]
+	"quest.452148F504BE83ED.title": "Upgrades"
+	"quest.452148F504BE83ED.quest_desc": [
+		"Rucksäcke und Truhen nehmen Upgrades auf. Zum Beispiel sammelt der Magnet Gegenstände aus der Umgebung ein, der Filter sortiert."
+	]
+	"quest.10A3AC6A8E6BDAAD.title": "Eine Truhe"
+	"quest.10A3AC6A8E6BDAAD.quest_desc": [
+		"Die Sophisticated-Truhe hat mehr Plätze als eine normale Truhe und nimmt ebenfalls Upgrades auf."
+	]
+	"quest.1E538D6FD1918C05.title": "Ein Fass"
+	"quest.1E538D6FD1918C05.quest_desc": [
+		"Das Fass speichert platzsparend. Auch hier funktionieren die Upgrades."
+	]
+	"chapter.79ED7686BA3150E4.title": "Sophisticated Mods"
+	"chapter.79ED7686BA3150E4.chapter_subtitle": ["Truhen, Fässer und Rucksäcke mit Upgrades."]
+	"quest.764B97B2FEDA09BB.title": "Schubladen"
+	"quest.764B97B2FEDA09BB.quest_desc": [
+		"Functional Storage bringt Schubladen: Jede Schublade speichert viele Gegenstände einer Sorte. Mit dem Schubladen-Controller verbindest du viele zu einem Lager."
+	]
+	"quest.191B6C71F9A01752.title": "Eine Schublade"
+	"quest.191B6C71F9A01752.quest_desc": [
+		"Klicke mit dem Gegenstand auf die Schublade, um ihn zuzuweisen. Dann füllt sie sich von selbst."
+	]
+	"quest.267C4AE954684B1F.title": "Der Controller"
+	"quest.267C4AE954684B1F.quest_desc": [
+		"Der Controller verbindet Schubladen in der Nähe zu einem Lager mit einem gemeinsamen Zugang."
+	]
+	"quest.7E85A14BDDD0E7CA.title": "Upgrades"
+	"quest.7E85A14BDDD0E7CA.quest_desc": [
+		"Kupfer-, Gold- und Diamantupgrade vergrößern die Schublade. Der Puller und Pusher bewegen Gegenstände automatisch."
+	]
+	"quest.651582BDADF139BE.title": "Tom's Lager-Terminal"
+	"quest.651582BDADF139BE.quest_desc": [
+		"Mit dem Lager-Terminal und Kabeln machst du alle Truhen in der Nähe wie ein digitales Lager nutzbar, ganz ohne Strom."
+	]
+	"quest.4DB268F971DC62A9.title": "Lager-Kabel"
+	"quest.4DB268F971DC62A9.quest_desc": ["Die Kabel verbinden das Terminal mit Truhen und Schubladen."]
+	"quest.055D218C760D7AC5.title": "Crafting-Terminal"
+	"quest.055D218C760D7AC5.quest_desc": [
+		"Das Crafting-Terminal ist eine Werkbank, die auf das ganze Lager zugreift."
+	]
+	"chapter.01538DD17F293C5B.title": "Schubladen und Lager"
+	"chapter.01538DD17F293C5B.chapter_subtitle": ["Functional Storage und Tom's Simple Storage."]
+	"quest.1FB75E7FF0C8EBBE.title": "Computer sind Programme"
+	"quest.1FB75E7FF0C8EBBE.quest_desc": [
+		"CC: Tweaked bringt Computer ins Spiel, die du selbst programmierst. Die Sprache heißt Lua und ist leicht zu lernen."
+		""
+		"Mit Computern steuerst du Türen, Fabriken, Lager und sogar Roboter."
+	]
+	"quest.3426AD433125D2DE.title": "Dein erster Computer"
+	"quest.3426AD433125D2DE.quest_desc": [
+		"Ein Computer besteht aus Stein, Redstone und einer Glasscheibe. Stelle ihn auf den Boden und klicke ihn mit der rechten Maustaste an."
+		""
+		"Du siehst ein schwarzes Terminal. Tippe zum Beispiel 'help' und drücke Enter."
+	]
+	"quest.278825F0235D6544.title": "Hallo Welt!"
+	"quest.278825F0235D6544.quest_desc": [
+		"Tippe: edit hallo"
+		"Schreibe in den Editor: print(\"Hallo Welt!\")"
+		"Speichern mit Strg und S, Beenden mit Strg und E (der Editor zeigt es unten an)."
+		"Tippe dann einfach: hallo"
+		""
+		"Gratuliere, dein erstes Programm läuft! Hilfe zu jedem Befehl: help <name>."
+	]
+	"quest.34E0FBD0AA924007.title": "Ein Monitor"
+	"quest.34E0FBD0AA924007.quest_desc": [
+		"Monitore zeigen Text größer und in Farbe. Stelle einen Monitor direkt neben deinen Computer, er wird automatisch verbunden. Mehrere Monitore nebeneinander bilden eine große Anzeige."
+	]
+	"quest.580B34952D83F9F9.title": "Laufwerk und Disketten"
+	"quest.580B34952D83F9F9.quest_desc": [
+		"Mit einem Laufwerk (Disk Drive) und Disketten tauschst du Programme zwischen Computern aus. Kopieren zum Beispiel mit: copy hallo disk/hallo"
+	]
+	"quest.66AC19642F05819F.title": "Kabel und Modems"
+	"quest.66AC19642F05819F.quest_desc": [
+		"Kabel und Kabelmodems verbinden Geräte über weite Strecken. Setze ein Modem an das Gerät, klicke es mit der rechten Maustaste an (es leuchtet rot), und das Gerät erscheint im Netzwerk. Im Computer siehst du die Geräte mit: peripherals"
+	]
+	"quest.3CD23FE54A56F144.title": "Eine Turtle!"
+	"quest.3CD23FE54A56F144.quest_desc": [
+		"Turtles sind Roboter, die du programmierst. Sie fahren, graben, bauen und tragen Gegenstände."
+		""
+		"Eine Turtle braucht Brennstoff (zum Beispiel Kohle, mit 'refuel'). Ein Werkzeug rüstest du mit: equip left."
+	]
+	"quest.1251EE40ECB8CD0E.title": "Die Turtle fährt los"
+	"quest.1251EE40ECB8CD0E.quest_desc": [
+		"Probiere im Terminal der Turtle:"
+		"• go forward 5 – fährt fünf Blöcke vor"
+		"• excavate 5 – gräbt ein Loch (braucht eine Spitzhacke)"
+		"• refuel – tankt mit Brennstoff aus dem Inventar"
+		""
+		"In Programmen: turtle.forward(), turtle.dig(), turtle.place()."
+	]
+	"quest.41583E52DA0C5E84.title": "Funk: Ender-Modem"
+	"quest.41583E52DA0C5E84.quest_desc": [
+		"Funkmodems funken über kurze Strecken. Das Ender-Modem (Wireless Modem Advanced) funkt unbegrenzt weit, auch zwischen Dimensionen. Damit sprechen Turtles und Computer miteinander."
+	]
+	"quest.7E8E4B4D7CBC6711.title": "Pocket-Computer"
+	"quest.7E8E4B4D7CBC6711.quest_desc": [
+		"Ein Pocket-Computer ist ein Computer für die Tasche. Mit einem Ender-Modem als Upgrade greifst du von überall auf dein Lager zu."
+	]
+	"quest.4C1717C54CB35E23.title": "Advanced-Computer"
+	"quest.4C1717C54CB35E23.quest_desc": [
+		"Advanced-Computer (golden) haben Farbe und Maus-Unterstützung. Ideal für Programme mit Knöpfen."
+	]
+	"quest.4D64447B737D4B91.title": "Lua lernen"
+	"quest.4D64447B737D4B91.quest_desc": [
+		"Grundlagen:"
+		"• Variablen: local zahl = 5"
+		"• Ausgeben: print(\"Hallo\")"
+		"• Schleifen: for i = 1, 10 do print(i) end"
+		"• Bedingungen: if zahl > 3 then print(\"groß\") end"
+		"• Geräte: local m = peripheral.find(\"monitor\")"
+		""
+		"Das ausführliche Handbuch findest du im Netz unter tweaked.cc."
+	]
+	"chapter.7282B3ECA93D75BC.title": "CC: Tweaked"
+	"chapter.7282B3ECA93D75BC.chapter_subtitle": [
+		"Programmierbare Computer. Du lernst Lua und baust deine eigene Automation."
+	]
+	"quest.42569E9AC9D7E08E.title": "Digitales Lager"
+	"quest.42569E9AC9D7E08E.quest_desc": [
+		"Der Netzwerkspeicher speichert Gegenstände digital: Statt Kisten voller Items hat er nur Zähler. Der einfache Speicher fasst 640.000 Gegenstände."
+		""
+		"Mehrere Blöcke nebeneinander bilden ein Netz. Scanner, Drucker und Crafter geben die Verbindung weiter."
+	]
+	"quest.0D5A821E2413C4A5.title": "Der 3D-Scanner"
+	"quest.0D5A821E2413C4A5.quest_desc": [
+		"Der Scanner digitalisiert Gegenstände. Rechtsklick öffnet sein Fenster: Lege Gegenstände in die 9 Felder, und sie landen im Speicher. Mit dem Knopf oben stellst du eine Kiste neben dem Scanner ein, deren Inhalt er sich dann von selbst holt."
+	]
+	"quest.2804BB740D0A352D.title": "Der 3D-Drucker"
+	"quest.2804BB740D0A352D.quest_desc": [
+		"Der Drucker holt Gegenstände sofort aus dem Speicher und legt sie in eine Kiste daneben. Suche im Fenster, wähle eine Menge, stelle die Seite der Kiste ein und drücke 'Drucken'."
+	]
+	"quest.5377DB6F2AA74A7E.title": "Computer anschließen"
+	"quest.5377DB6F2AA74A7E.quest_desc": [
+		"Setze ein Kabelmodem an den Speicher und klicke es mit der rechten Maustaste an. Verbinde es per Kabel mit dem Computer."
+		""
+		"Im Computer: local s = peripheral.find(\"network_storage\") und s.list() zeigt den Inhalt. Weitere Befehle: getUsed(), getCapacity(), pullItems(), pushItems()."
+	]
+	"quest.25D9C51C855093F8.title": "Das ME-Terminal"
+	"quest.25D9C51C855093F8.quest_desc": [
+		"Auf jedem Advanced-Computer mit Monitor gibt es das Programm 'me'. Tippe: me"
+		""
+		"Du siehst alle Gegenstände auf dem Monitor, tippst einen an, wählst die Menge und lässt ihn ausgeben. Unter 'Setup' wählst du Ein- und Ausgabe-Kisten. Tippen auf dem Computer startet die Suche."
+	]
+	"quest.3A829D5AB6B8B77A.title": "Advanced-Speicher"
+	"quest.3A829D5AB6B8B77A.quest_desc": [
+		"Der goldene Speicher fasst 1.280.000 Gegenstände. Stelle ihn einfach an das Netz."
+	]
+	"quest.371205A8EF009123.title": "Diamant-Speicher"
+	"quest.371205A8EF009123.quest_desc": [
+		"Der Diamant-Speicher fasst 100 Millionen Gegenstände, genug für jeden Server-Raum."
+	]
+	"quest.602F54C13784C956.title": "Creative-Speicher"
+	"quest.602F54C13784C956.quest_desc": [
+		"Der lila Speicher hat von jedem Gegenstand unendlich viele. Er ist sehr teuer (vier Nether-Sterne und vier Diamantblöcke plus Diamant-Speicher)."
+	]
+	"quest.752F1645B279FB57.title": "Turtles mit dem Lager verbinden"
+	"quest.752F1645B279FB57.quest_desc": [
+		"Der Speicher lauscht auf Kanal 4242. Eine Turtle mit Ender-Modem kann Kohle anfordern oder ihre Gegenstände abgeben, ganz ohne Kisten."
+		""
+		"Beispiel (Turtle):"
+		"local m = peripheral.find(\"modem\")"
+		"m.open(4243)"
+		"m.transmit(4242, 4243, {type=\"netstorage:request\", item=\"minecraft:coal\", amount=32})"
+		"local _,_,_,_,antwort = os.pullEvent(\"modem_message\")"
+		""
+		"Zum Abgeben schickst du {type=\"netstorage:deposit\"}."
+	]
+	"quest.1F9A7F7644B7F133.title": "Zugriff aus der Hosentasche"
+	"quest.1F9A7F7644B7F133.quest_desc": [
+		"Mit einem Pocket-Computer mit Ender-Modem erreichst du dein Lager von überall. Tippe auf dem Pocket: pocket_me"
+		""
+		"Tippe den Namen eines Gegenstands, wähle mit den Pfeiltasten und drücke Enter. Er landet direkt in deinem Inventar."
+	]
+	"chapter.4A812755EB365A46.title": "Netzwerkspeicher"
+	"chapter.4A812755EB365A46.chapter_subtitle": [
+		"Unser eigener Mod: digitales Lager, Scanner, Drucker und Auto-Crafting für deine Computer."
+	]
+	"quest.1DBBEBFDB44B7883.title": "Der Auto-Crafter"
+	"quest.1DBBEBFDB44B7883.quest_desc": [
+		"Der Auto-Crafter kennt alle Rezepte des Spiels (Werkbank, Ofen, Hochofen, Räucherofen, Steinsäge). Du sagst ihm, was du willst, er stellt es aus dem Speicher her."
+		""
+		"Fehlt eine Zutat, stellt er sie wenn möglich selbst her. Das Schmelzen holt den Brennstoff ebenfalls aus dem Speicher."
+		""
+		"Stelle ihn einfach neben den Netzwerkspeicher."
+	]
+	"quest.36EAD365C30BC095.title": "Crafting per Lua"
+	"quest.36EAD365C30BC095.quest_desc": [
+		"local c = peripheral.find(\"auto_crafter\")"
+		"• c.craft(\"minecraft:torch\", 64) startet den Auftrag"
+		"• c.plan(\"minecraft:torch\", 64) prüft vorher, ob es klappt"
+		"• c.recipes(\"minecraft:furnace\") zeigt die Rezepte"
+		"• c.jobs() zeigt laufende Aufträge"
+	]
+	"quest.7D6B95E4F7B8EE61.title": "Craften im ME-Terminal"
+	"quest.7D6B95E4F7B8EE61.quest_desc": [
+		"Mit einem Auto-Crafter am Netz zeigt das ME-Terminal beim Suchen auch Dinge, die du craften kannst. Wähle die Menge und drücke 'Craften'."
+	]
+	"quest.32A3BEF060CCFDAF.title": "Advanced-Crafter"
+	"quest.32A3BEF060CCFDAF.quest_desc": [
+		"Deutlich schneller: Tausende Crafts pro Sekunde, 16-faches Schmelz-Tempo."
+	]
+	"quest.37B1F363394CA74F.title": "Diamant-Crafter"
+	"quest.37B1F363394CA74F.quest_desc": [
+		"Praktisch unbegrenzt schnell: Er erledigt auch riesige Aufträge sofort."
+	]
+	"quest.292E805A7A5594FF.title": "Craften aus der Tasche"
+	"quest.292E805A7A5594FF.quest_desc": [
+		"Im Pocket-Programm schaltest du mit der Tab-Taste auf die Craftbar-Liste. Wähle einen Gegenstand und drücke Enter."
+	]
+	"chapter.758237FF811226C9.title": "Auto-Crafting"
+	"chapter.758237FF811226C9.chapter_subtitle": ["Lass dir alles automatisch herstellen und schmelzen."]
+	"quest.70265D65743E28F0.title": "Was ist Ars Nouveau?"
+	"quest.70265D65743E28F0.quest_desc": [
+		"Ars Nouveau ist eine Magie-Mod, in der du Zauber aus Glyphen selbst zusammensetzt. Zauber brauchen Mana. Das Handbuch (Worn Notebook) erklärt alles Schritt für Schritt."
+	]
+	"quest.69B13F465EEA0A56.title": "Das Notizbuch"
+	"quest.69B13F465EEA0A56.quest_desc": [
+		"Das Notizbuch ist dein Handbuch im Spiel. Lies es, es führt dich durch die gesamte Mod."
+	]
+	"quest.127C9A605D7F7E57.title": "Quellstein"
+	"quest.127C9A605D7F7E57.quest_desc": [
+		"Quelle (Source) ist der Treibstoff aller Magie. Der Quellstein ist ihr Rohstoff."
+	]
+	"quest.30D498A5B162D0CC.title": "Der Zauberbuch-Anfang"
+	"quest.30D498A5B162D0CC.quest_desc": [
+		"Mit dem Anfänger-Zauberbuch wirkst du die ersten Zauber. Neue Glyphen lernst du am Schreibtisch."
+	]
+	"quest.62B6E296BC7B9832.title": "Der Schreibtisch"
+	"quest.62B6E296BC7B9832.quest_desc": [
+		"Am Schreibtisch (Scribes Table) lernst du neue Glyphen, indem du sie mit Quellstein bezahlst."
+	]
+	"quest.44D99230A5DF1779.title": "Das Quellgefäß"
+	"quest.44D99230A5DF1779.quest_desc": [
+		"Das Quellgefäß speichert Quelle. Platziere es neben Quell-Verbindungen."
+	]
+	"quest.1550457CDFE584BD.title": "Der Verzauberungsapparat"
+	"quest.1550457CDFE584BD.quest_desc": [
+		"Mit dem Verzauberungsapparat (Enchanting Apparatus) stellst du Zauberausrüstung her."
+	]
+	"quest.47AF4053E1EE4182.title": "Magiblüte"
+	"quest.47AF4053E1EE4182.quest_desc": [
+		"Magiblüten wachsen in der Natur und werden für viele Rezepte gebraucht."
+	]
+	"chapter.0772A1F000AC15F1.title": "Ars Nouveau"
+	"chapter.0772A1F000AC15F1.chapter_subtitle": ["Zauber selbst zusammenbauen."]
+	"quest.32F3EF8649E214E7.title": "Was ist Occultism?"
+	"quest.32F3EF8649E214E7.quest_desc": [
+		"Occultism ist eine Magie-Mod mit Ritualen: Du rufst Geister, lässt sie für dich arbeiten und stellst mächtige Gegenstände her. Das Geisterbuch (Dictionary of Spirits) erklärt alles."
+	]
+	"quest.195176B92CFB1C58.title": "Das Geisterbuch"
+	"quest.195176B92CFB1C58.quest_desc": [
+		"Das Buch führt dich durch alle Rituale. Du bekommst es, indem du ein Stück Papier und ein Buch kombinierst, siehe JEI. Lies das Kapitel 'Erste Schritte'."
+	]
+	"quest.571955F20710B008.title": "Kreide"
+	"quest.571955F20710B008.quest_desc": [
+		"Mit Kreide zeichnest du Ritualkreise auf den Boden. Es gibt mehrere Farben."
+	]
+	"quest.5E564806490D49CB.title": "Die goldene Opferschale"
+	"quest.5E564806490D49CB.quest_desc": [
+		"Die Schale legt Gegenstände für ein Ritual ab. Du platzierst mehrere um den Kreis."
+	]
+	"chapter.04A8EEB70DFF77BC.title": "Occultism"
+	"chapter.04A8EEB70DFF77BC.chapter_subtitle": ["Geister rufen und Rituale ausführen."]
+	"quest.5F8EA0588A1427C7.title": "Was ist Iron's Spells?"
+	"quest.5F8EA0588A1427C7.quest_desc": [
+		"Eine große Magie-Mod mit vielen Zaubern, Zauberbüchern, Schriftrollen und eigenen Bosse. Die Zauber nutzen Mana."
+	]
+	"quest.21E95AF6A234265C.title": "Ein Zauberbuch"
+	"quest.21E95AF6A234265C.quest_desc": [
+		"Im Zauberbuch trägst du deine Zauber. Du brauchst eins, um zu zaubern."
+	]
+	"quest.5687D33ACC35AF0B.title": "Der Inschrifttisch"
+	"quest.5687D33ACC35AF0B.quest_desc": [
+		"Am Inschrifttisch schreibst du Zauber aus Schriftrollen ins Zauberbuch."
+	]
+	"quest.2B9F661E1902642C.title": "Arkane Essenz"
+	"quest.2B9F661E1902642C.quest_desc": ["Arkane Essenz ist die Zutat für Zauberausrüstung und Runen."]
+	"chapter.25CAB25C285B6B26.title": "Iron's Spells 'n Spellbooks"
+	"chapter.25CAB25C285B6B26.chapter_subtitle": ["Zauberbücher, Schriftrollen und eine RPG-Zauberwelt."]
+	"quest.11D146981CDAF65C.title": "Was ist Mystical Agriculture?"
+	"quest.11D146981CDAF65C.quest_desc": [
+		"Hier wächst Ressource auf dem Feld: Du pflanzt Samen (zum Beispiel für Eisen oder Diamant) und erntest Essenzen, aus denen du das Material herstellst."
+		""
+		"Alles beginnt mit Inferium, der einfachsten Essenz."
+	]
+	"quest.24939110E67287AB.title": "Inferium-Essenz"
+	"quest.24939110E67287AB.quest_desc": [
+		"Inferium-Essenz gewinnst du aus Monster-Drops oder aus Feldfrüchten. Sie ist der Grundstoff für alle Samen."
+	]
+	"quest.1EF5EFEDD7A22261.title": "Der Infusionsaltar"
+	"quest.1EF5EFEDD7A22261.quest_desc": [
+		"Am Altar stellst du Samen her: Du legst Zutaten auf Sockel rundherum."
+	]
+	"quest.507F3A2986B78B0C.title": "Infusions-Sockel"
+	"quest.507F3A2986B78B0C.quest_desc": [
+		"Die Sockel stellen die Zutaten bereit. Du brauchst vier um den Altar."
+	]
+	"chapter.5228BBAA174C9C9C.title": "Mystical Agriculture"
+	"chapter.5228BBAA174C9C9C.chapter_subtitle": ["Ressourcen anbauen wie Weizen."]
+	"quest.136074412A6AF99A.title": "Was ist Productive Bees?"
+	"quest.136074412A6AF99A.quest_desc": [
+		"Bienen liefern hier nicht nur Honig: Es gibt Bienen für Erze, Kristalle und mehr. Mit Kreuzung entstehen neue Arten."
+	]
+	"quest.1A4D2D7A2CBE46F1.title": "Der Bienenkäfig"
+	"quest.1A4D2D7A2CBE46F1.quest_desc": ["Mit dem Käfig fängst du wilde Bienen ein."]
+	"quest.77C4DC285FE31949.title": "Ein Bienenstock"
+	"quest.77C4DC285FE31949.quest_desc": [
+		"Die erweiterten Bienenstöcke fassen mehr Bienen als die einfachen und liefern mehr."
+	]
+	"quest.2E5436D89602DC13.title": "Die Zentrifuge"
+	"quest.2E5436D89602DC13.quest_desc": [
+		"Die Zentrifuge zerlegt Waben in ihre Bestandteile: Honig, Wachs und Ressourcen."
+	]
+	"chapter.6D991909CAA455D2.title": "Productive Bees"
+	"chapter.6D991909CAA455D2.chapter_subtitle": ["Bienen, die Ressourcen herstellen."]
+	"quest.1D9AA1EA98A1D7EB.title": "Was ist Aquaculture?"
+	"quest.1D9AA1EA98A1D7EB.quest_desc": [
+		"Aquaculture bringt neue Fische, bessere Angeln und Köder. Auf deiner Ozean-Welt ist es eine wichtige Nahrungsquelle."
+	]
+	"quest.0AF5431EF206203B.title": "Eine bessere Angel"
+	"quest.0AF5431EF206203B.quest_desc": ["Eisen-, Gold- und Diamantangeln fangen schneller und mehr."]
+	"quest.2F43A10855561BC2.title": "Die Angelkiste"
+	"quest.2F43A10855561BC2.quest_desc": ["In der Angelkiste lagerst du Köder und Zubehör."]
+	"quest.34D3DEB02B68B14A.title": "Fischfilet"
+	"quest.34D3DEB02B68B14A.quest_desc": [
+		"Fische kannst du zerlegen. Gegart ergibt das Filet sättigendes Essen."
+	]
+	"chapter.0B8027E9B5370E6A.title": "Aquaculture"
+	"chapter.0B8027E9B5370E6A.chapter_subtitle": ["Angeln im Ozean."]
+	"quest.7A0D131C57A03CBC.title": "Was ist Farmer's Delight?"
+	"quest.7A0D131C57A03CBC.quest_desc": [
+		"Farmer's Delight bringt Kochen: Kochtopf, Schneidebrett, Pfanne und viele neue Gerichte und Zutaten."
+	]
+	"quest.5AB090F836C7CC34.title": "Der Kochtopf"
+	"quest.5AB090F836C7CC34.quest_desc": [
+		"Stelle den Kochtopf auf eine Hitzequelle (zum Beispiel ein Lagerfeuer) und koche Gerichte aus mehreren Zutaten."
+	]
+	"quest.419A58D8B53ADF5E.title": "Das Schneidebrett"
+	"quest.419A58D8B53ADF5E.quest_desc": ["Auf dem Brett schneidest du Zutaten mit dem Messer."]
+	"quest.06D687DF94CC89EA.title": "Die Pfanne"
+	"quest.06D687DF94CC89EA.quest_desc": ["In der Pfanne brätst du Fleisch und Eier."]
+	"quest.3FBAF7D9BCDD56C0.title": "Reis und Tomaten"
+	"quest.3FBAF7D9BCDD56C0.quest_desc": [
+		"Reis wächst im flachen Wasser, Tomaten an Stangen. Beides sind Grundzutaten vieler Gerichte."
+	]
+	"chapter.30360B0C359B9730.title": "Farmer's Delight"
+	"chapter.30360B0C359B9730.chapter_subtitle": ["Kochen und Landwirtschaft."]
+	"quest.10B6B7F1961C4831.title": "Gut zu wissen"
+	"quest.10B6B7F1961C4831.quest_desc": [
+		"In diesem Kapitel stehen Mods, die das Leben leichter machen. Alles hier ist freiwillig."
+	]
+	"quest.62739BC963175848.title": "Waystones"
+	"quest.62739BC963175848.quest_desc": [
+		"Waystones sind Teleport-Steine. Aktiviere einen, indem du ihn anklickst, und teleportiere dich später dorthin."
+	]
+	"quest.759C95F19E7738BC.title": "Lootr"
+	"quest.759C95F19E7738BC.quest_desc": [
+		"Lootr macht Truhen in Strukturen für jeden Spieler einzeln. Jeder bekommt seine eigene Beute, niemand nimmt dem anderen etwas weg."
+	]
+	"quest.3855C77A3E7CE79F.title": "Carry On"
+	"quest.3855C77A3E7CE79F.quest_desc": [
+		"Mit Carry On trägst du Truhen und Tiere in den Händen: Drücke die Taste (Schleichen und Rechtsklick mit leeren Händen) auf den Block."
+	]
+	"quest.5FB580EE319FDFA1.title": "Curios"
+	"quest.5FB580EE319FDFA1.quest_desc": [
+		"Curios gibt dir zusätzliche Plätze für Schmuck und Zubehör (Ringe, Amulette, Rucksäcke). Du siehst die Plätze im Inventar-Fenster."
+	]
+	"quest.00D0D05B5C015A2C.title": "Inventar sortieren"
+	"quest.00D0D05B5C015A2C.quest_desc": [
+		"Inventory Profiles Next sortiert dein Inventar mit einem Knopf oder einer Taste und kann Gegenstände automatisch verschieben."
+	]
+	"quest.43C10266C3CBA7F7.title": "Polymorph"
+	"quest.43C10266C3CBA7F7.quest_desc": [
+		"Polymorph löst Rezept-Konflikte: Wenn mehrere Mods dasselbe Rezept haben, kannst du im Fenster das gewünschte Ergebnis auswählen."
+	]
+	"chapter.2F8F8381F85DFC1B.title": "Praktische Helfer"
+	"chapter.2F8F8381F85DFC1B.chapter_subtitle": ["Kleine Mods, die das Spielen angenehmer machen."]
+	"quest.3AB7F1E8A6DE5375.title": "Willkommen im Experten-Kapitel"
+	"quest.3AB7F1E8A6DE5375.quest_desc": [
+		"Hier gibt es keine Schritt-für-Schritt-Anleitung, sondern Herausforderungen, die viele Mods kombinieren."
+	]
+	"quest.1AD1F57EFF64CF29.title": "Die vollautomatische Fabrik"
+	"quest.1AD1F57EFF64CF29.quest_desc": [
+		"Baue eine Fabrik, die ein Produkt vollautomatisch herstellt: Eingang aus dem Lager, Ausgang in ein Lager. Nutze Create, Mekanism oder IE für die Verarbeitung, den Auto-Crafter oder AE2 für das Zusammenbauen und einen Computer als Steuerung."
+	]
+	"quest.3D505160AE660C28.title": "Automatische Sieb-Straße"
+	"quest.3D505160AE660C28.quest_desc": [
+		"Baue eine Sieb-Straße: Auto-Hammer macht aus Bruchstein Kies, Auto-Siebe liefern Erz, Förderbänder oder Rohre bringen alles ins Lager. Ziel: Eisen, Kupfer und Gold vollautomatisch."
+	]
+	"quest.45DE4ADD62DCBD83.title": "Eine Turtle baut ein Schloss"
+	"quest.45DE4ADD62DCBD83.quest_desc": [
+		"Auf jeder Turtle gibt es die Programme 'villa' (Gebäude mit Untergrund-Labor) und 'schloss' (ein gigantisches modernes Schloss). Die Turtle holt sich Kohle und Material selbst aus deinem Netzwerkspeicher."
+		""
+		"Du brauchst eine Turtle mit Spitzhacke und Ender-Modem, einen Speicher am Netz (am besten den Creative-Speicher) und einen freien ebenen Platz. Starte mit: schloss 1 (oder 2/3 für mehr)."
+		""
+		"Mit dem Befehl /tick rate 200 (Operator) geht es schneller. Danach unbedingt /tick rate 20."
+	]
+	"quest.04CC2EDA48DAFA6B.title": "Gleiche Erze vereinheitlichen"
+	"quest.04CC2EDA48DAFA6B.quest_desc": [
+		"Almost Unified sorgt dafür, dass alle Mods dasselbe Kupfer und Zinn benutzen, statt jeweils eigene Versionen. Du musst nichts tun, es läuft im Hintergrund. Einstellungen findest du in config/almostunified."
+	]
+	"quest.79F9FF837DC5B45E.title": "Rezepte per Skript ändern"
+	"quest.79F9FF837DC5B45E.quest_desc": [
+		"KubeJS erlaubt dir, Rezepte, Ereignisse und Ressourcen mit JavaScript-Skripten zu ändern. Die Skripte liegen im Ordner kubejs. Beispiel: Die Startinsel wird so gebaut (kubejs/server_scripts/start_island.js)."
+	]
+	"chapter.7159898BEC7C09F1.title": "Experten"
+	"chapter.7159898BEC7C09F1.chapter_subtitle": ["Eigene Projekte statt Anleitungen. Alles optional."]
+}

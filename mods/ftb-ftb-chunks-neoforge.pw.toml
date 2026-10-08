@@ -1,0 +1,8 @@
+name = "ftb-chunks-neoforge"
+filename = "ftb-chunks-neoforge-2101.1.22.jar"
+side = "both"
+
+[download]
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-chunks-neoforge/2101.1.22/ftb-chunks-neoforge-2101.1.22.jar"
+hash-format = "sha512"
+hash = "6589c6f9efb86b0f50963143a9c3c5647aeded698825189494455013441bae7973c1b83f95fce35d3f0b5239a8afd153c8b55ce4a3a6b21fd5d44ae47cecb2d8"

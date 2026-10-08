@@ -1,0 +1,176 @@
+{
+	id: "091F443D16F9D169"
+	group: ""
+	order_index: 14
+	filename: "powah"
+	icon: {
+		id: "powah:energizing_orb"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "powah:energizing_orb"
+				count: 1
+			}
+			id: "11FE1C8466F82FD1"
+			tasks: [
+				{
+					id: "35B71ACB59FD5F06"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "35859E94135649DC"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["11FE1C8466F82FD1"]
+			id: "7A747E7F3C91C7D6"
+			tasks: [
+				{
+					id: "46AC13F08A94A465"
+					type: "item"
+					item: {
+						id: "powah:book"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "33AB517D42E8993A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["7A747E7F3C91C7D6"]
+			id: "6483E31A4B72ADBC"
+			tasks: [
+				{
+					id: "7CCBEE2882691280"
+					type: "item"
+					item: {
+						id: "powah:steel_energized"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "7C964DBDD96F8D30"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["6483E31A4B72ADBC"]
+			id: "0A4C0BF1126A5752"
+			tasks: [
+				{
+					id: "49A1B9FEF2B879FD"
+					type: "item"
+					item: {
+						id: "powah:energizing_orb"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "23232461371BFA28"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["0A4C0BF1126A5752"]
+			id: "5552361218BB4EE4"
+			tasks: [
+				{
+					id: "523D840C02048772"
+					type: "item"
+					item: {
+						id: "powah:energizing_rod_starter"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "49D2D7B622DF3226"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["5552361218BB4EE4"]
+			id: "75C031DB330E3E16"
+			tasks: [
+				{
+					id: "5642700D7B5FFF2B"
+					type: "item"
+					item: {
+						id: "powah:energy_cell_starter"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "72B5660ECCD76B29"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["75C031DB330E3E16"]
+			id: "3CF7020356467771"
+			tasks: [
+				{
+					id: "25CFAFB1E1B08683"
+					type: "item"
+					item: {
+						id: "powah:energy_cable_starter"
+						count: 1
+					}
+					count: 16
+				}
+			]
+			rewards: [
+				{
+					id: "7DE35979FD478852"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+	]
+}

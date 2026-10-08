@@ -1,8 +1,8 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-26.1.13-beta.jar"
+filename = "appliedenergistics2-19.2.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/nVSxZcom/appliedenergistics2-26.1.13-beta.jar"
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/KDnFUmMm/appliedenergistics2-19.2.18.jar"
 hash-format = "sha512"
-hash = "4c1fda04fc6bb0b5833530624dabc85968191fb9793deb51aaa59759fde86a4cdf877e723d86e38675c4ae506a4ef25cf3951eaada12e4399004805ea6b48daa"
+hash = "39bc4cf733a4321631e2637a1a6dfd3527135fdac1b572534e6fd1f9eab7a6dd92d56c5fa066263c95149c9b20cabdd1fd3dff80bea515381b1d2d754cad26c3"

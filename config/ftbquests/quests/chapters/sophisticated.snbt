@@ -1,0 +1,128 @@
+{
+	id: "79ED7686BA3150E4"
+	group: ""
+	order_index: 17
+	filename: "sophisticated"
+	icon: {
+		id: "sophisticatedbackpacks:backpack"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "sophisticatedbackpacks:backpack"
+				count: 1
+			}
+			id: "35673541ECF4BDC6"
+			tasks: [
+				{
+					id: "66C29FAC9F097BE0"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "5F24DE05E8FC89E2"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["35673541ECF4BDC6"]
+			id: "357046BB6CA56866"
+			tasks: [
+				{
+					id: "57C71B84CB5CD5C7"
+					type: "item"
+					item: {
+						id: "sophisticatedbackpacks:backpack"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "767704FAAAFF5CE4"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["357046BB6CA56866"]
+			id: "452148F504BE83ED"
+			tasks: [
+				{
+					id: "40CD125EE0C91255"
+					type: "item"
+					item: {
+						id: "sophisticatedbackpacks:magnet_upgrade"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "69F78851FC979A94"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["452148F504BE83ED"]
+			id: "10A3AC6A8E6BDAAD"
+			tasks: [
+				{
+					id: "0CCFEF0CC04CF7BB"
+					type: "item"
+					item: {
+						id: "sophisticatedstorage:chest"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "281FA688A0E8A0B7"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["10A3AC6A8E6BDAAD"]
+			id: "1E538D6FD1918C05"
+			tasks: [
+				{
+					id: "60C12B64E3CEC79D"
+					type: "item"
+					item: {
+						id: "sophisticatedstorage:barrel"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4F42B649C5055FFF"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+	]
+}

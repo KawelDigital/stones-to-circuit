@@ -1,0 +1,71 @@
+{
+	id: "14BD852AA96B50AF"
+	group: ""
+	order_index: 4
+	filename: "ftb_quests"
+	icon: {
+		id: "ftbquests:book"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "1924333656A3DC1A"
+			tasks: [
+				{
+					id: "06CE7D32F5004BB0"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "1308EED6EFBD4BE6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["1924333656A3DC1A"]
+			id: "71CEE246152EDAFD"
+			tasks: [
+				{
+					id: "2C7B93BF332B72CA"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "463AC404876556A2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["71CEE246152EDAFD"]
+			optional: true
+			id: "39EC6618D6AFBA6E"
+			tasks: [
+				{
+					id: "601230CB51EF19C5"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "0A815DAED2D25CE5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+	]
+}

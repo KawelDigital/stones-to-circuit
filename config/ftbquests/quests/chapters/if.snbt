@@ -1,0 +1,180 @@
+{
+	id: "30B09BFFB0295239"
+	group: ""
+	order_index: 12
+	filename: "if"
+	icon: {
+		id: "industrialforegoing:machine_frame_simple"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "industrialforegoing:machine_frame_simple"
+				count: 1
+			}
+			id: "6AC96948A290FF5D"
+			tasks: [
+				{
+					id: "6E99998A797C7EB0"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "4789371EA2F168F6"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["6AC96948A290FF5D"]
+			id: "60D32C81E1883AA9"
+			tasks: [
+				{
+					id: "14ADCAE7AA3BC1DF"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "60BA92A1CED156B9"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["60D32C81E1883AA9"]
+			id: "4AC4F64E253BD128"
+			tasks: [
+				{
+					id: "3576EEC954ABD780"
+					type: "item"
+					item: {
+						id: "industrialforegoing:machine_frame_simple"
+						count: 1
+					}
+					count: 2
+				}
+			]
+			rewards: [
+				{
+					id: "2AE236EFD210FDA8"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["4AC4F64E253BD128"]
+			id: "3C2BE38FFB8BF9CF"
+			tasks: [
+				{
+					id: "5D3944EA3E5C7B3E"
+					type: "item"
+					item: {
+						id: "industrialforegoing:mechanical_dirt"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7E1565D2F50BA354"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["3C2BE38FFB8BF9CF"]
+			id: "51B5075AEC237A7E"
+			tasks: [
+				{
+					id: "16A8D43D798BD627"
+					type: "item"
+					item: {
+						id: "industrialforegoing:block_breaker"
+						count: 1
+					}
+				}
+				{
+					id: "6BB9DCD4AA7B0A68"
+					type: "item"
+					item: {
+						id: "industrialforegoing:block_placer"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "01204F623D714EB2"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["51B5075AEC237A7E"]
+			id: "25E3942A7B23FC2A"
+			tasks: [
+				{
+					id: "27BCA57E6FAAD905"
+					type: "item"
+					item: {
+						id: "industrialforegoing:animal_rancher"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "12F916D52C08E262"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["25E3942A7B23FC2A"]
+			optional: true
+			id: "7F3F7F4890A8292A"
+			tasks: [
+				{
+					id: "752468A768E5C6F2"
+					type: "item"
+					item: {
+						id: "industrialforegoing:laser_drill"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7CE56C4353214DD8"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+		}
+	]
+}

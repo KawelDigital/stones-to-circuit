@@ -1,0 +1,154 @@
+{
+	id: "2F8F8381F85DFC1B"
+	group: ""
+	order_index: 29
+	filename: "helfer"
+	icon: {
+		id: "minecraft:ender_pearl"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "minecraft:ender_pearl"
+				count: 1
+			}
+			id: "10B6B7F1961C4831"
+			tasks: [
+				{
+					id: "4450767D305825F0"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "3A77EC89AA7346D5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["10B6B7F1961C4831"]
+			id: "62739BC963175848"
+			tasks: [
+				{
+					id: "318FC81E0059D062"
+					type: "item"
+					item: {
+						id: "waystones:waystone"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7004EFCF7628754F"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["62739BC963175848"]
+			id: "759C95F19E7738BC"
+			tasks: [
+				{
+					id: "3FF76B62A51944C3"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "47352316D53F2292"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["759C95F19E7738BC"]
+			id: "3855C77A3E7CE79F"
+			tasks: [
+				{
+					id: "050EFDE977D1B97C"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "438E386BCB9D2BB3"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["3855C77A3E7CE79F"]
+			id: "5FB580EE319FDFA1"
+			tasks: [
+				{
+					id: "3EAB5207FD9C2ADF"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "1741A3BA1EC0CF9B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["5FB580EE319FDFA1"]
+			id: "00D0D05B5C015A2C"
+			tasks: [
+				{
+					id: "1BEE1AA072BDEC45"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "5D076AB32039EA60"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["00D0D05B5C015A2C"]
+			id: "43C10266C3CBA7F7"
+			tasks: [
+				{
+					id: "03B1D9FB5D6A5C36"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "5A2045E0530B5C49"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+		}
+	]
+}

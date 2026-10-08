@@ -1,0 +1,107 @@
+{
+	id: "5228BBAA174C9C9C"
+	group: ""
+	order_index: 25
+	filename: "agriculture"
+	icon: {
+		id: "mysticalagriculture:inferium_essence"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "mysticalagriculture:inferium_essence"
+				count: 1
+			}
+			id: "11D146981CDAF65C"
+			tasks: [
+				{
+					id: "25E012532AEBA99E"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "3984DE75D7B384AC"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["11D146981CDAF65C"]
+			id: "24939110E67287AB"
+			tasks: [
+				{
+					id: "1611DF6EE46C9925"
+					type: "item"
+					item: {
+						id: "mysticalagriculture:inferium_essence"
+						count: 1
+					}
+					count: 16
+				}
+			]
+			rewards: [
+				{
+					id: "3ABD868C2F5951C3"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["24939110E67287AB"]
+			id: "1EF5EFEDD7A22261"
+			tasks: [
+				{
+					id: "17A24D3CEF8C61C6"
+					type: "item"
+					item: {
+						id: "mysticalagriculture:infusion_altar"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0E80C53CA22BD887"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["1EF5EFEDD7A22261"]
+			id: "507F3A2986B78B0C"
+			tasks: [
+				{
+					id: "498070D3CD4E024A"
+					type: "item"
+					item: {
+						id: "mysticalagriculture:infusion_pedestal"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "74DDF71B9EB918E9"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+	]
+}

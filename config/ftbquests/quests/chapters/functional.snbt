@@ -1,0 +1,183 @@
+{
+	id: "01538DD17F293C5B"
+	group: ""
+	order_index: 18
+	filename: "functional"
+	icon: {
+		id: "functionalstorage:oak_1"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "functionalstorage:oak_1"
+				count: 1
+			}
+			id: "764B97B2FEDA09BB"
+			tasks: [
+				{
+					id: "72757C627965EF02"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "74B92E15E1DB326E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["764B97B2FEDA09BB"]
+			id: "191B6C71F9A01752"
+			tasks: [
+				{
+					id: "4FCBEA1ED97CD836"
+					type: "item"
+					item: {
+						id: "functionalstorage:oak_1"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4A292577AD0E96E9"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["191B6C71F9A01752"]
+			id: "267C4AE954684B1F"
+			tasks: [
+				{
+					id: "0598F7FDEC58461C"
+					type: "item"
+					item: {
+						id: "functionalstorage:storage_controller"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3C37F814F8D0E665"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["267C4AE954684B1F"]
+			id: "7E85A14BDDD0E7CA"
+			tasks: [
+				{
+					id: "035A4B1AE49B00C7"
+					type: "item"
+					item: {
+						id: "functionalstorage:copper_upgrade"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "23555CEF02FEC809"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["7E85A14BDDD0E7CA"]
+			id: "651582BDADF139BE"
+			tasks: [
+				{
+					id: "3BE2F2B41DBBD89E"
+					type: "item"
+					item: {
+						id: "toms_storage:storage_terminal"
+						count: 1
+					}
+				}
+				{
+					id: "789633224C04A9D2"
+					type: "item"
+					item: {
+						id: "toms_storage:inventory_connector"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "06C70B6E8A85A40C"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["651582BDADF139BE"]
+			id: "4DB268F971DC62A9"
+			tasks: [
+				{
+					id: "7F35C2CA82C6940C"
+					type: "item"
+					item: {
+						id: "toms_storage:inventory_cable"
+						count: 1
+					}
+					count: 16
+				}
+			]
+			rewards: [
+				{
+					id: "71BFD669E38CFC8E"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["4DB268F971DC62A9"]
+			id: "055D218C760D7AC5"
+			tasks: [
+				{
+					id: "0B3F8EE3F323AFB7"
+					type: "item"
+					item: {
+						id: "toms_storage:crafting_terminal"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "462D3FC5140E0532"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+	]
+}

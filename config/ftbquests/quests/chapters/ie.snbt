@@ -1,0 +1,257 @@
+{
+	id: "236B60E2B0F5F8EF"
+	group: ""
+	order_index: 11
+	filename: "ie"
+	icon: {
+		id: "immersiveengineering:hammer"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "immersiveengineering:hammer"
+				count: 1
+			}
+			id: "4CDA5AAA34D8626A"
+			tasks: [
+				{
+					id: "1696E77CB508B492"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "33108D1A041F3C48"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["4CDA5AAA34D8626A"]
+			id: "1A57FD0C19D47DEC"
+			tasks: [
+				{
+					id: "74B10F41051906BA"
+					type: "item"
+					item: {
+						id: "immersiveengineering:hammer"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "08381E3EB604C627"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["1A57FD0C19D47DEC"]
+			id: "648C0AFBF3AC0905"
+			tasks: [
+				{
+					id: "5F122DA53C3F9019"
+					type: "item"
+					item: {
+						id: "immersiveengineering:wirecutter"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "00AC741E29D678DD"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["648C0AFBF3AC0905"]
+			id: "2895CEB17BEBE1EF"
+			tasks: [
+				{
+					id: "026B708880AA409E"
+					type: "item"
+					item: {
+						id: "immersiveengineering:cokebrick"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "7D8A5F134F3AB205"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["2895CEB17BEBE1EF"]
+			id: "21E90455D5F9E271"
+			tasks: [
+				{
+					id: "55F24E3ED858DDF7"
+					type: "item"
+					item: {
+						id: "immersiveengineering:blastbrick"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "616672EE90A5B6BE"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["21E90455D5F9E271"]
+			id: "5808645E117AB50B"
+			tasks: [
+				{
+					id: "4B265ECC7737C06E"
+					type: "item"
+					item: {
+						id: "immersiveengineering:ingot_steel"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "65AB50D2D10830CB"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["5808645E117AB50B"]
+			id: "36FEA1CEE1B82C52"
+			tasks: [
+				{
+					id: "088686075A23D8D6"
+					type: "item"
+					item: {
+						id: "immersiveengineering:waterwheel_segment"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "0AE801B2CA4FB484"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["36FEA1CEE1B82C52"]
+			id: "62296FFB6942ED6D"
+			tasks: [
+				{
+					id: "5BD595562E615501"
+					type: "item"
+					item: {
+						id: "immersiveengineering:dynamo"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "50E25782CE2BAF29"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["62296FFB6942ED6D"]
+			id: "04F4398155EB440B"
+			tasks: [
+				{
+					id: "415FCA143AB67BB1"
+					type: "item"
+					item: {
+						id: "immersiveengineering:wire_copper"
+						count: 1
+					}
+					count: 8
+				}
+				{
+					id: "290167D837B2D7A8"
+					type: "item"
+					item: {
+						id: "immersiveengineering:connector_lv"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "799327C411DFF178"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			dependencies: ["04F4398155EB440B"]
+			id: "4F662AAAD4EBC78C"
+			tasks: [
+				{
+					id: "2BD2AE40C67829A4"
+					type: "item"
+					item: {
+						id: "immersiveengineering:crusher"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "143C66FB03E88736"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+	]
+}

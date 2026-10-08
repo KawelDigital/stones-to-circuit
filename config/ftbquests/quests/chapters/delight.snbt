@@ -1,0 +1,138 @@
+{
+	id: "30360B0C359B9730"
+	group: ""
+	order_index: 28
+	filename: "delight"
+	icon: {
+		id: "farmersdelight:cooking_pot"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "farmersdelight:cooking_pot"
+				count: 1
+			}
+			id: "7A0D131C57A03CBC"
+			tasks: [
+				{
+					id: "5D730971AF332A35"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "4FA2C2A0FDB7B7E5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["7A0D131C57A03CBC"]
+			id: "5AB090F836C7CC34"
+			tasks: [
+				{
+					id: "4105A025B54F19B6"
+					type: "item"
+					item: {
+						id: "farmersdelight:cooking_pot"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "122632EDEDFB12F2"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["5AB090F836C7CC34"]
+			id: "419A58D8B53ADF5E"
+			tasks: [
+				{
+					id: "4EC3802AE303C5FE"
+					type: "item"
+					item: {
+						id: "farmersdelight:cutting_board"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0143A7479705DC28"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["419A58D8B53ADF5E"]
+			id: "06D687DF94CC89EA"
+			tasks: [
+				{
+					id: "65AFF7BF673D8A44"
+					type: "item"
+					item: {
+						id: "farmersdelight:skillet"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "733B5337ABCB3742"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["06D687DF94CC89EA"]
+			id: "3FBAF7D9BCDD56C0"
+			tasks: [
+				{
+					id: "2656DD49A031703B"
+					type: "item"
+					item: {
+						id: "farmersdelight:rice"
+						count: 1
+					}
+					count: 4
+				}
+				{
+					id: "5C95FC4B805AB859"
+					type: "item"
+					item: {
+						id: "farmersdelight:tomato_seeds"
+						count: 1
+					}
+					count: 2
+				}
+			]
+			rewards: [
+				{
+					id: "5324E610E696F912"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	id: "6D991909CAA455D2"
+	group: ""
+	order_index: 26
+	filename: "bees"
+	icon: {
+		id: "productivebees:centrifuge"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "productivebees:centrifuge"
+				count: 1
+			}
+			id: "136074412A6AF99A"
+			tasks: [
+				{
+					id: "68FC6EBC9EB926FD"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "4FA03E2EDB16E9F1"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["136074412A6AF99A"]
+			id: "1A4D2D7A2CBE46F1"
+			tasks: [
+				{
+					id: "0B114329DBB05A67"
+					type: "item"
+					item: {
+						id: "productivebees:bee_cage"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "218560E1E3305C44"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["1A4D2D7A2CBE46F1"]
+			id: "77C4DC285FE31949"
+			tasks: [
+				{
+					id: "71DE80BBB32EB4B2"
+					type: "item"
+					item: {
+						id: "productivebees:advanced_oak_beehive"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "33CD0C3E462DDA2C"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["77C4DC285FE31949"]
+			id: "2E5436D89602DC13"
+			tasks: [
+				{
+					id: "4CEA7200E063CD3F"
+					type: "item"
+					item: {
+						id: "productivebees:centrifuge"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4B1EEA0AADC38BFA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+	]
+}
