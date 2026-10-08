@@ -1,0 +1,67 @@
+{
+  "quest.42569E9AC9D7E08E.title": "Digitales Lager",
+  "quest.42569E9AC9D7E08E.quest_desc": [
+    "Der Netzwerkspeicher speichert Gegenstände digital: Statt Kisten voller Items hat er nur Zähler. Der einfache Speicher fasst 640.000 Gegenstände.",
+    "",
+    "Mehrere Blöcke nebeneinander bilden ein gemeinsames Netz. Scanner, Drucker und Crafter geben die Verbindung weiter, sie müssen also nur irgendwie mit dem Speicher zusammenhängen."
+  ],
+  "quest.0D5A821E2413C4A5.title": "Der 3D-Scanner",
+  "quest.0D5A821E2413C4A5.quest_desc": [
+    "Der Scanner digitalisiert Gegenstände. Rechtsklick öffnet sein Fenster: Lege Gegenstände in die 9 Felder, und sie landen sofort im Speicher.",
+    "",
+    "Mit dem Knopf oben stellst du eine Kiste neben dem Scanner ein: Dann zieht er sich ihren Inhalt von selbst."
+  ],
+  "quest.2804BB740D0A352D.title": "Der 3D-Drucker",
+  "quest.2804BB740D0A352D.quest_desc": [
+    "Der Drucker holt Gegenstände sofort aus dem Speicher und legt sie in eine Kiste daneben.",
+    "",
+    "Rechtsklick öffnet die Liste aller gespeicherten Gegenstände. Suche, wähle eine Menge, stelle die Seite der Kiste ein und drücke 'Drucken'."
+  ],
+  "quest.5377DB6F2AA74A7E.title": "Computer anschließen",
+  "quest.5377DB6F2AA74A7E.quest_desc": [
+    "Setze ein Kabelmodem an den Speicher und klicke es mit der rechten Maustaste an. Verbinde es mit Kabeln mit deinem Computer (der ein eigenes Modem hat).",
+    "",
+    "Im Computer: local s = peripheral.find(\"network_storage\") und dann s.list() zeigt dir den Inhalt.",
+    "Weitere Befehle: getUsed(), getCapacity(), pullItems(), pushItems()."
+  ],
+  "quest.25D9C51C855093F8.title": "Das ME-Terminal",
+  "quest.25D9C51C855093F8.quest_desc": [
+    "Auf jedem Advanced-Computer mit Monitor gibt es das Programm 'me'. Tippe einfach: me",
+    "",
+    "Du siehst alle Gegenstände auf dem Monitor, tippst einen an, wählst die Menge und lässt ihn in eine Kiste ausgeben. Unter 'Setup' wählst du deine Ein- und Ausgabe-Kisten.",
+    "",
+    "Hilfreich: Ein Monitor aus mehreren Blöcken (zum Beispiel 4x3) sieht gut aus. Tippe auf dem Computer, um die Suche zu nutzen."
+  ],
+  "quest.3A829D5AB6B8B77A.title": "Der Advanced-Speicher",
+  "quest.3A829D5AB6B8B77A.quest_desc": [
+    "Der Advanced-Speicher (golden) fasst 1.280.000 Gegenstände. Du stellst ihn einfach an das vorhandene Netz."
+  ],
+  "quest.371205A8EF009123.title": "Diamant-Speicher",
+  "quest.371205A8EF009123.quest_desc": [
+    "Der Diamant-Speicher fasst 100 Millionen Gegenstände. Genug für jeden Server-Raum.",
+    "",
+    "Er ist teuer: Der Advanced-Speicher plus acht Diamantblöcke."
+  ],
+  "quest.602F54C13784C956.title": "Creative-Speicher",
+  "quest.602F54C13784C956.quest_desc": [
+    "Der lila Creative-Speicher hat von jedem Gegenstand unendlich viele. Er ist sehr teuer (vier Nether-Sterne und vier Diamantblöcke plus Diamant-Speicher), hebt aber jede Ressourcen-Sorge auf."
+  ],
+  "quest.752F1645B279FB57.title": "Turtles mit dem Lager verbinden",
+  "quest.752F1645B279FB57.quest_desc": [
+    "Der Speicher lauscht auf Kanal 4242. Eine Turtle mit Ender-Modem kann damit Kohle anfordern oder ihre Gegenstände abgeben. Sie braucht dafür keine Kisten.",
+    "",
+    "Beispiel (Turtle):",
+    "local m = peripheral.find(\"modem\")",
+    "m.open(4243)",
+    "m.transmit(4242, 4243, {type=\"netstorage:request\", item=\"minecraft:coal\", amount=32})",
+    "local _,_,_,_,antwort = os.pullEvent(\"modem_message\")",
+    "",
+    "Zum Abgeben schickst du {type=\"netstorage:deposit\"}."
+  ],
+  "quest.1F9A7F7644B7F133.title": "Zugriff aus der Hosentasche",
+  "quest.1F9A7F7644B7F133.quest_desc": [
+    "Mit einem Pocket-Computer mit Ender-Modem erreichst du dein Lager von überall. Tippe auf dem Pocket: pocket_me",
+    "",
+    "Tippe den Namen eines Gegenstands, wähle mit den Pfeiltasten und drücke Enter. Er landet direkt in deinem Inventar."
+  ]
+}

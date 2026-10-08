@@ -1,0 +1,34 @@
+{
+  "quest.1DBBEBFDB44B7883.title": "Der Auto-Crafter",
+  "quest.1DBBEBFDB44B7883.quest_desc": [
+    "Der Auto-Crafter kennt alle Rezepte des Spiels (Handwerk, Ofen, Hochofen, Räucherofen, Steinsäge). Du sagst ihm, was du willst, und er stellt es her, aus dem, was im Speicher liegt.",
+    "",
+    "Fehlt eine Zutat, stellt er sie wenn möglich selbst her, rekursiv. Schmelzen holt sich den Brennstoff (zum Beispiel Kohle) ebenfalls aus dem Speicher.",
+    "",
+    "Stelle ihn einfach neben den Netzwerkspeicher."
+  ],
+  "quest.36EAD365C30BC095.title": "Crafting per Lua",
+  "quest.36EAD365C30BC095.quest_desc": [
+    "Der Crafter ist ein Peripheral: local c = peripheral.find(\"auto_crafter\")",
+    "• c.craft(\"minecraft:torch\", 64) startet den Auftrag",
+    "• c.plan(\"minecraft:torch\", 64) prüft vorher, ob es klappt",
+    "• c.recipes(\"minecraft:furnace\") zeigt die Rezepte",
+    "• c.jobs() zeigt die laufenden Aufträge"
+  ],
+  "quest.7D6B95E4F7B8EE61.title": "Craften im ME-Terminal",
+  "quest.7D6B95E4F7B8EE61.quest_desc": [
+    "Mit einem Auto-Crafter am Netz zeigt das ME-Terminal beim Suchen auch Dinge, die du craften kannst (Menge 0). Tippe darauf, wähle die Menge und drücke 'Craften'."
+  ],
+  "quest.32A3BEF060CCFDAF.title": "Advanced-Crafter",
+  "quest.32A3BEF060CCFDAF.quest_desc": [
+    "Der Advanced-Crafter ist deutlich schneller: Er bearbeitet Tausende Crafts pro Sekunde und schmilzt 16-mal so schnell."
+  ],
+  "quest.37B1F363394CA74F.title": "Diamant-Crafter",
+  "quest.37B1F363394CA74F.quest_desc": [
+    "Der Diamant-Crafter ist praktisch unbegrenzt schnell: Er erledigt auch riesige Aufträge sofort."
+  ],
+  "quest.292E805A7A5594FF.title": "Craften aus der Tasche",
+  "quest.292E805A7A5594FF.quest_desc": [
+    "Im Pocket-Programm schaltest du mit der Tab-Taste auf die Craftbar-Liste. Wähle einen Gegenstand und drücke Enter, um ihn herstellen zu lassen."
+  ]
+}

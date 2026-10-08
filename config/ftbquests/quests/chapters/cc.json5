@@ -1,0 +1,307 @@
+{
+  "id": "7282B3ECA93D75BC",
+  "group": "",
+  "order_index": 6,
+  "filename": "cc",
+  "icon": {
+    "id": "computercraft:computer_normal"
+  },
+  "default_quest_shape": "",
+  "default_hide_dependency_lines": false,
+  "quests": [
+    {
+      "id": "1FB75E7FF0C8EBBE",
+      "x": 0.0,
+      "y": 0.0,
+      "icon": {
+        "id": "computercraft:computer_normal"
+      },
+      "tasks": [
+        {
+          "id": "187877A35D12B951",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "1760D04ACA8B05D6",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "3426AD433125D2DE",
+      "x": 2.0,
+      "y": 0.0,
+      "dependencies": [
+        "1FB75E7FF0C8EBBE"
+      ],
+      "tasks": [
+        {
+          "id": "00E0D2FFD574E6ED",
+          "type": "item",
+          "item": {
+            "id": "computercraft:computer_normal"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "5A415C3DB288084B",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "278825F0235D6544",
+      "x": 4.0,
+      "y": 0.0,
+      "dependencies": [
+        "3426AD433125D2DE"
+      ],
+      "tasks": [
+        {
+          "id": "4C2E2C534CA9344A",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "1A536F03FDD827DD",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "34E0FBD0AA924007",
+      "x": 6.0,
+      "y": 0.0,
+      "dependencies": [
+        "3426AD433125D2DE"
+      ],
+      "tasks": [
+        {
+          "id": "6D0454275F65DCB6",
+          "type": "item",
+          "item": {
+            "id": "computercraft:monitor_normal"
+          },
+          "count": 4
+        }
+      ],
+      "rewards": [
+        {
+          "id": "504EC61291418EE7",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "580B34952D83F9F9",
+      "x": 2.0,
+      "y": 2.0,
+      "dependencies": [
+        "3426AD433125D2DE"
+      ],
+      "tasks": [
+        {
+          "id": "21746D83C8C7F465",
+          "type": "item",
+          "item": {
+            "id": "computercraft:disk_drive"
+          }
+        },
+        {
+          "id": "0B823439A02CC2E5",
+          "type": "item",
+          "item": {
+            "id": "computercraft:disk"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "3C819E86B8358AD0",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "66AC19642F05819F",
+      "x": 4.0,
+      "y": 2.0,
+      "dependencies": [
+        "3426AD433125D2DE"
+      ],
+      "tasks": [
+        {
+          "id": "38163A8A29200423",
+          "type": "item",
+          "item": {
+            "id": "computercraft:wired_modem"
+          },
+          "count": 2
+        },
+        {
+          "id": "53599E70F9DBD4C4",
+          "type": "item",
+          "item": {
+            "id": "computercraft:cable"
+          },
+          "count": 8
+        }
+      ],
+      "rewards": [
+        {
+          "id": "486AC904F9FEF3C1",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "3CD23FE54A56F144",
+      "x": 6.0,
+      "y": 2.0,
+      "dependencies": [
+        "66AC19642F05819F"
+      ],
+      "tasks": [
+        {
+          "id": "704CCE97DA1A325C",
+          "type": "item",
+          "item": {
+            "id": "computercraft:turtle_normal"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "79357ED9C079EEE9",
+          "type": "xp_levels",
+          "xp_levels": 4
+        }
+      ]
+    },
+    {
+      "id": "1251EE40ECB8CD0E",
+      "x": 6.0,
+      "y": 4.0,
+      "dependencies": [
+        "3CD23FE54A56F144"
+      ],
+      "tasks": [
+        {
+          "id": "03A91DBD06C5A698",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "67F66D7731DC894E",
+          "type": "xp_levels",
+          "xp_levels": 4
+        }
+      ]
+    },
+    {
+      "id": "41583E52DA0C5E84",
+      "x": 4.0,
+      "y": 4.0,
+      "dependencies": [
+        "3CD23FE54A56F144"
+      ],
+      "tasks": [
+        {
+          "id": "7D1DA0AF0BB7E25F",
+          "type": "item",
+          "item": {
+            "id": "computercraft:wireless_modem_advanced"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "183717E707D0B9FC",
+          "type": "xp_levels",
+          "xp_levels": 5
+        }
+      ]
+    },
+    {
+      "id": "7E8E4B4D7CBC6711",
+      "x": 2.0,
+      "y": 4.0,
+      "dependencies": [
+        "41583E52DA0C5E84"
+      ],
+      "tasks": [
+        {
+          "id": "7F812BABC8927868",
+          "type": "item",
+          "item": {
+            "id": "computercraft:pocket_computer_normal"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "02AFDCA3CF93E271",
+          "type": "xp_levels",
+          "xp_levels": 4
+        }
+      ]
+    },
+    {
+      "id": "4C1717C54CB35E23",
+      "x": 0.0,
+      "y": 4.0,
+      "dependencies": [
+        "3426AD433125D2DE"
+      ],
+      "tasks": [
+        {
+          "id": "25227C95E3C693AB",
+          "type": "item",
+          "item": {
+            "id": "computercraft:computer_advanced"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "0C67E19AF067E0AD",
+          "type": "xp_levels",
+          "xp_levels": 5
+        }
+      ]
+    },
+    {
+      "id": "4D64447B737D4B91",
+      "x": 0.0,
+      "y": 2.0,
+      "dependencies": [
+        "278825F0235D6544"
+      ],
+      "optional": true,
+      "tasks": [
+        {
+          "id": "1940D37F98C09165",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "5DDB029497A11D99",
+          "type": "xp_levels",
+          "xp_levels": 4
+        }
+      ]
+    }
+  ]
+}

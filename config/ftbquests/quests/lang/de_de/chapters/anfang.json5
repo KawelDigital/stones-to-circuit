@@ -1,0 +1,58 @@
+{
+  "quest.0B0B34C9AEC0D376.title": "Holz sammeln",
+  "quest.0B0B34C9AEC0D376.quest_desc": [
+    "Pflanze einen Setzling auf Erde und streue Knochenmehl darauf. Sammle dann Holz mit der Faust: Halte die linke Maustaste auf dem Stamm gedrückt."
+  ],
+  "quest.2CF863416B38999D.title": "Bretter herstellen",
+  "quest.2CF863416B38999D.quest_desc": [
+    "Lege einen Holzblock ins 2x2-Feld deines Inventars: Du bekommst vier Bretter."
+  ],
+  "quest.2AA3FDE2B7618B49.title": "Die Werkbank",
+  "quest.2AA3FDE2B7618B49.quest_desc": [
+    "Vier Bretter im Quadrat ergeben eine Werkbank. Sie hat ein 3x3-Raster für die meisten Rezepte."
+  ],
+  "quest.15B97C524BB60EB0.title": "Holzspitzhacke",
+  "quest.15B97C524BB60EB0.quest_desc": [
+    "Zwei Stöcke und drei Bretter ergeben eine Spitzhacke. Damit baust du Stein ab."
+  ],
+  "quest.4B293FB1EFEF5B09.title": "Bruchstein abbauen",
+  "quest.4B293FB1EFEF5B09.quest_desc": [
+    "Du stehst schon auf Bruchstein. Baue ihn mit der Holzspitzhacke ab. Nimm gleich einiges mit."
+  ],
+  "quest.09EFBC4278C1F02D.title": "Steinspitzhacke",
+  "quest.09EFBC4278C1F02D.quest_desc": [
+    "Ersetze beim Rezept die Bretter durch Bruchstein. Die Steinspitzhacke baut Eisen ab."
+  ],
+  "quest.64AAE25357F850B4.title": "Ofen bauen",
+  "quest.64AAE25357F850B4.quest_desc": [
+    "Acht Bruchsteine im Ring um das leere Mittelfeld. Im Ofen schmilzt du Erze und garst Essen. Als Brennstoff nimmst du Holz oder Kohle."
+  ],
+  "quest.73CC6C13F0E3FAB0.title": "Kohle finden",
+  "quest.73CC6C13F0E3FAB0.quest_desc": [
+    "Kohle erkennst du an schwarzen Punkten im Stein. Sie ist Brennstoff und Zutat für Fackeln."
+  ],
+  "quest.5E2011762D362845.title": "Licht!",
+  "quest.5E2011762D362845.quest_desc": [
+    "Ein Stock und ein Stück Kohle ergeben vier Fackeln. Monster erscheinen in dunklen Bereichen, also leuchte deine Gänge aus."
+  ],
+  "quest.4B782122A20B917C.title": "Eisen schmelzen",
+  "quest.4B782122A20B917C.quest_desc": [
+    "Eisenerz (hellbraune Punkte) schmilzt im Ofen zu Eisenbarren. Du brauchst viele davon."
+  ],
+  "quest.226E5E70D88D98CB.title": "Eisenspitzhacke",
+  "quest.226E5E70D88D98CB.quest_desc": [
+    "Mit Eisen baust du Diamanten ab und kommst weiter."
+  ],
+  "quest.4962EA8E196DF4B1.title": "Ein Eimer",
+  "quest.4962EA8E196DF4B1.quest_desc": [
+    "Drei Eisenbarren ergeben einen Eimer. Er sammelt Wasser und Lava ein."
+  ],
+  "quest.2DD9FEC127D8EB68.title": "Diamanten!",
+  "quest.2DD9FEC127D8EB68.quest_desc": [
+    "Diamanten liegen tief unten. Gehe weit nach unten (sicher, mit Treppen), ziehe immer Wasser für Lava im Gepäck mit."
+  ],
+  "quest.2594B3EABFA4FD40.title": "Redstone",
+  "quest.2594B3EABFA4FD40.quest_desc": [
+    "Redstone ist der Strom von Minecraft und auch wichtig für Computer. Du findest rotes Erz meist tief unten."
+  ]
+}

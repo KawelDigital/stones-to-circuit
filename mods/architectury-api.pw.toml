@@ -1,0 +1,8 @@
+name = "Architectury API"
+filename = "architectury-neoforge-20.1.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/9PW5lWrQ/architectury-neoforge-20.1.16.jar"
+hash-format = "sha512"
+hash = "e7d30447e339b75609ceff20b8e6ce150eff5c3fe5c40c926a2cba6d3481528128efa3dcaf4e233a776c418ba1652b693bba630c8dd300275adb48c01e03bd3a"

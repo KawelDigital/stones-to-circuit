@@ -1,0 +1,186 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.json5"
+hash = "e9e0daacf0a4fe587c0231cea95dc56f1aae62c5e8b1d3371829360a50f1b332"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ae2.json5"
+hash = "cdcbd60a2b426a67789d415f6c275c9c0a32369fe25ff8d36470746b8b61fd84"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/anfang.json5"
+hash = "4f2813a1164d708d5133f74ab6554737e3fa0c09720f276806cdff8beda93b64"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/cc.json5"
+hash = "71d58c72f8253447db86981c322272f3041792593b789a61f406b29a2c1950fc"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/crafting.json5"
+hash = "3df139c57fdeb58e83622f50fa56b70409ce3dee0b158c7d92ed83f008ba1b20"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/experten.json5"
+hash = "fe446301311b3b56cc88b97ea484d9daa4504259c695ba696dc211d33200f2c6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ftb_chunks.json5"
+hash = "e385a7e1e4e9a2c5ec29bb03c2b291d373986856448b1722c62b4d7df467ca1c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ftb_quests.json5"
+hash = "6d65633942b98c09cae31df89ed1b6da9c9c35c0d20ae69c56767ea901f0d3b9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ftb_teams.json5"
+hash = "e35634a4a088dcd5ef283f519d6125561750f266b3a91aa91a9a4ede858f5e1f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ftb_ultimine.json5"
+hash = "5830f92a2ef89764861608cd4185ef14b0548aeaf69234a72e1ed144fe4206fc"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/netzwerk.json5"
+hash = "5328d5d3b42d3e4bc0788519b42b557308c9b77fb05c16f080afb4f43efedb20"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/willkommen.json5"
+hash = "8cd164d1b8f0bdfe4b5935d163d001497315947b115838c2f27426a8c421ec46"
+
+[[files]]
+file = "config/ftbquests/quests/data.json5"
+hash = "0c3ce7a9837c95ca39f06efe4c6ea51b85dc14f607ff478fafcdd9a73a0a5f8e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapter.json5"
+hash = "dd9fbc4d470a19d5043d8f8a4daf5273d7f3a65792cb3c8b3b93839fe2e1a707"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/ae2.json5"
+hash = "afa00aa0f76a6b8e43624862d89b826223bc58ed23a07fe9e7fd049c5ae5d64f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/anfang.json5"
+hash = "76997b7d2cef29bc35cdb64f3dc86160ceae59f3e545a1eee6ea892286ab82f8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/cc.json5"
+hash = "5a1bfad37d4ea55c81151635ea6ffe3e4b7111246a34e7582a0a6a003b4569a2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/crafting.json5"
+hash = "e361daf62fe338c85856619a67beb5e19f0271d7709ae3fa106209059c32164e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/experten.json5"
+hash = "17b0a6efbcbaa60ea801d912fe72b97f742d4125c151f5ca6ccdb8cb9f36d0c8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/ftb_chunks.json5"
+hash = "969f1b3d482baa155951d3549ee20fa00ffa160542f87d37118813fc186aea01"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/ftb_quests.json5"
+hash = "83c282e52e310b612202c2dcc67ed393864a875a90938083d2dd9952c10d6f95"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/ftb_teams.json5"
+hash = "c7b75230139b483b5036e29c6c19a8d24cb6ff793e971012ff8bf623d879b306"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/ftb_ultimine.json5"
+hash = "7793b713ee1e2e363f9dc3f97a4b2e4fc25a474dc5024aab8f867213102ae982"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/netzwerk.json5"
+hash = "ecdc03bd9183a12737ce4683d8c69f9b42fe20fe3b2173d0ea1fa01ab6826012"
+
+[[files]]
+file = "config/ftbquests/quests/lang/de_de/chapters/willkommen.json5"
+hash = "7a0b615f25a9e5957ba6c609cf42beeb0c9864103fa27c80351ceb8918554e9f"
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "734af80697e0a2f8c31292dfe24e8dfd588b54fe73afdab672e14847b5d1fd12"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1590506245e2ddf65b5dfd69629931a909c85e7943a13608e367bfe8ee0f4b65"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "d61bbc9f554015b5e572cd4e7b4ae06e0ca35342a9bd05295c63bbaf876b6068"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "94ff61692023231c598c05478466f4d94a38b7ebc87fd2d3b48aa2cd081b962f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-3.pw.toml"
+hash = "8da5565c868dcc833e68e0a00125a4c9934cc80bfa09ccd8a30a91ebe3337994"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-neoforge.pw.toml"
+hash = "d104de9c626934980f32b1333e433ca8e2b74e2ad8f763630a6e33d8bc06d8e4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-neoforge.pw.toml"
+hash = "8b1c4a16fb6fbe6a21dd21b6ac791c03174f280123579148f697193ba705ac03"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-neoforge.pw.toml"
+hash = "7aed838e9fac1c4b134124f8406b543a6445b41e34a91838e055c5e362c96ca6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-neoforge.pw.toml"
+hash = "e25e725a586bd4af0439a378f7931fb9dc62588f2fa84ee6d505ee56ba5aa231"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-neoforge.pw.toml"
+hash = "2c4121a332f34d6088650d5f672b892d872d64bad3d5197c89aa492d8ef59044"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "0d91bcf206a12452f9865825ddffac4b077ffb6219cf2a00fd498b5f0261a3a9"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "69716bf86d33914461387f013245a006690d32e95e538e7a11aa57820a15a231"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "a6c9b34ce7c6b770f02ffb6fb0d9f80f78f4320e1509c667eaa1602de4e2ba4c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "da13c0b2794d60e1b48f10a486b0f58a46f6b9d4db567cbc4ad21bd9768a37b6"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "0f1d7248b9c401c0264f903dd4b725a33e179453334dad81e4f69ef6ebc49415"
+metafile = true
+
+[[files]]
+file = "mods/netstorage.pw.toml"
+hash = "8512478c0184fcffb1cff8ce601ac4b7d3ccea7b26ae92753cde1fa311608af8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "938e3fc190a4990a573f9420facdc3b86fbb058fd426d2c323ad4a7509aac6a3"
+metafile = true

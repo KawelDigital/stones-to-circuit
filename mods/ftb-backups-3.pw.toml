@@ -1,0 +1,8 @@
+name = "ftb-backups-3"
+filename = "ftb-backups-3-26.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-backups-3/26.1.2.1/ftb-backups-3-26.1.2.1.jar"
+hash-format = "sha512"
+hash = "97536f77b6a9c18b4c02048dbb50dae248a5f6607586c21fa36339aeaaa3a63e704b43cdf6bfa17c6c6c3662528467bdee96a39065aeb8c1a62091b2a59949c4"

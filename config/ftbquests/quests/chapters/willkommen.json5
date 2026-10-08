@@ -1,0 +1,235 @@
+{
+  "id": "181EA246AB020E37",
+  "group": "",
+  "order_index": 0,
+  "filename": "willkommen",
+  "icon": {
+    "id": "ftbquests:book"
+  },
+  "default_quest_shape": "",
+  "default_hide_dependency_lines": false,
+  "quests": [
+    {
+      "id": "308BE00A58EBCB9A",
+      "x": 0.0,
+      "y": 0.0,
+      "icon": {
+        "id": "minecraft:nether_star"
+      },
+      "tasks": [
+        {
+          "id": "4AC02D2D2CF409C0",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "20FFF15FD9640275",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "510A326D701EA5B0",
+      "x": 2.0,
+      "y": 0.0,
+      "icon": {
+        "id": "ftbquests:book"
+      },
+      "dependencies": [
+        "308BE00A58EBCB9A"
+      ],
+      "tasks": [
+        {
+          "id": "54641E377688D954",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "4A4284281AFDD14F",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "7E1D4385DE33814D",
+      "x": 4.0,
+      "y": 0.0,
+      "icon": {
+        "id": "minecraft:crafting_table"
+      },
+      "dependencies": [
+        "510A326D701EA5B0"
+      ],
+      "tasks": [
+        {
+          "id": "641E4F53DC27630F",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "698BCA94D14A2D03",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "5526B75543C0038E",
+      "x": 6.0,
+      "y": 0.0,
+      "icon": {
+        "id": "minecraft:spyglass"
+      },
+      "dependencies": [
+        "7E1D4385DE33814D"
+      ],
+      "tasks": [
+        {
+          "id": "0E01C1FCAC7FCBDA",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "06D0A630DEC24933",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "513D624F49FDCCB6",
+      "x": 0.0,
+      "y": 2.0,
+      "icon": {
+        "id": "minecraft:stone"
+      },
+      "dependencies": [
+        "308BE00A58EBCB9A"
+      ],
+      "tasks": [
+        {
+          "id": "26424187C5D6CDBB",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "55E2136CE424D8C1",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "7A085906B72AB591",
+      "x": 2.0,
+      "y": 2.0,
+      "icon": {
+        "id": "minecraft:oak_sapling"
+      },
+      "dependencies": [
+        "513D624F49FDCCB6"
+      ],
+      "tasks": [
+        {
+          "id": "65420F0828E500A3",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "2291C79DC48634B4",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_sapling"
+          },
+          "count": 4
+        },
+        {
+          "id": "081542EB5D7FCDC5",
+          "type": "item",
+          "item": {
+            "id": "minecraft:dirt"
+          },
+          "count": 16
+        },
+        {
+          "id": "4EE534DF41460471",
+          "type": "item",
+          "item": {
+            "id": "minecraft:bone_meal"
+          },
+          "count": 16
+        },
+        {
+          "id": "60DE9FAB1D10A167",
+          "type": "item",
+          "item": {
+            "id": "minecraft:bread"
+          },
+          "count": 8
+        },
+        {
+          "id": "0E79CE907C25340C",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "5942A302995891DF",
+      "x": 4.0,
+      "y": 2.0,
+      "icon": {
+        "id": "minecraft:torch"
+      },
+      "dependencies": [
+        "513D624F49FDCCB6"
+      ],
+      "tasks": [
+        {
+          "id": "6B455CC6A42B7615",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "071E2BC80CFCA325",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "208FC35B1FF1A894",
+      "x": 6.0,
+      "y": 2.0,
+      "icon": {
+        "id": "minecraft:diamond"
+      },
+      "dependencies": [
+        "5942A302995891DF"
+      ],
+      "optional": true,
+      "tasks": [
+        {
+          "id": "3BA583390667E052",
+          "type": "checkmark"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "2EF31B44E0BB53EE",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    }
+  ]
+}

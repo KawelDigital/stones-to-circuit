@@ -1,0 +1,361 @@
+{
+  "id": "20B7293A28448C3D",
+  "group": "",
+  "order_index": 1,
+  "filename": "anfang",
+  "icon": {
+    "id": "minecraft:cobblestone"
+  },
+  "default_quest_shape": "",
+  "default_hide_dependency_lines": false,
+  "quests": [
+    {
+      "id": "0B0B34C9AEC0D376",
+      "x": 0.0,
+      "y": 0.0,
+      "tasks": [
+        {
+          "id": "1A1FDE865ACC1939",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_log"
+          },
+          "count": 4
+        }
+      ],
+      "rewards": [
+        {
+          "id": "77A38ED73D924030",
+          "type": "xp_levels",
+          "xp_levels": 1
+        }
+      ]
+    },
+    {
+      "id": "2CF863416B38999D",
+      "x": 2.0,
+      "y": 0.0,
+      "dependencies": [
+        "0B0B34C9AEC0D376"
+      ],
+      "tasks": [
+        {
+          "id": "5D6A916D23170B13",
+          "type": "item",
+          "item": {
+            "id": "minecraft:oak_planks"
+          },
+          "count": 8
+        }
+      ],
+      "rewards": [
+        {
+          "id": "51DE37B9A02EFE85",
+          "type": "xp_levels",
+          "xp_levels": 1
+        }
+      ]
+    },
+    {
+      "id": "2AA3FDE2B7618B49",
+      "x": 4.0,
+      "y": 0.0,
+      "dependencies": [
+        "2CF863416B38999D"
+      ],
+      "tasks": [
+        {
+          "id": "06DE7A5D3091A6FC",
+          "type": "item",
+          "item": {
+            "id": "minecraft:crafting_table"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "4286FFF238255730",
+          "type": "xp_levels",
+          "xp_levels": 1
+        }
+      ]
+    },
+    {
+      "id": "15B97C524BB60EB0",
+      "x": 6.0,
+      "y": 0.0,
+      "dependencies": [
+        "2AA3FDE2B7618B49"
+      ],
+      "tasks": [
+        {
+          "id": "5CC15D6F91B6964C",
+          "type": "item",
+          "item": {
+            "id": "minecraft:wooden_pickaxe"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "2F22C64536BD97C1",
+          "type": "xp_levels",
+          "xp_levels": 1
+        }
+      ]
+    },
+    {
+      "id": "4B293FB1EFEF5B09",
+      "x": 6.0,
+      "y": 2.0,
+      "dependencies": [
+        "15B97C524BB60EB0"
+      ],
+      "tasks": [
+        {
+          "id": "2A4D1FE5897B02ED",
+          "type": "item",
+          "item": {
+            "id": "minecraft:cobblestone"
+          },
+          "count": 32
+        }
+      ],
+      "rewards": [
+        {
+          "id": "382EE051A46D9B4D",
+          "type": "xp_levels",
+          "xp_levels": 1
+        }
+      ]
+    },
+    {
+      "id": "09EFBC4278C1F02D",
+      "x": 4.0,
+      "y": 2.0,
+      "dependencies": [
+        "4B293FB1EFEF5B09"
+      ],
+      "tasks": [
+        {
+          "id": "22621772C245964E",
+          "type": "item",
+          "item": {
+            "id": "minecraft:stone_pickaxe"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "77A722D9BEE98580",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "64AAE25357F850B4",
+      "x": 2.0,
+      "y": 2.0,
+      "dependencies": [
+        "09EFBC4278C1F02D"
+      ],
+      "tasks": [
+        {
+          "id": "4DD88D1951FEBDB3",
+          "type": "item",
+          "item": {
+            "id": "minecraft:furnace"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "1E2016E9456BF592",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "73CC6C13F0E3FAB0",
+      "x": 0.0,
+      "y": 2.0,
+      "dependencies": [
+        "64AAE25357F850B4"
+      ],
+      "tasks": [
+        {
+          "id": "13240075EC648538",
+          "type": "item",
+          "item": {
+            "id": "minecraft:coal"
+          },
+          "count": 8
+        }
+      ],
+      "rewards": [
+        {
+          "id": "316D14D9BF5FC061",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "5E2011762D362845",
+      "x": 0.0,
+      "y": 4.0,
+      "dependencies": [
+        "73CC6C13F0E3FAB0"
+      ],
+      "tasks": [
+        {
+          "id": "423E03B5D09058B4",
+          "type": "item",
+          "item": {
+            "id": "minecraft:torch"
+          },
+          "count": 16
+        }
+      ],
+      "rewards": [
+        {
+          "id": "291F4D8B02186D6E",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "4B782122A20B917C",
+      "x": 2.0,
+      "y": 4.0,
+      "dependencies": [
+        "73CC6C13F0E3FAB0"
+      ],
+      "tasks": [
+        {
+          "id": "208AC75240B75D7C",
+          "type": "item",
+          "item": {
+            "id": "minecraft:iron_ingot"
+          },
+          "count": 16
+        }
+      ],
+      "rewards": [
+        {
+          "id": "29EF280A8DBA1E31",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "226E5E70D88D98CB",
+      "x": 4.0,
+      "y": 4.0,
+      "dependencies": [
+        "4B782122A20B917C"
+      ],
+      "tasks": [
+        {
+          "id": "30B6BF5B3F4EE9D6",
+          "type": "item",
+          "item": {
+            "id": "minecraft:iron_pickaxe"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "349551DD438B1A8C",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    },
+    {
+      "id": "4962EA8E196DF4B1",
+      "x": 6.0,
+      "y": 4.0,
+      "dependencies": [
+        "4B782122A20B917C"
+      ],
+      "tasks": [
+        {
+          "id": "11E2E6FC44B31522",
+          "type": "item",
+          "item": {
+            "id": "minecraft:bucket"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "id": "762B12D5BE8D4ACC",
+          "type": "xp_levels",
+          "xp_levels": 2
+        }
+      ]
+    },
+    {
+      "id": "2DD9FEC127D8EB68",
+      "x": 4.0,
+      "y": 6.0,
+      "dependencies": [
+        "226E5E70D88D98CB"
+      ],
+      "tasks": [
+        {
+          "id": "09F1A189C9BF71DC",
+          "type": "item",
+          "item": {
+            "id": "minecraft:diamond"
+          },
+          "count": 5
+        }
+      ],
+      "rewards": [
+        {
+          "id": "3335FFDE8A4EB3DD",
+          "type": "xp_levels",
+          "xp_levels": 5
+        },
+        {
+          "id": "115FBF7C82CF4BF6",
+          "type": "item",
+          "item": {
+            "id": "minecraft:golden_apple"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2594B3EABFA4FD40",
+      "x": 2.0,
+      "y": 6.0,
+      "dependencies": [
+        "226E5E70D88D98CB"
+      ],
+      "tasks": [
+        {
+          "id": "1CEDC9D6D4C9C147",
+          "type": "item",
+          "item": {
+            "id": "minecraft:redstone"
+          },
+          "count": 16
+        }
+      ],
+      "rewards": [
+        {
+          "id": "0376594B49D58342",
+          "type": "xp_levels",
+          "xp_levels": 3
+        }
+      ]
+    }
+  ]
+}

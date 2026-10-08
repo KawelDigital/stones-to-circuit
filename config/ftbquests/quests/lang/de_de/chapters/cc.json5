@@ -1,0 +1,81 @@
+{
+  "quest.1FB75E7FF0C8EBBE.title": "Computer sind Programme",
+  "quest.1FB75E7FF0C8EBBE.quest_desc": [
+    "CC: Tweaked bringt Computer ins Spiel, die du selbst programmierst. Die Sprache heißt Lua und ist leicht zu lernen.",
+    "",
+    "Mit Computern steuerst du Türen, Fabriken, Lager und sogar Roboter. Du lernst es hier Schritt für Schritt."
+  ],
+  "quest.3426AD433125D2DE.title": "Dein erster Computer",
+  "quest.3426AD433125D2DE.quest_desc": [
+    "Ein Computer besteht aus Stein, Redstone und einer Glasscheibe. Stelle ihn auf den Boden und klicke ihn mit der rechten Maustaste an.",
+    "",
+    "Du siehst ein schwarzes Terminal mit einem Eingabe-Prompt. Tippe zum Beispiel 'help' und drücke Enter."
+  ],
+  "quest.278825F0235D6544.title": "Hallo Welt!",
+  "quest.278825F0235D6544.quest_desc": [
+    "Tippe: edit hallo",
+    "Schreibe in den Editor: print(\"Hallo Welt!\")",
+    "Speichern mit Strg und dann S, Beenden mit Strg und dann E (der Editor zeigt es unten an).",
+    "Tippe dann einfach: hallo",
+    "",
+    "Gratuliere, dein erstes Programm läuft! Die Hilfe zu jedem Befehl bekommst du mit: help <name>."
+  ],
+  "quest.34E0FBD0AA924007.title": "Ein Monitor",
+  "quest.34E0FBD0AA924007.quest_desc": [
+    "Monitore zeigen Text größer und in Farbe. Stelle einen Monitor direkt neben deinen Computer: Er wird automatisch verbunden.",
+    "",
+    "Mit mehreren Monitoren nebeneinander baust du eine große Anzeige. Programme schreiben mit peripheral.find(\"monitor\") darauf."
+  ],
+  "quest.580B34952D83F9F9.title": "Diskettenlaufwerk und Disketten",
+  "quest.580B34952D83F9F9.quest_desc": [
+    "Mit einem Laufwerk (Disk Drive) und Disketten tauschst du Programme zwischen Computern aus oder kopierst sie.",
+    "",
+    "Stelle das Laufwerk neben den Computer, lege eine Diskette hinein und kopiere zum Beispiel mit: copy hallo disk/hallo"
+  ],
+  "quest.66AC19642F05819F.title": "Kabel und Modems",
+  "quest.66AC19642F05819F.quest_desc": [
+    "Kabel (Networking Cable) und Kabelmodems (Wired Modem) verbinden Geräte über weite Strecken. Setze ein Modem an das Gerät, klicke es mit der rechten Maustaste an (es leuchtet rot), und das Gerät erscheint im Netzwerk.",
+    "",
+    "Im Computer siehst du die Geräte mit: peripherals"
+  ],
+  "quest.3CD23FE54A56F144.title": "Eine Turtle!",
+  "quest.3CD23FE54A56F144.quest_desc": [
+    "Turtles sind Roboter, die du programmierst. Sie fahren, graben, bauen und tragen Gegenstände. Du brauchst sie für Minen und Bauten.",
+    "",
+    "Eine Turtle braucht Brennstoff (zum Beispiel Kohle, mit 'refuel'). Ein Werkzeug (Spitzhacke) rüstest du mit: equip left (die Spitzhacke in der Hand)."
+  ],
+  "quest.1251EE40ECB8CD0E.title": "Die Turtle fährt los",
+  "quest.1251EE40ECB8CD0E.quest_desc": [
+    "Probiere diese Befehle im Terminal der Turtle:",
+    "• go forward 5 – fährt fünf Blöcke vor",
+    "• excavate 5 – gräbt ein Loch (braucht eine Spitzhacke)",
+    "• refuel – tankt mit Brennstoff aus dem Inventar",
+    "",
+    "In eigenen Programmen: turtle.forward(), turtle.dig(), turtle.place()."
+  ],
+  "quest.41583E52DA0C5E84.title": "Funk: Wireless und Ender-Modem",
+  "quest.41583E52DA0C5E84.quest_desc": [
+    "Funkmodems (Wireless Modem) funken über kurze Strecken. Das Ender-Modem (Wireless Modem Advanced) funkt unbegrenzt weit, auch zwischen Dimensionen.",
+    "",
+    "Damit sprechen Turtles und Computer miteinander. Das Ender-Modem ist die Grundlage unseres Turtle-Netzwerks im Kapitel zum Netzwerkspeicher."
+  ],
+  "quest.7E8E4B4D7CBC6711.title": "Pocket-Computer",
+  "quest.7E8E4B4D7CBC6711.quest_desc": [
+    "Ein Pocket-Computer ist ein Computer für die Tasche. Mit einem Ender-Modem als Upgrade greifst du von überall auf dein Lager zu."
+  ],
+  "quest.4C1717C54CB35E23.title": "Advanced-Computer",
+  "quest.4C1717C54CB35E23.quest_desc": [
+    "Advanced-Computer (goldene Variante) haben Farbe und Maus-Unterstützung. Ideal für Programme mit Knöpfen, wie unser ME-Terminal."
+  ],
+  "quest.4D64447B737D4B91.title": "Lua lernen",
+  "quest.4D64447B737D4B91.quest_desc": [
+    "Lua ist die Sprache der Computer. Grundlagen:",
+    "• Variablen: local zahl = 5",
+    "• Text ausgeben: print(\"Hallo\")",
+    "• Schleifen: for i = 1, 10 do print(i) end",
+    "• Bedingungen: if zahl > 3 then print(\"groß\") end",
+    "• Geräte: local m = peripheral.find(\"monitor\")",
+    "",
+    "Das ausführliche CC: Tweaked Handbuch findest du im Netz unter tweaked.cc."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "quest.308BE00A58EBCB9A.title": "Willkommen bei Stones to Circuit!",
+  "quest.308BE00A58EBCB9A.quest_desc": [
+    "Schön, dass du da bist! Dieses Modpack ist eine Reise von der Steinzeit bis zur vollautomatischen Computer-Fabrik.",
+    "",
+    "Die Welt besteht fast nur aus Stein. Du gräbst dich durch, findest Erze und baust dir Schritt für Schritt eine Maschinen-Welt auf.",
+    "",
+    "Dieses Buch erklärt dir jede Mod in kleinen Häppchen. Jedes Kapitel gehört zu einer Mod. Du musst nichts davon machen, aber es hilft dir beim Lernen und gibt Belohnungen.",
+    "",
+    "Klicke auf das Häkchen unten rechts, um diese Quest abzuschließen."
+  ],
+  "quest.510A326D701EA5B0.title": "So funktioniert das Questbuch",
+  "quest.510A326D701EA5B0.quest_desc": [
+    "Jedes Quadrat ist eine Quest. Klicke darauf, um zu lesen, was zu tun ist.",
+    "",
+    "Eine Quest ist erledigt, sobald alle Aufgaben abgehakt sind. Das passiert meist von allein, wenn du die geforderten Gegenstände im Inventar hast.",
+    "",
+    "Pfeile zeigen, welche Quest vor welcher kommt. Graue Quests sind noch gesperrt. Erledige zuerst die davor.",
+    "",
+    "Belohnungen bekommst du automatisch. Das Buch öffnest du über die Questbuch-Taste (siehe Steuerung) oder mit dem Quest-Buch-Gegenstand."
+  ],
+  "quest.7E1D4385DE33814D.title": "Rezepte nachschlagen mit JEI",
+  "quest.7E1D4385DE33814D.quest_desc": [
+    "JEI zeigt dir alle Gegenstände und Rezepte des Spiels. Du brauchst es ständig, deshalb lernst du es zuerst.",
+    "",
+    "• Halte die Maus über einen Gegenstand und drücke R, um zu sehen, wie man ihn herstellt.",
+    "• Drücke U, um zu sehen, wofür man ihn braucht.",
+    "• Die Liste rechts im Inventar durchsuchst du mit dem Textfeld unten.",
+    "",
+    "Probiere es gleich aus: Schau nach dem Rezept für eine Werkbank."
+  ],
+  "quest.5526B75543C0038E.title": "Jade: Was habe ich vor mir?",
+  "quest.5526B75543C0038E.quest_desc": [
+    "Jade zeigt dir oben am Bildschirm, welchen Block oder welches Wesen du gerade anschaust. Bei Maschinen siehst du auch Füllstände und Besitzer.",
+    "",
+    "AppleSkin ergänzt im Inventar, wie viel Hunger ein Essen stillt."
+  ],
+  "quest.513D624F49FDCCB6.title": "Deine Stein-Welt",
+  "quest.513D624F49FDCCB6.quest_desc": [
+    "Du bist in einer Welt aus massivem Stein. Es gibt keine Bäume und keine Hügel, aber überall Erze unter dir.",
+    "",
+    "Grabe nach unten (aber niemals genau senkrecht, sonst fällst du in Lava!) und baue Stufen. Schau dabei auf die Erze in den Wänden.",
+    "",
+    "Als Starthilfe schenkt dir die nächste Quest Setzlinge, Erde und Knochenmehl, damit du dir Holz züchten kannst."
+  ],
+  "quest.7A085906B72AB591.title": "Dein Starter-Paket",
+  "quest.7A085906B72AB591.quest_desc": [
+    "Hier ist deine Grundausstattung für den Start.",
+    "",
+    "Setze Erde auf den Boden (Stein trägt keine Pflanzen), pflanze einen Setzling und streue Knochenmehl darauf. So wächst in Sekunden ein Baum.",
+    "",
+    "Hole dir das Paket mit dem Häkchen ab."
+  ],
+  "quest.5942A302995891DF.title": "Tipps für Einsteiger",
+  "quest.5942A302995891DF.quest_desc": [
+    "• Speichere nichts selbst: Das Pack legt automatisch Sicherungen deiner Welt an (FTB Backups).",
+    "• Baue früh ein Bett und lege eine Fackel-Reihe, damit du den Weg zurückfindest.",
+    "• Trage immer ein paar Fackeln, Essen und eine Spitzhacke bei dir.",
+    "• Wenn du nicht weiter weißt: Schau ins Kapitel der jeweiligen Mod, jedes erklärt die Grundlagen.",
+    "• Alle Quests sind freiwillig. Überspringe, was dich nicht interessiert."
+  ],
+  "quest.208FC35B1FF1A894.title": "Für Fortgeschrittene",
+  "quest.208FC35B1FF1A894.quest_desc": [
+    "Wenn du die Grundlagen kannst, findest du im Kapitel Experten weitere Ideen: vollautomatische Lager, Auto-Crafting, Turtles, die Schlösser bauen, und vieles mehr.",
+    "",
+    "Dort gibt es keine festen Anleitungen, sondern Herausforderungen."
+  ]
+}
