@@ -1,0 +1,334 @@
+{
+	id: "1194FDBB3DA36036"
+	group: ""
+	order_index: 16
+	filename: "mi"
+	icon: {
+		id: "modern_industrialization:steam_mining_drill"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "modern_industrialization:steam_mining_drill"
+				count: 1
+			}
+			id: "0BF819540E4CB0FD"
+			tasks: [
+				{
+					id: "522AF3F73C2B54B4"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "0FD830BDDC66733C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["0BF819540E4CB0FD"]
+			id: "097AA98ACEE96149"
+			tasks: [
+				{
+					id: "6DEF51E1516BAD61"
+					type: "item"
+					item: {
+						id: "modern_industrialization:forge_hammer"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "330C509DB96BD219"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["097AA98ACEE96149"]
+			id: "4835122F3908B5B4"
+			tasks: [
+				{
+					id: "0A73E5D494044F95"
+					type: "item"
+					item: {
+						id: "modern_industrialization:bronze_plate"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "12C9851D58CF838E"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["4835122F3908B5B4"]
+			id: "4788B63597B234B2"
+			tasks: [
+				{
+					id: "343F651E748B1D22"
+					type: "item"
+					item: {
+						id: "modern_industrialization:bronze_machine_casing"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "0EC3A1485332650F"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["4788B63597B234B2"]
+			id: "4D7C317517F7A7D2"
+			tasks: [
+				{
+					id: "6355D48110F5D5E3"
+					type: "item"
+					item: {
+						id: "modern_industrialization:bronze_boiler"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "6545B99395999D19"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["4D7C317517F7A7D2"]
+			id: "61236F3DEDAA2427"
+			tasks: [
+				{
+					id: "30FF7AF8AB8A6B99"
+					type: "item"
+					item: {
+						id: "modern_industrialization:bronze_furnace"
+						count: 1
+					}
+				}
+				{
+					id: "59F9F0C6C7B920EA"
+					type: "item"
+					item: {
+						id: "modern_industrialization:bronze_macerator"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "613D398DF9A17509"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["61236F3DEDAA2427"]
+			id: "7A8066D6FDBBF21E"
+			tasks: [
+				{
+					id: "44566C2377AFACF4"
+					type: "item"
+					item: {
+						id: "modern_industrialization:steam_mining_drill"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5788BECEB73DFFBD"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["7A8066D6FDBBF21E"]
+			id: "245338C3404A55FA"
+			tasks: [
+				{
+					id: "120DEBFF5908B4FC"
+					type: "item"
+					item: {
+						id: "modern_industrialization:coke_oven"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "07414C38726F5FA4"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["245338C3404A55FA"]
+			id: "42FC61751169D417"
+			tasks: [
+				{
+					id: "5A17BF9E0A83983A"
+					type: "item"
+					item: {
+						id: "modern_industrialization:steel_ingot"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "7514EC2748124267"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			dependencies: ["42FC61751169D417"]
+			id: "7C06E96E19B16160"
+			tasks: [
+				{
+					id: "10103046E5318783"
+					type: "item"
+					item: {
+						id: "modern_industrialization:electronic_circuit"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "36E41235080274A7"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["7C06E96E19B16160"]
+			id: "4EF0E7C8B32838EE"
+			tasks: [
+				{
+					id: "0F5B71F452EA36AA"
+					type: "item"
+					item: {
+						id: "modern_industrialization:electric_furnace"
+						count: 1
+					}
+				}
+				{
+					id: "1B27592064B9382B"
+					type: "item"
+					item: {
+						id: "modern_industrialization:electric_macerator"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5880CE2C1565274D"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["4EF0E7C8B32838EE"]
+			optional: true
+			id: "769B8628193DC14C"
+			tasks: [
+				{
+					id: "2B32DAFDF8F02946"
+					type: "item"
+					item: {
+						id: "modern_industrialization:electric_blast_furnace"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "15AC62E6AD89573A"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 4.0d
+			dependencies: ["769B8628193DC14C"]
+			optional: true
+			id: "0ADD7958AC40E5E2"
+			tasks: [
+				{
+					id: "5CA95E9661A571AD"
+					type: "item"
+					item: {
+						id: "modern_industrialization:electric_quarry"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "46570925A121D662"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+		}
+	]
+}

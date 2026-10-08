@@ -1,0 +1,176 @@
+{
+	id: "24B373DD26B10695"
+	group: ""
+	order_index: 20
+	filename: "evilcraft"
+	icon: {
+		id: "evilcraft:blood_infuser"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "evilcraft:blood_infuser"
+				count: 1
+			}
+			id: "04AA47254E89C844"
+			tasks: [
+				{
+					id: "3FFE4BF2F7636E05"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "3B132776CF73138A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["04AA47254E89C844"]
+			id: "328413E573E90C59"
+			tasks: [
+				{
+					id: "774C9FEC1AE79270"
+					type: "item"
+					item: {
+						id: "evilcraft:dark_gem"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "047460FB17E59D16"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["328413E573E90C59"]
+			id: "5EB34546F82D1F6A"
+			tasks: [
+				{
+					id: "4256FCB2A3583418"
+					type: "item"
+					item: {
+						id: "evilcraft:blood_extractor"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4639A7D787C6AB45"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["5EB34546F82D1F6A"]
+			id: "6D290220FEF1662E"
+			tasks: [
+				{
+					id: "79C11680ABE8C1EF"
+					type: "item"
+					item: {
+						id: "evilcraft:blood_infuser"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "36FD9130A66CC9C0"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["6D290220FEF1662E"]
+			id: "18EFB890602AB895"
+			tasks: [
+				{
+					id: "0CA5C17B6831B8D3"
+					type: "item"
+					item: {
+						id: "evilcraft:blood_orb_empty"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1346C160AB962C9D"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["18EFB890602AB895"]
+			id: "0C927046F98E07CF"
+			tasks: [
+				{
+					id: "5E467347CE72E045"
+					type: "item"
+					item: {
+						id: "evilcraft:blood_chest"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4B4299F0118CBBBF"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["0C927046F98E07CF"]
+			optional: true
+			id: "6E49CD37E4431076"
+			tasks: [
+				{
+					id: "647C5EB86B7E3C17"
+					type: "item"
+					item: {
+						id: "evilcraft:broom"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "18A034DD6BEBB5A5"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+	]
+}

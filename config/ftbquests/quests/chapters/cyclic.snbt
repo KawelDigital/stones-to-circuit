@@ -1,10 +1,10 @@
 {
-	id: "0772A1F000AC15F1"
+	id: "562B1BA6EB863329"
 	group: ""
-	order_index: 28
-	filename: "ars"
+	order_index: 18
+	filename: "cyclic"
 	icon: {
-		id: "ars_nouveau:novice_spell_book"
+		id: "cyclic:crafter"
 		count: 1
 	}
 	default_quest_shape: ""
@@ -14,19 +14,19 @@
 			x: 0.0d
 			y: 0.0d
 			icon: {
-				id: "ars_nouveau:novice_spell_book"
+				id: "cyclic:crafter"
 				count: 1
 			}
-			id: "70265D65743E28F0"
+			id: "064501ED1B16112B"
 			tasks: [
 				{
-					id: "34BCF9731F2DA921"
+					id: "1D24021B52A4DFBB"
 					type: "checkmark"
 				}
 			]
 			rewards: [
 				{
-					id: "6C2F4A8A776F7A02"
+					id: "67FB79DA1C8BB263"
 					type: "xp_levels"
 					xp_levels: 2
 				}
@@ -35,45 +35,44 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			dependencies: ["70265D65743E28F0"]
-			id: "69B13F465EEA0A56"
+			dependencies: ["064501ED1B16112B"]
+			id: "788A8DDEF27E76C9"
 			tasks: [
 				{
-					id: "6D322831AE0D823E"
+					id: "66CC0918904EE4B0"
 					type: "item"
 					item: {
-						id: "ars_nouveau:worn_notebook"
+						id: "cyclic:crafter"
 						count: 1
 					}
 				}
 			]
 			rewards: [
 				{
-					id: "721E72AD398FFA3A"
+					id: "6EC25D2EB61C17F4"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 3
 				}
 			]
 		}
 		{
 			x: 4.0d
 			y: 0.0d
-			dependencies: ["69B13F465EEA0A56"]
-			id: "127C9A605D7F7E57"
+			dependencies: ["788A8DDEF27E76C9"]
+			id: "2D8C4B5E64A687CD"
 			tasks: [
 				{
-					id: "501196DE47F9169C"
+					id: "2EC1EAD518B22546"
 					type: "item"
 					item: {
-						id: "ars_nouveau:source_gem"
+						id: "cyclic:collector"
 						count: 1
 					}
-					count: 4
 				}
 			]
 			rewards: [
 				{
-					id: "1F1316A2A1DCA642"
+					id: "22BF25961CD04EB9"
 					type: "xp_levels"
 					xp_levels: 3
 				}
@@ -82,116 +81,116 @@
 		{
 			x: 6.0d
 			y: 0.0d
-			dependencies: ["127C9A605D7F7E57"]
-			id: "30D498A5B162D0CC"
+			dependencies: ["2D8C4B5E64A687CD"]
+			id: "276DF037EFDC0CEB"
 			tasks: [
 				{
-					id: "2306C5B116E62901"
+					id: "3527BB143DEFDB82"
 					type: "item"
 					item: {
-						id: "ars_nouveau:novice_spell_book"
+						id: "cyclic:harvester"
 						count: 1
 					}
 				}
 			]
 			rewards: [
 				{
-					id: "0FB2A886889954E5"
-					type: "xp_levels"
-					xp_levels: 4
-				}
-			]
-		}
-		{
-			x: 8.0d
-			y: 0.0d
-			dependencies: ["30D498A5B162D0CC"]
-			id: "62B6E296BC7B9832"
-			tasks: [
-				{
-					id: "637FA9ED519A8EE4"
-					type: "item"
-					item: {
-						id: "ars_nouveau:scribes_table"
-						count: 1
-					}
-				}
-			]
-			rewards: [
-				{
-					id: "2D6B6C903F052DC3"
-					type: "xp_levels"
-					xp_levels: 4
-				}
-			]
-		}
-		{
-			x: 10.0d
-			y: 0.0d
-			dependencies: ["62B6E296BC7B9832"]
-			id: "44D99230A5DF1779"
-			tasks: [
-				{
-					id: "10ABE1ADEF378A72"
-					type: "item"
-					item: {
-						id: "ars_nouveau:source_jar"
-						count: 1
-					}
-				}
-			]
-			rewards: [
-				{
-					id: "570B93CBB8587773"
-					type: "xp_levels"
-					xp_levels: 4
-				}
-			]
-		}
-		{
-			x: 10.0d
-			y: 2.0d
-			dependencies: ["44D99230A5DF1779"]
-			id: "1550457CDFE584BD"
-			tasks: [
-				{
-					id: "100CFDEDF2FDFDAF"
-					type: "item"
-					item: {
-						id: "ars_nouveau:enchanting_apparatus"
-						count: 1
-					}
-				}
-			]
-			rewards: [
-				{
-					id: "0FD4B2EE03A91AE9"
-					type: "xp_levels"
-					xp_levels: 6
-				}
-			]
-		}
-		{
-			x: 8.0d
-			y: 2.0d
-			dependencies: ["1550457CDFE584BD"]
-			id: "47AF4053E1EE4182"
-			tasks: [
-				{
-					id: "1A61C7FF05DC6077"
-					type: "item"
-					item: {
-						id: "ars_nouveau:magebloom"
-						count: 1
-					}
-					count: 4
-				}
-			]
-			rewards: [
-				{
-					id: "7B6797FCD60D94E1"
+					id: "18D42EA22B54F5AF"
 					type: "xp_levels"
 					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["276DF037EFDC0CEB"]
+			id: "6C4BBF2F97703422"
+			tasks: [
+				{
+					id: "55B20C9CCA65BF97"
+					type: "item"
+					item: {
+						id: "cyclic:breaker"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0AA3FC9D07741BBD"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["6C4BBF2F97703422"]
+			id: "12FF815A9BCB3467"
+			tasks: [
+				{
+					id: "63645A9B1CF95602"
+					type: "item"
+					item: {
+						id: "cyclic:generator_solar"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1AAAAB16421D29E4"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["12FF815A9BCB3467"]
+			id: "6312ACA8B107E257"
+			tasks: [
+				{
+					id: "08639DF5AC453903"
+					type: "item"
+					item: {
+						id: "cyclic:battery"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "21A279FDAB9AF023"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["6312ACA8B107E257"]
+			optional: true
+			id: "5C6686AD941CAFA2"
+			tasks: [
+				{
+					id: "474DA2D058A917B5"
+					type: "item"
+					item: {
+						id: "cyclic:ender_bag"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "47D40E6949CF43A0"
+					type: "xp_levels"
+					xp_levels: 4
 				}
 			]
 		}

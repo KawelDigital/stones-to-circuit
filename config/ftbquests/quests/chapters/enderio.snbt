@@ -1,0 +1,295 @@
+{
+	id: "7A46ADF0010DA400"
+	group: ""
+	order_index: 15
+	filename: "enderio"
+	icon: {
+		id: "enderio:alloy_smelter"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "enderio:alloy_smelter"
+				count: 1
+			}
+			id: "4ABCBBE1DE2FB02D"
+			tasks: [
+				{
+					id: "0792E11574D6B99B"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "29D84F3E9E4892D4"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["4ABCBBE1DE2FB02D"]
+			id: "6B03BE99AC4AB3D3"
+			tasks: [
+				{
+					id: "30BC254BD77BC246"
+					type: "item"
+					item: {
+						id: "enderio:alloy_smelter"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "25BA63563E0D1B5E"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["6B03BE99AC4AB3D3"]
+			id: "4E3B1F491A898641"
+			tasks: [
+				{
+					id: "356046EC0399B6B9"
+					type: "item"
+					item: {
+						id: "enderio:conductive_alloy_ingot"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "0D264678F490DB96"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["4E3B1F491A898641"]
+			id: "60C14A35F4158EFB"
+			tasks: [
+				{
+					id: "431CB17A433F4434"
+					type: "item"
+					item: {
+						id: "enderio:energetic_alloy_ingot"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "3FA99C2BEB4E81C7"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["60C14A35F4158EFB"]
+			id: "15AD5669EDB1241D"
+			tasks: [
+				{
+					id: "0E3DED25B16A4227"
+					type: "item"
+					item: {
+						id: "enderio:basic_capacitor"
+						count: 1
+					}
+				}
+				{
+					id: "7C661A005AA6649F"
+					type: "item"
+					item: {
+						id: "enderio:basic_capacitor_bank"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "2818E7A122CB3980"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["15AD5669EDB1241D"]
+			id: "73B168DD16944B8E"
+			tasks: [
+				{
+					id: "2692FE3BB45A229C"
+					type: "item"
+					item: {
+						id: "enderio:sag_mill"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3F8903D42F3B0092"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["73B168DD16944B8E"]
+			id: "704D23CFAAB11FF4"
+			tasks: [
+				{
+					id: "78F697254E85A53F"
+					type: "item"
+					item: {
+						id: "enderio:stirling_generator"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3B66BD99DB0A0020"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["704D23CFAAB11FF4"]
+			id: "76FB1D5738F766C7"
+			tasks: [
+				{
+					id: "116F70AE70E23244"
+					type: "item"
+					item: {
+						id: "enderio:conduit"
+						count: 1
+					}
+					count: 8
+				}
+				{
+					id: "7A77DBA4DD160D38"
+					type: "item"
+					item: {
+						id: "enderio:conduit_probe"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1B6AD5308F6B74AA"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["76FB1D5738F766C7"]
+			id: "2AC204E954E01B8A"
+			tasks: [
+				{
+					id: "1F736F1718DB863D"
+					type: "item"
+					item: {
+						id: "enderio:dark_steel_ingot"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "30C3201F43B27476"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			dependencies: ["2AC204E954E01B8A"]
+			id: "3CF7C2315DEB2F95"
+			tasks: [
+				{
+					id: "0AF041BC6F443E81"
+					type: "item"
+					item: {
+						id: "enderio:yeta_wrench"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "71C9319F0D5EC599"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["3CF7C2315DEB2F95"]
+			optional: true
+			id: "4645750B422DC8E7"
+			tasks: [
+				{
+					id: "1742A2B769BEDB86"
+					type: "item"
+					item: {
+						id: "enderio:travel_anchor"
+						count: 1
+					}
+				}
+				{
+					id: "718FF339335EA8A2"
+					type: "item"
+					item: {
+						id: "enderio:staff_of_travelling"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "43B1535D47EF3592"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,169 @@
+{
+	id: "2F8639F242F59398"
+	group: ""
+	order_index: 19
+	filename: "integrated"
+	icon: {
+		id: "integrateddynamics:logic_programmer"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "integrateddynamics:logic_programmer"
+				count: 1
+			}
+			id: "79D61FA2B78FE6BA"
+			tasks: [
+				{
+					id: "2D6613F237551C36"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "292A040806894C55"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["79D61FA2B78FE6BA"]
+			id: "6FDDB5EE915B6A0F"
+			tasks: [
+				{
+					id: "5744712620911086"
+					type: "item"
+					item: {
+						id: "integrateddynamics:menril_berries"
+						count: 1
+					}
+					count: 4
+				}
+			]
+			rewards: [
+				{
+					id: "366091EAE94175B2"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["6FDDB5EE915B6A0F"]
+			id: "029348462E4F25D1"
+			tasks: [
+				{
+					id: "5B73A2D0B5A5574C"
+					type: "item"
+					item: {
+						id: "integrateddynamics:cable"
+						count: 1
+					}
+					count: 16
+				}
+			]
+			rewards: [
+				{
+					id: "1C05C9934DAEEE78"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["029348462E4F25D1"]
+			id: "5A1CC0AFFA64305F"
+			tasks: [
+				{
+					id: "668E9153A3196159"
+					type: "item"
+					item: {
+						id: "integrateddynamics:logic_programmer"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "2E8DDB2A4E15E650"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["5A1CC0AFFA64305F"]
+			id: "313A18C4F1F9D350"
+			tasks: [
+				{
+					id: "54D2F11F97D6C077"
+					type: "item"
+					item: {
+						id: "integrateddynamics:part_inventory_reader"
+						count: 1
+					}
+				}
+				{
+					id: "4385A91F3B28E02D"
+					type: "item"
+					item: {
+						id: "integrateddynamics:part_redstone_writer"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "34D2A58A3D43B522"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["313A18C4F1F9D350"]
+			id: "7549A7F85881A982"
+			tasks: [
+				{
+					id: "4AA1CABD0457A595"
+					type: "item"
+					item: {
+						id: "integratedtunnels:part_importer_item"
+						count: 1
+					}
+				}
+				{
+					id: "0144DD0F1AF93218"
+					type: "item"
+					item: {
+						id: "integratedtunnels:part_exporter_item"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "64402EE02E320A92"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+	]
+}

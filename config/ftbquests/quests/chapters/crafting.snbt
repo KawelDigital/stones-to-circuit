@@ -1,7 +1,7 @@
 {
 	id: "758237FF811226C9"
 	group: ""
-	order_index: 21
+	order_index: 27
 	filename: "crafting"
 	icon: {
 		id: "netstorage:auto_crafter"

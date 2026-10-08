@@ -1,12 +1,12 @@
 name = "Stones to Circuit"
 author = "Finn"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dfaf192f3372b9f7b25b27e979b0b329981a410e1c6fb7c62cc84e4d02af28bf"
+hash = "574976238dd2f2f78d0352dafa2b7d43b4be7ed149bf296adbe0bdce9767ab8c"
 
 [versions]
 minecraft = "1.21.1"

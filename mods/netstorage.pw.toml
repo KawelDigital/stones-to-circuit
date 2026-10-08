@@ -1,8 +1,8 @@
 name = "CC Network Storage"
-filename = "netstorage-0.3.0.jar"
+filename = "netstorage-0.3.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/KawelDigital/stones-to-circuit/releases/download/v1.0.0/netstorage-0.3.0.jar"
+url = "https://github.com/KawelDigital/stones-to-circuit/releases/download/v1.1.0/netstorage-0.3.1.jar"
 hash-format = "sha512"
-hash = "43b21964db98fa98fa27072d4899be52e0af33832735d78b277cc0282359e440a7995896d21d6f187254999044961f745ff8214bfbc4ac8299a5742954a3e368"
+hash = "d788ce1b9dc6e2c65594790a27edeae72f04e5d8b4ded27c5233123464dedcd2dbae83da6bdeea01e26ccb2cf9013a8897b1b92b54ae3fc780f606db873a413e"

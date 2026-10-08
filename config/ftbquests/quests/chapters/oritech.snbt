@@ -1,0 +1,223 @@
+{
+	id: "45ADC3D897E2E7E3"
+	group: ""
+	order_index: 17
+	filename: "oritech"
+	icon: {
+		id: "oritech:pulverizer_block"
+		count: 1
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			icon: {
+				id: "oritech:pulverizer_block"
+				count: 1
+			}
+			id: "2850CCDAEC7ED7C0"
+			tasks: [
+				{
+					id: "51F61275B39C2270"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "278D4573E1E2B24A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["2850CCDAEC7ED7C0"]
+			id: "6D24B1FE232C4A5E"
+			tasks: [
+				{
+					id: "759734CD833A1298"
+					type: "item"
+					item: {
+						id: "oritech:nickel_ingot"
+						count: 1
+					}
+					count: 8
+				}
+			]
+			rewards: [
+				{
+					id: "406637EC6DB50C63"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["6D24B1FE232C4A5E"]
+			id: "495E2BAAF7E5F9D2"
+			tasks: [
+				{
+					id: "01F89C8C684C47D1"
+					type: "item"
+					item: {
+						id: "oritech:pulverizer_block"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5978880AC21AA0F2"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["495E2BAAF7E5F9D2"]
+			id: "5319C643DF6C9EA1"
+			tasks: [
+				{
+					id: "600C473BB8915795"
+					type: "item"
+					item: {
+						id: "oritech:basic_generator_block"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "488F17E91B33C843"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["5319C643DF6C9EA1"]
+			id: "479EADEC997D5F51"
+			tasks: [
+				{
+					id: "2A7A1B288C28CAF9"
+					type: "item"
+					item: {
+						id: "oritech:machine_core_1"
+						count: 1
+					}
+					count: 2
+				}
+			]
+			rewards: [
+				{
+					id: "3574C3FABBFED95F"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["479EADEC997D5F51"]
+			id: "41E1FF3B7D7B91AB"
+			tasks: [
+				{
+					id: "2A926508F8ACAEEA"
+					type: "item"
+					item: {
+						id: "oritech:centrifuge_block"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "39E9ECC4025E515D"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["41E1FF3B7D7B91AB"]
+			id: "2E43A94F1AB3C082"
+			tasks: [
+				{
+					id: "47354D029BDFB349"
+					type: "item"
+					item: {
+						id: "oritech:assembler_block"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5B57E27FA4B5A555"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["2E43A94F1AB3C082"]
+			id: "397A913104C755C1"
+			tasks: [
+				{
+					id: "01EF259C49B6BF30"
+					type: "item"
+					item: {
+						id: "oritech:big_solar_panel_block"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0C0899188B194C2E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["397A913104C755C1"]
+			optional: true
+			id: "54310B61E41FF8F2"
+			tasks: [
+				{
+					id: "3EC1AEEB4533077C"
+					type: "item"
+					item: {
+						id: "oritech:deep_drill_block"
+						count: 1
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1DB48B8E5A24FC61"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+		}
+	]
+}

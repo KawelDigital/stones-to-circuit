@@ -473,6 +473,220 @@
 	"quest.3CF7020356467771.quest_desc": ["Kabel leiten Strom zu Maschinen."]
 	"chapter.091F443D16F9D169.title": "Powah"
 	"chapter.091F443D16F9D169.chapter_subtitle": ["Strom aus Kristallen, Wasser und Lava."]
+	"quest.4ABCBBE1DE2FB02D.title": "Was ist Ender IO?"
+	"quest.4ABCBBE1DE2FB02D.quest_desc": [
+		"Ender IO bringt Maschinen mit Rohstoff-Veredelung, Legierungen und Konduits (platzsparende Leitungen für Strom, Gegenstände und Flüssigkeiten). Wie bei den meisten Technik-Mods brauchst du zuerst Strom."
+	]
+	"quest.6B03BE99AC4AB3D3.title": "Der Legierungsofen"
+	"quest.6B03BE99AC4AB3D3.quest_desc": [
+		"Im Legierungsofen verschmilzt du Metalle zu Legierungen. Zu Beginn kannst du ihn mit Brennstoff betreiben, später mit Strom."
+	]
+	"quest.4E3B1F491A898641.title": "Leitfähige Legierung"
+	"quest.4E3B1F491A898641.quest_desc": [
+		"Die erste Legierung: Kupfer, Eisen und Redstone ergeben leitfähiges Metall. Du brauchst es für Kabel und einfache Kondensatoren."
+	]
+	"quest.60C14A35F4158EFB.title": "Energetische Legierung"
+	"quest.60C14A35F4158EFB.quest_desc": [
+		"Aus Gold, Redstone und Glowstone entsteht die energetische Legierung für stärkere Bauteile."
+	]
+	"quest.15AD5669EDB1241D.title": "Kondensatoren"
+	"quest.15AD5669EDB1241D.quest_desc": [
+		"Kondensatoren bestimmen, wie viel Energie und Leistung eine Maschine bekommt. Sie stecken im Kondensator-Bank oder in Maschinen."
+	]
+	"quest.73B168DD16944B8E.title": "Die Schleifmühle (SAG Mill)"
+	"quest.73B168DD16944B8E.quest_desc": [
+		"Die Mühle zermahlt Erz und andere Materialien und liefert dabei mehr als der Ofen: ein wichtiger Schritt zur Erzverdopplung."
+	]
+	"quest.704D23CFAAB11FF4.title": "Strom erzeugen"
+	"quest.704D23CFAAB11FF4.quest_desc": [
+		"Der Stirling-Generator verbrennt Brennstoff zu Strom, Photovoltaik-Platten nutzen Sonnenlicht."
+	]
+	"quest.76FB1D5738F766C7.title": "Konduits"
+	"quest.76FB1D5738F766C7.quest_desc": [
+		"Konduits sind dünne Leitungen: Du setzt sie in einen Strang und verbindest die Seiten mit Maschinen. Mit dem Konduit-Messgerät (Probe) siehst du den Zustand."
+	]
+	"quest.2AC204E954E01B8A.title": "Dunkelstahl"
+	"quest.2AC204E954E01B8A.quest_desc": [
+		"Dunkelstahl ist die stärkere Metallstufe für Rüstung, Werkzeug und viele Maschinen."
+	]
+	"quest.3CF7C2315DEB2F95.title": "Der Yeta-Schraubenschlüssel"
+	"quest.3CF7C2315DEB2F95.quest_desc": [
+		"Mit dem Schraubenschlüssel baust du Maschinen ab, drehst sie und stellst Seiten ein."
+	]
+	"quest.4645750B422DC8E7.title": "Teleport-Anker"
+	"quest.4645750B422DC8E7.quest_desc": [
+		"Mit einem Teleport-Anker und dem Stab springst du zwischen Ankerpunkten."
+	]
+	"chapter.7A46ADF0010DA400.title": "Ender IO"
+	"chapter.7A46ADF0010DA400.chapter_subtitle": ["Legierungen, Kabel (Konduits) und Maschinen im Ender-Stil."]
+	"quest.0BF819540E4CB0FD.title": "Was ist Modern Industrialization?"
+	"quest.0BF819540E4CB0FD.quest_desc": [
+		"MI führt dich in Stufen vom Dampfzeitalter über Strom zu großen Mehrblock-Maschinen. Wichtig: Es gibt drei Stufen von Maschinen (Bronze/Dampf, Stahl, Elektrisch). Das Handbuch im Spiel (Guidebook) und JEI erklären die Rezepte."
+	]
+	"quest.097AA98ACEE96149.title": "Der Schmiedehammer"
+	"quest.097AA98ACEE96149.quest_desc": [
+		"Der Schmiedehammer macht aus Barren Platten und aus Erz Staub. Er ist dein erstes Werkzeug."
+	]
+	"quest.4835122F3908B5B4.title": "Bronze"
+	"quest.4835122F3908B5B4.quest_desc": [
+		"Bronze entsteht aus Kupfer und Zinn. Daraus baust du die Dampf-Maschinen."
+	]
+	"quest.4788B63597B234B2.title": "Bronze-Gehäuse"
+	"quest.4788B63597B234B2.quest_desc": ["Das Maschinengehäuse ist Basis der Bronze-Maschinen."]
+	"quest.4D7C317517F7A7D2.title": "Der Dampfkessel"
+	"quest.4D7C317517F7A7D2.quest_desc": [
+		"Der Kessel macht aus Wasser und Brennstoff Dampf. Dampf treibt die Maschinen der ersten Stufe an."
+	]
+	"quest.61236F3DEDAA2427.title": "Dampf-Maschinen"
+	"quest.61236F3DEDAA2427.quest_desc": [
+		"Dampf-Ofen, Mühle (Macerator), Kompressor und Mischer sind die ersten Verarbeitungs-Maschinen."
+	]
+	"quest.7A8066D6FDBBF21E.title": "Dampf-Bohrer"
+	"quest.7A8066D6FDBBF21E.quest_desc": [
+		"Der Dampf-Bohrer baut Erz ab und ist dein erstes Werkzeug zum Graben."
+	]
+	"quest.245338C3404A55FA.title": "Der Koksofen"
+	"quest.245338C3404A55FA.quest_desc": [
+		"Der Koksofen ist eine kleine Mehrblock-Maschine, die Kohle zu Koks verarbeitet. Koks brauchst du für Stahl."
+	]
+	"quest.42FC61751169D417.title": "Stahl"
+	"quest.42FC61751169D417.quest_desc": [
+		"Stahl ist der Rohstoff der zweiten Stufe. Du stellst ihn aus Eisen und Koks her."
+	]
+	"quest.7C06E96E19B16160.title": "Schaltkreise"
+	"quest.7C06E96E19B16160.quest_desc": [
+		"Elektronische Schaltkreise sind Zutat für alle elektrischen Maschinen."
+	]
+	"quest.4EF0E7C8B32838EE.title": "Elektrische Maschinen"
+	"quest.4EF0E7C8B32838EE.quest_desc": [
+		"Mit Strom arbeiten Ofen, Mühle und Co. schneller. Elektrische Hochöfen sind Mehrblock-Maschinen für Stahl und mehr."
+	]
+	"quest.769B8628193DC14C.title": "Elektrischer Hochofen"
+	"quest.769B8628193DC14C.quest_desc": [
+		"Der große Hochofen ist eine Mehrblock-Maschine: Das Handbuch im Spiel zeigt den Bauplan."
+	]
+	"quest.0ADD7958AC40E5E2.title": "Elektrischer Steinbruch"
+	"quest.0ADD7958AC40E5E2.quest_desc": [
+		"Gräbt automatisch ein großes Gebiet ab. Eine Rohstoff-Quelle ohne Zutun."
+	]
+	"chapter.1194FDBB3DA36036.title": "Modern Industrialization"
+	"chapter.1194FDBB3DA36036.chapter_subtitle": ["Vom Dampf bis zur Fusion, mit Mehrblock-Maschinen."]
+	"quest.2850CCDAEC7ED7C0.title": "Was ist Oritech?"
+	"quest.2850CCDAEC7ED7C0.quest_desc": [
+		"Oritech ist eine Technik-Mod mit einfachen Start-Maschinen und mächtigen Spätspiel-Anlagen (Teilchenbeschleuniger, Reaktoren, Tiefbohrer). Das Handbuch im Spiel führt dich Schritt für Schritt."
+	]
+	"quest.6D24B1FE232C4A5E.title": "Nickel"
+	"quest.6D24B1FE232C4A5E.quest_desc": [
+		"Nickel ist das Grundmetall der Mod. Du findest es als Erz oder bekommst es durch Verarbeiten."
+	]
+	"quest.495E2BAAF7E5F9D2.title": "Der Pulverisierer"
+	"quest.495E2BAAF7E5F9D2.quest_desc": [
+		"Die erste Maschine: Sie zerkleinert Erz zu Staub und verdoppelt so die Ausbeute."
+	]
+	"quest.5319C643DF6C9EA1.title": "Der einfache Generator"
+	"quest.5319C643DF6C9EA1.quest_desc": [
+		"Der Basis-Generator verbrennt Brennstoff zu Strom für deine ersten Maschinen."
+	]
+	"quest.479EADEC997D5F51.title": "Maschinenkerne"
+	"quest.479EADEC997D5F51.quest_desc": [
+		"Maschinenkerne in sieben Stufen steckst du in Maschinen, um sie zu verbessern."
+	]
+	"quest.41E1FF3B7D7B91AB.title": "Die Zentrifuge"
+	"quest.41E1FF3B7D7B91AB.quest_desc": ["Trennt Stoffe in ihre Bestandteile."]
+	"quest.2E43A94F1AB3C082.title": "Der Assembler"
+	"quest.2E43A94F1AB3C082.quest_desc": ["Baut aus mehreren Zutaten komplexere Teile."]
+	"quest.397A913104C755C1.title": "Große Solarpanels"
+	"quest.397A913104C755C1.quest_desc": ["Große Sonnenkollektoren liefern Strom ohne Brennstoff."]
+	"quest.54310B61E41FF8F2.title": "Der Tiefbohrer"
+	"quest.54310B61E41FF8F2.quest_desc": [
+		"Der Tiefbohrer gräbt senkrecht in die Tiefe und holt Erze herauf."
+	]
+	"chapter.45ADC3D897E2E7E3.title": "Oritech"
+	"chapter.45ADC3D897E2E7E3.chapter_subtitle": ["Moderne Maschinen mit Bohrern, Reaktoren und Drohnen."]
+	"quest.064501ED1B16112B.title": "Was ist Cyclic?"
+	"quest.064501ED1B16112B.quest_desc": [
+		"Cyclic ist eine Sammlung praktischer Dinge: Automatisierungs-Blöcke (Sammler, Ernter, Brecher), Energie-Blöcke, Ender-Gegenstände und viele kleine Werkzeuge."
+	]
+	"quest.788A8DDEF27E76C9.title": "Der Auto-Crafter"
+	"quest.788A8DDEF27E76C9.quest_desc": [
+		"Der Cyclic-Crafter stellt Rezepte automatisch her, wenn du ihm die Zutaten gibst. Gut für kleine Fabriken."
+	]
+	"quest.2D8C4B5E64A687CD.title": "Der Sammler"
+	"quest.2D8C4B5E64A687CD.quest_desc": [
+		"Der Sammler hebt Gegenstände in einem Bereich auf und gibt sie in eine Kiste ab."
+	]
+	"quest.276DF037EFDC0CEB.title": "Der Ernter"
+	"quest.276DF037EFDC0CEB.quest_desc": [
+		"Der Ernter erntet reife Pflanzen in einem Bereich und pflanzt (je nach Einstellung) nach."
+	]
+	"quest.6C4BBF2F97703422.title": "Der Brecher"
+	"quest.6C4BBF2F97703422.quest_desc": [
+		"Der Brecher baut Blöcke vor sich ab, mit einer Werkzeug-Einstellung."
+	]
+	"quest.12FF815A9BCB3467.title": "Solar-Generator"
+	"quest.12FF815A9BCB3467.quest_desc": ["Erzeugt Strom aus Sonnenlicht."]
+	"quest.6312ACA8B107E257.title": "Batterien"
+	"quest.6312ACA8B107E257.quest_desc": [
+		"Batterien speichern Strom und können Maschinen im Inventar versorgen."
+	]
+	"quest.5C6686AD941CAFA2.title": "Ender-Beutel"
+	"quest.5C6686AD941CAFA2.quest_desc": [
+		"Der Ender-Beutel gibt dir Zugriff auf dein Ender-Lager, ohne eine Truhe aufzustellen."
+	]
+	"chapter.562B1BA6EB863329.title": "Cyclic"
+	"chapter.562B1BA6EB863329.chapter_subtitle": ["Viele praktische Maschinen, Äpfel und Werkzeuge."]
+	"quest.79D61FA2B78FE6BA.title": "Was ist Integrated Dynamics?"
+	"quest.79D61FA2B78FE6BA.quest_desc": [
+		"Integrated Dynamics ist eine 'Programmier-Mod' ohne Computer: Du liest Werte aus der Welt (zum Beispiel Inventar-Füllstand), verrechnest sie in Variablen und schaltest damit Dinge. Perfekt, wenn du CC magst, aber auch visuell arbeiten willst."
+		""
+		"Integrated Tunnels erweitert die Mod um Rohre, die Gegenstände, Flüssigkeiten und Energie bewegen."
+	]
+	"quest.6FDDB5EE915B6A0F.title": "Menril-Beeren"
+	"quest.6FDDB5EE915B6A0F.quest_desc": [
+		"Menril-Bäume wachsen in der Welt. Ihre Beeren und ihr Harz sind der Grundstoff für Leitungen und Tinten."
+	]
+	"quest.029348462E4F25D1.title": "Kabel"
+	"quest.029348462E4F25D1.quest_desc": ["Kabel verbinden alle Teile eines Netzwerks."]
+	"quest.5A1CC0AFFA64305F.title": "Der Logik-Programmierer"
+	"quest.5A1CC0AFFA64305F.quest_desc": [
+		"Hier baust du Variablen aus Blöcken und Berechnungen zusammen."
+	]
+	"quest.313A18C4F1F9D350.title": "Leser und Schreiber"
+	"quest.313A18C4F1F9D350.quest_desc": [
+		"Leser lesen Werte (zum Beispiel aus Inventaren), Schreiber setzen Werte (zum Beispiel Redstone). Beide setzt du als Teil an ein Kabel."
+	]
+	"quest.7549A7F85881A982.title": "Rohre mit Integrated Tunnels"
+	"quest.7549A7F85881A982.quest_desc": [
+		"Importer und Exporter ziehen und schieben Gegenstände, gesteuert durch deine Variablen."
+	]
+	"chapter.2F8639F242F59398.title": "Integrated Dynamics"
+	"chapter.2F8639F242F59398.chapter_subtitle": ["Logik, Variablen und programmierbare Rohre."]
+	"quest.04AA47254E89C844.title": "Was ist EvilCraft?"
+	"quest.04AA47254E89C844.quest_desc": [
+		"EvilCraft ist eine Magie-Mod rund um Blut und dunkle Kräfte: Du gewinnst Blut, stellst dunkle Edelsteine her und bekommst besondere Gegenstände wie den Besen oder das Blut-Orb. Das Handbuch im Spiel führt dich."
+	]
+	"quest.328413E573E90C59.title": "Dunkle Edelsteine"
+	"quest.328413E573E90C59.quest_desc": [
+		"Dunkle Edelsteine gewinnst du aus dunklem Erz im Stein. Sie sind die Grundzutat."
+	]
+	"quest.5EB34546F82D1F6A.title": "Der Blutextraktor"
+	"quest.5EB34546F82D1F6A.quest_desc": ["Der Extraktor gewinnt Blut aus Lebewesen in der Nähe."]
+	"quest.6D290220FEF1662E.title": "Der Blut-Infuser"
+	"quest.6D290220FEF1662E.quest_desc": [
+		"Mit dem Infuser verarbeitest du Blut und Zutaten zu neuen Gegenständen."
+	]
+	"quest.18EFB890602AB895.title": "Blut-Orb"
+	"quest.18EFB890602AB895.quest_desc": ["Der Orb speichert Blut und ist ein wichtiges Bauteil."]
+	"quest.0C927046F98E07CF.title": "Die Bluttruhe"
+	"quest.0C927046F98E07CF.quest_desc": [
+		"Eine Truhe, die nur durch Blut und Magie funktioniert. Praktisch für den Alltag."
+	]
+	"quest.6E49CD37E4431076.title": "Der Besen"
+	"quest.6E49CD37E4431076.quest_desc": [
+		"Der Besen ist ein Fluggerät, das du aus mehreren Teilen zusammensetzt."
+	]
+	"chapter.24B373DD26B10695.title": "EvilCraft"
+	"chapter.24B373DD26B10695.chapter_subtitle": ["Blut, dunkle Edelsteine und Gegenstände mit Charakter."]
 	"quest.0F8AA8E9291621DB.title": "Was ist AE2?"
 	"quest.0F8AA8E9291621DB.quest_desc": [
 		"Applied Energistics 2 (AE2) verwandelt Gegenstände in digitale Daten. Du baust ein ME-Netzwerk aus Kabeln, Laufwerken und Terminals."

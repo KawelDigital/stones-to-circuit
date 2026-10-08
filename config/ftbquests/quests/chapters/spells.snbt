@@ -1,7 +1,7 @@
 {
 	id: "25CAB25C285B6B26"
 	group: ""
-	order_index: 24
+	order_index: 30
 	filename: "spells"
 	icon: {
 		id: "irons_spellbooks:iron_spell_book"

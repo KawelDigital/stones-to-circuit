@@ -1,3 +1,5 @@
+![Stones to Circuit](banner.png)
+
 # Stones to Circuit
 
 Ein großes Modpack für **Minecraft 1.21.1 (NeoForge 21.1.256)**. Du startest auf einer winzigen Insel in einem Ozean mit Steinboden und baust dich über Sieben, Create, Mekanism, Immersive Engineering, Applied Energistics 2 und programmierbare Computer (CC: Tweaked) bis zur vollautomatischen Fabrik hoch.
@@ -9,14 +11,16 @@ Das Pack aktualisiert sich bei jedem Spielstart von selbst. Du musst nie wieder 
 ## Enthaltene Mods (Auswahl)
 
 * **Ressourcen:** Ex Deorum, Ex Compressum (Sieben und Hämmern), Mystical Agriculture, Productive Bees, Aquaculture
-* **Technik:** Create (+ Additions, Enchantment Industry, Central Kitchen), Mekanism (+ Generators, Additions, Tools), Immersive Engineering, Industrial Foregoing, PneumaticCraft, Powah, Iron Furnaces
+* **Technik:** Create (+ Additions, Enchantment Industry, Central Kitchen), Mekanism (+ Generators, Additions, Tools), Immersive Engineering, Industrial Foregoing, PneumaticCraft, Powah, Ender IO, Modern Industrialization, Oritech, Cyclic, Integrated Dynamics und Tunnels, Iron Furnaces
 * **Lager:** Applied Energistics 2 (+ Wireless Terminals, ME Requester, Extended AE, AppFlux, Applied Mekanistics), Refined Storage, Sophisticated Storage und Backpacks, Functional Storage, Tom's Simple Storage
 * **Computer:** CC: Tweaked und unser eigener Mod **CC Network Storage** (digitaler Speicher, Scanner, Drucker, Auto-Crafting; Programme `me`, `pocket_me`, `schloss`)
-* **Magie:** Ars Nouveau, Occultism, Iron's Spells 'n Spellbooks
+* **Magie:** Ars Nouveau, Occultism, Iron's Spells 'n Spellbooks, EvilCraft
 * **Essen:** Farmer's Delight, End's Delight
 * **FTB:** Quests, Chunks, Teams, Ultimine, Essentials, Backups
 * **Komfort und Technik:** JEI, Jade, AppleSkin, Xaero's Minimap und Weltkarte, Waystones, Lootr, Carry On, Curios, Polymorph, KubeJS, Almost Unified
 * **Leistung:** ModernFix, FerriteCore, Lithium, ImmediatelyFast, Entity Culling, Sodium (+ Extra), Iris (optional, für Shader), Spark, Chunky
+
+> Thermal und Botania gibt es für Minecraft 1.21.1 noch nicht. Ender IO, Modern Industrialization, Oritech und EvilCraft übernehmen diese Rollen.
 
 ## Installation (einmalig, ca. 5 Minuten)
 
